@@ -1,0 +1,56 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Article",
+                "import_path": "v1",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v1"
+            },
+            {
+                "import_name": "Nature",
+                "import_path": "v2",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v2"
+            },
+            {
+                "import_name": "Sports",
+                "import_path": "v3",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v3"
+            }
+        ],
+        "pro": [
+            {
+                "import_name": "Flavour",
+                "import_path": "v4",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v4"
+            },
+            {
+                "import_name": "Fashion",
+                "import_path": "v5",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v5"
+            },
+            {
+                "import_name": "Restaurant",
+                "import_path": "v6",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v6"
+            },
+            {
+                "import_name": "Technology",
+                "import_path": "v7",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v7"
+            },
+            {
+                "import_name": "Fitness",
+                "import_path": "v8",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v8"
+            },
+            {
+                "import_name": "Sports",
+                "import_path": "v9",
+                "preview_url": "https://demos.unfoldwp.com/eximious-magazine/v9"
+            }
+        ]
+    },
+    "plugins": {
+        "mailchimp-for-wp": "MailChimp for WordPress"
+    }
+}

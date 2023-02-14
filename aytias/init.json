@@ -1,0 +1,26 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Blog",
+                "import_path": "v1",
+                "preview_url": "https://preview.unfoldwp.com/aytias/"
+            }
+        ],
+        "pro": [
+            {
+                "import_name": "Mag",
+                "import_path": "v2",
+                "preview_url": "https://preview.unfoldwp.com/aytias-pro/"
+            },
+            {
+                "import_name": "Shop",
+                "import_path": "v3",
+                "preview_url": "https://preview.unfoldwp.com/aytias-shop/"
+            }
+        ]
+    },
+    "plugins": {
+        "mailchimp-for-wp": "MailChimp for WordPress"
+    }
+}
