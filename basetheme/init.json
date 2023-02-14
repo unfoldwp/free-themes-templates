@@ -40,7 +40,18 @@
             }
         ]
     },
-    "plugins": {
-        "mailchimp-for-wp": "MailChimp for WordPress"
-    }
+    "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "woocommerce",
+            "name": "WooCommerce",
+            "required": false,
+            "preselected": true
+        }
+    ]
 }
