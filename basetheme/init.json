@@ -4,39 +4,19 @@
             {
                 "import_name": "Blog",
                 "import_path": "v1",
-                "preview_url": "https://demos.unfoldwp.com/basetheme/v1"
-            },
-            {
-                "import_name": "Fashion",
-                "import_path": "v2",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v2"
-            },
-            {
-                "import_name": "Boxed",
-                "import_path": "v3",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v3"
+                "preview_url": "https://preview.unfoldwp.com/aytias/"
             }
         ],
         "pro": [
             {
-                "import_name": "Blog",
-                "import_path": "v4",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v4"
+                "import_name": "Mag",
+                "import_path": "v2",
+                "preview_url": "https://preview.unfoldwp.com/aytias-pro/"
             },
             {
-                "import_name": "Fashion",
-                "import_path": "v5",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v5"
-            },
-            {
-                "import_name": "Active",
-                "import_path": "v6",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v6"
-            },
-            {
-                "import_name": "Jenisha",
-                "import_path": "v7",
-                "preview_url": "https://demos.unfoldwp.com/blog-elite/v7"
+                "import_name": "Shop",
+                "import_path": "v3",
+                "preview_url": "https://preview.unfoldwp.com/aytias-shop/"
             }
         ]
     },
