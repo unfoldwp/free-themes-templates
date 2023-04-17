@@ -21,6 +21,18 @@
             "name": "MailChimp for WordPress",
             "required": false,
             "preselected": true
+        },
+        {
+            "slug": "wpforms-lite",
+            "name": "WPForms Lite",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "regenerate-thumbnails",
+            "name": "Regenerate Thumbnails",
+            "required": false,
+            "preselected": true
         }
     ]
 }
