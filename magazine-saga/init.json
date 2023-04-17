@@ -32,7 +32,7 @@
             "slug": "regenerate-thumbnails",
             "name": "Regenerate Thumbnails",
             "required": false,
-            "preselected": true
+            "preselected": false
         }
     ]
 }
