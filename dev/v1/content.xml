@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-04-20 09:27" -->
+	<!-- generator="WordPress/6.2" created="2023-04-20 16:46" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/magazine-saga</link>
 	<description></description>
-	<pubDate>Thu, 20 Apr 2023 09:27:18 +0000</pubDate>
+	<pubDate>Thu, 20 Apr 2023 16:46:15 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -718,6 +718,10 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1366;s:4:"file";s:77:"2023/04/women-lady-model-person-photography-wallpaper-1637635-pxhere.com_.jpg";s:8:"filesize";i:199552;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9162;}s:5:"large";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56876;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4246;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36410;}s:9:"1536x1536";a:5:{s:4:"file";s:79:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:107658;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:79:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:151743;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24702;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44272;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1637635-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15099;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[people-dance-balance-show-movement-ballerina-770415-pxhere.com]]></title>
@@ -1279,10 +1283,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:83:"2023/04/person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:359165;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13783;}s:5:"large";a:5:{s:4:"file";s:84:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86849;}s:9:"thumbnail";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6346;}s:12:"medium_large";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56298;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:158490;}s:9:"2048x2048";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:246228;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:223475;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38222;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68084;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23497;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4425,8 +4425,8 @@ https://vimeo.com/124858722
 		<category domain="post_tag" nicename="exercise"><![CDATA[Exercise]]></category>
 		<category domain="post_tag" nicename="expert"><![CDATA[Expert]]></category>
 		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4652,8 +4652,8 @@ https://vimeo.com/124858722
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4880,8 +4880,8 @@ https://vimeo.com/124858722
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="life"><![CDATA[life]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -5578,8 +5578,8 @@ https://vimeo.com/124858722
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="amazon"><![CDATA[Amazon]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 						<wp:postmeta>
@@ -6505,8 +6505,8 @@ https://vimeo.com/124858722
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-04 05:22:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-04 05:22:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-13 08:31:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-13 08:31:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-20 16:31:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-20 16:31:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[why-now-is-the-perfect-time-to-visit-asia]]></wp:post_name>
@@ -6518,6 +6518,7 @@ https://vimeo.com/124858722
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="asia"><![CDATA[Asia]]></category>
 		<category domain="category" nicename="cover-stories"><![CDATA[Cover Stories]]></category>
+		<category domain="post_format" nicename="post-format-quote"><![CDATA[Quote]]></category>
 		<category domain="post_tag" nicename="time"><![CDATA[time]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="visit"><![CDATA[visit]]></category>
@@ -6975,8 +6976,8 @@ https://vimeo.com/124858722
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
-		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
 		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
+		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 		<category domain="post_tag" nicename="trip"><![CDATA[trip]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
@@ -7424,8 +7425,8 @@ https://vimeo.com/124858722
 <p>Nulla hendrerit ante ut augue mollis, aliquam rhoncus arcu euismod. Curabitur fringilla turpis at nisl blandit lobortis.&nbsp;Duis semper sem sed pellentesque auctor.</p>
 <!-- /wp:paragraph -->
 
-<!-- wp:image {"align":"left","id":104,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image alignleft size-large" id="attachment_93"><a href="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_.jpg"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-1024x681.jpg" alt="" class="wp-image-104"/></a><figcaption class="wp-element-caption">Alley of the Suburb Downtown.</figcaption></figure>
+<!-- wp:image {"align":"center","id":104,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large" id="attachment_93"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-1024x681.jpg" alt="" class="wp-image-104"/><figcaption class="wp-element-caption">Alley of the Suburb Downtown.</figcaption></figure>
 <!-- /wp:image -->
 
 <!-- wp:paragraph -->
@@ -7509,8 +7510,8 @@ https://vimeo.com/124858722
 		<wp:post_id>63</wp:post_id>
 		<wp:post_date><![CDATA[2023-04-06 04:09:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-06 04:09:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-13 08:31:03]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-13 08:31:03]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-04-20 16:35:57]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-20 16:35:57]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[20-fashion-trends-to-have-on-your-radar-in-2023]]></wp:post_name>
@@ -7521,8 +7522,8 @@ https://vimeo.com/124858722
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
@@ -7548,6 +7549,14 @@ https://vimeo.com/124858722
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_encloseme]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
