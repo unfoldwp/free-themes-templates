@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-04-21 05:20" -->
+	<!-- generator="WordPress/6.2" created="2023-04-21 05:36" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -27,18 +27,18 @@
 
 <channel>
 	<title>Magazine Saga</title>
-	<link>https://dev.unfoldwp.com</link>
+	<link>https://demo.unfoldwp.com/mag-fashion</link>
 	<description></description>
-	<pubDate>Fri, 21 Apr 2023 05:20:40 +0000</pubDate>
+	<pubDate>Fri, 21 Apr 2023 05:36:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://dev.unfoldwp.com</wp:base_site_url>
-	<wp:base_blog_url>https://dev.unfoldwp.com</wp:base_blog_url>
+	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.unfoldwp.com/mag-fashion</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author@unfoldwp.com]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[John Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Doe]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:category_nicename><![CDATA[clothing]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Clothing]]></wp:cat_name>
@@ -52,7 +52,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:category_nicename><![CDATA[fashion]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fashion]]></wp:cat_name>
@@ -66,7 +66,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>9</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:category_nicename><![CDATA[fragrances]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fragrances]]></wp:cat_name>
@@ -80,7 +80,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>5</wp:term_id>
 		<wp:category_nicename><![CDATA[lifestyle]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Lifestyle]]></wp:cat_name>
@@ -94,7 +94,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:category_nicename><![CDATA[makeup]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Makeup]]></wp:cat_name>
@@ -108,7 +108,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>8</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:category_nicename><![CDATA[personal-care]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Personal Care]]></wp:cat_name>
@@ -122,7 +122,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>2</wp:term_id>
+		<wp:term_id>8</wp:term_id>
 		<wp:category_nicename><![CDATA[shoes]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Shoes]]></wp:cat_name>
@@ -136,7 +136,7 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>5</wp:term_id>
+		<wp:term_id>9</wp:term_id>
 		<wp:category_nicename><![CDATA[skin-care]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Skin Care]]></wp:cat_name>
@@ -166,12 +166,12 @@
 		<wp:tag_name><![CDATA[accessories]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>27</wp:term_id>
+		<wp:term_id>12</wp:term_id>
 		<wp:tag_slug><![CDATA[beautytools]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[beautytools]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>12</wp:term_id>
+		<wp:term_id>13</wp:term_id>
 		<wp:tag_slug><![CDATA[clothing]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[clothing]]></wp:tag_name>
 	</wp:tag>
@@ -181,139 +181,168 @@
 		<wp:tag_name><![CDATA[fashionable]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>28</wp:term_id>
+		<wp:term_id>15</wp:term_id>
 		<wp:tag_slug><![CDATA[fragrance]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[fragrance]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>24</wp:term_id>
+		<wp:term_id>16</wp:term_id>
 		<wp:tag_slug><![CDATA[hairstyling]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[hairstyling]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>29</wp:term_id>
+		<wp:term_id>17</wp:term_id>
 		<wp:tag_slug><![CDATA[makeup]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[makeup]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>16</wp:term_id>
+		<wp:term_id>18</wp:term_id>
 		<wp:tag_slug><![CDATA[naturalbeauty]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[naturalbeauty]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>25</wp:term_id>
+		<wp:term_id>19</wp:term_id>
 		<wp:tag_slug><![CDATA[selfcare]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[selfcare]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>32</wp:term_id>
+		<wp:term_id>20</wp:term_id>
 		<wp:tag_slug><![CDATA[sleep]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[sleep]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>33</wp:term_id>
+		<wp:term_id>21</wp:term_id>
 		<wp:tag_slug><![CDATA[smartwatches]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[smartwatches]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>13</wp:term_id>
+		<wp:term_id>22</wp:term_id>
 		<wp:tag_slug><![CDATA[style]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[style]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>15</wp:term_id>
+		<wp:term_id>23</wp:term_id>
 		<wp:tag_slug><![CDATA[styleinspiration]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[styleinspiration]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>34</wp:term_id>
+		<wp:term_id>24</wp:term_id>
 		<wp:tag_slug><![CDATA[summer]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[summer]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>35</wp:term_id>
+		<wp:term_id>25</wp:term_id>
 		<wp:tag_slug><![CDATA[switzerland]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Switzerland]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>36</wp:term_id>
+		<wp:term_id>26</wp:term_id>
 		<wp:tag_slug><![CDATA[tanya-tucker]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Tanya Tucker]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>37</wp:term_id>
+		<wp:term_id>27</wp:term_id>
 		<wp:tag_slug><![CDATA[tech]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[Tech]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>38</wp:term_id>
+		<wp:term_id>28</wp:term_id>
 		<wp:tag_slug><![CDATA[things]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[things]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>39</wp:term_id>
+		<wp:term_id>29</wp:term_id>
 		<wp:tag_slug><![CDATA[time]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[time]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>40</wp:term_id>
+		<wp:term_id>30</wp:term_id>
 		<wp:tag_slug><![CDATA[tourist]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[tourist]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>41</wp:term_id>
+		<wp:term_id>31</wp:term_id>
 		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[travel]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>42</wp:term_id>
+		<wp:term_id>32</wp:term_id>
 		<wp:tag_slug><![CDATA[trends]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[trends]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>26</wp:term_id>
+		<wp:term_id>33</wp:term_id>
 		<wp:tag_slug><![CDATA[trendy]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[trendy]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>43</wp:term_id>
+		<wp:term_id>34</wp:term_id>
 		<wp:tag_slug><![CDATA[trip]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[trip]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>44</wp:term_id>
+		<wp:term_id>35</wp:term_id>
 		<wp:tag_slug><![CDATA[villain]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[villain]]></wp:tag_name>
 	</wp:tag>
 		<wp:tag>
-		<wp:term_id>45</wp:term_id>
+		<wp:term_id>36</wp:term_id>
 		<wp:tag_slug><![CDATA[visit]]></wp:tag_slug>
 		<wp:tag_name><![CDATA[visit]]></wp:tag_name>
 	</wp:tag>
-				<wp:term><wp:term_id>46</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
+				<wp:term><wp:term_id>37</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>47</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
+	<wp:term><wp:term_id>38</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[primary-menu]]></wp:term_slug><wp:term_name><![CDATA[Primary Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>48</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[Social Menu]]></wp:term_name>
+	<wp:term><wp:term_id>39</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[social-menu]]></wp:term_slug><wp:term_name><![CDATA[Social Menu]]></wp:term_name>
 </wp:term>
-	<wp:term><wp:term_id>49</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
+	<wp:term><wp:term_id>40</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
 	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
-	<url>https://dev.unfoldwp.com/wp-content/uploads/2023/04/cropped-site-icon-1-150x150.png</url>
+	<url>https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/cropped-site-icon-1-150x150.png</url>
 	<title>Magazine Saga</title>
-	<link>https://dev.unfoldwp.com</link>
+	<link>https://demo.unfoldwp.com/mag-fashion</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 
 		<item>
+		<title><![CDATA[One Click Demo Import - log_file_2023-04-21__05-32-02]]></title>
+		<link>https://demo.unfoldwp.com/mag-fashion/one-click-demo-import-log_file_2023-04-21__05-32-02/</link>
+		<pubDate>Fri, 21 Apr 2023 05:32:02 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/log_file_2023-04-21__05-32-02.txt</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>6</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-21 05:32:02]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-21 05:32:02]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-21 05:32:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-21 05:32:02]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[one-click-demo-import-log_file_2023-04-21__05-32-02]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/log_file_2023-04-21__05-32-02.txt]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/04/log_file_2023-04-21__05-32-02.txt]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Facebook]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/facebook/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/facebook/</link>
 		<pubDate>Mon, 03 Apr 2023 11:43:45 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=46</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -368,9 +397,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Instagram]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/instagram/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/instagram/</link>
 		<pubDate>Mon, 03 Apr 2023 11:43:45 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=47</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -425,9 +454,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitter]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/twitter/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/twitter/</link>
 		<pubDate>Mon, 03 Apr 2023 11:43:45 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=48</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -482,9 +511,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Youtube]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/youtube/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/youtube/</link>
 		<pubDate>Mon, 03 Apr 2023 11:44:23 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=49</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -539,9 +568,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Twitch]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/twitch/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/twitch/</link>
 		<pubDate>Mon, 03 Apr 2023 11:44:23 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=50</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -596,9 +625,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/test/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/test/</link>
 		<pubDate>Mon, 03 Apr 2023 11:45:32 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=51</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -673,9 +702,9 @@
 							</item>
 					<item>
 		<title><![CDATA[About Us]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/about-us/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/about-us/</link>
 		<pubDate>Mon, 03 Apr 2023 11:46:20 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=52</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -730,9 +759,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact us]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/03/contact-us/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/03/contact-us/</link>
 		<pubDate>Mon, 03 Apr 2023 11:46:20 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=53</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -787,9 +816,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Support]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/04/support/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/04/support/</link>
 		<pubDate>Mon, 03 Apr 2023 11:46:51 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=54</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -848,9 +877,9 @@
 							</item>
 					<item>
 		<title><![CDATA[site-icon]]></title>
-		<link>https://dev.unfoldwp.com/site-icon/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/site-icon/</link>
 		<pubDate>Tue, 04 Apr 2023 06:43:57 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/04/site-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -869,7 +898,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/wp-content/uploads/2023/04/site-icon-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/site-icon-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/04/site-icon-1.png]]></wp:meta_value>
@@ -881,9 +910,9 @@
 							</item>
 					<item>
 		<title><![CDATA[cropped-site-icon.png]]></title>
-		<link>https://dev.unfoldwp.com/cropped-site-icon-png/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/cropped-site-icon-png/</link>
 		<pubDate>Tue, 04 Apr 2023 06:44:00 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/04/cropped-site-icon.png</guid>
 		<description></description>
 		<content:encoded><![CDATA[https://dev.unfoldwp.com/wp-content/uploads/2023/04/cropped-site-icon.png]]></content:encoded>
@@ -902,7 +931,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/wp-content/uploads/2023/04/cropped-site-icon-1.png]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/cropped-site-icon-1.png]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023/04/cropped-site-icon-1.png]]></wp:meta_value>
@@ -918,9 +947,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Forum]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/04/forum/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/04/forum/</link>
 		<pubDate>Tue, 04 Apr 2023 07:09:05 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=137</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -975,9 +1004,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/04/contact/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/04/contact/</link>
 		<pubDate>Tue, 04 Apr 2023 07:09:05 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=138</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1032,9 +1061,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Terms and Condition]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/04/terms-and-condition/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/04/terms-and-condition/</link>
 		<pubDate>Tue, 04 Apr 2023 07:10:24 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1089,9 +1118,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://dev.unfoldwp.com/mc4wp-form/newsletter/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/mc4wp-form/newsletter/</link>
 		<pubDate>Tue, 04 Apr 2023 07:20:19 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
@@ -1161,9 +1190,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/154/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/154/</link>
 		<pubDate>Tue, 04 Apr 2023 08:04:26 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=154</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1193,7 +1222,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[8]]></wp:meta_value>
+		<wp:meta_value><![CDATA[7]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -1234,9 +1263,9 @@
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/156/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/156/</link>
 		<pubDate>Tue, 04 Apr 2023 08:04:27 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=156</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
@@ -1266,7 +1295,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[6]]></wp:meta_value>
+		<wp:meta_value><![CDATA[5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -1307,9 +1336,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Features]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/features/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/features/</link>
 		<pubDate>Fri, 07 Apr 2023 07:01:11 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=278</guid>
 		<description></description>
 		<content:encoded><![CDATA[Hot]]></content:encoded>
@@ -1372,9 +1401,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Sidebar]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/sidebar/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/sidebar/</link>
 		<pubDate>Mon, 10 Apr 2023 07:48:16 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=297</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1433,9 +1462,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Single Posts]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/11/single-posts/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/11/single-posts/</link>
 		<pubDate>Mon, 10 Apr 2023 07:52:37 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=299</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1494,9 +1523,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Top Menu]]></title>
-		<link>https://dev.unfoldwp.com/2023/04/15/top-menu/</link>
+		<link>https://demo.unfoldwp.com/mag-fashion/2023/04/15/top-menu/</link>
 		<pubDate>Sat, 15 Apr 2023 12:41:06 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-saga/top-menu/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:navigation-link {"label":"About Us","type":"custom","url":"#","kind":"custom","isTopLevelLink":true} /-->
