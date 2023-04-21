@@ -5,9 +5,7 @@
                 "import_name": "Style 1",
                 "import_path": "v1",
                 "preview_url": "https://dev.unfoldwp.com/"
-            }
-        ],
-        "pro": [
+            },
             {
                 "import_name": "Style 2",
                 "import_path": "v2",
