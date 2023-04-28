@@ -10,6 +10,11 @@
                 "import_name": "Style 2",
                 "import_path": "v2",
                 "preview_url": "https://dev.unfoldwp.com/"
+            },
+            {
+                "import_name": "Style 3",
+                "import_path": "v3",
+                "preview_url": "https://dev.unfoldwp.com/"
             }
         ]
     },
