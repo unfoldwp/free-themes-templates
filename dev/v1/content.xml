@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-04-28 07:03" -->
+	<!-- generator="WordPress/6.2" created="2023-05-02 08:06" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/magazine-saga</link>
-	<description></description>
-	<pubDate>Fri, 28 Apr 2023 07:03:59 +0000</pubDate>
+	<description>Awesome Multipurpose Magazine Theme</description>
+	<pubDate>Tue, 02 May 2023 08:06:13 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -388,6 +388,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:90:"2023/04/electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_.jpg";s:8:"filesize";i:241554;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15182;}s:5:"large";a:5:{s:4:"file";s:91:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128416;}s:9:"thumbnail";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6585;}s:12:"medium_large";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76637;}s:9:"1536x1536";a:5:{s:4:"file";s:92:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:257757;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52061;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96893;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:90:"electric-bike-electric-bicycle-mountain-bicycle-wheel-tire-1660500-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27872;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:241554;s:9:"ori_saved";i:18;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com]]></title>
@@ -420,6 +437,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2000;s:6:"height";i:1555;s:4:"file";s:74:"2023/04/sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_.jpg";s:8:"filesize";i:167231;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-300x233.jpg";s:5:"width";i:300;s:6:"height";i:233;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10391;}s:5:"large";a:5:{s:4:"file";s:75:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-1024x796.jpg";s:5:"width";i:1024;s:6:"height";i:796;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77330;}s:9:"thumbnail";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4328;}s:12:"medium_large";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-768x597.jpg";s:5:"width";i:768;s:6:"height";i:597;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47855;}s:9:"1536x1536";a:5:{s:4:"file";s:76:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-1536x1194.jpg";s:5:"width";i:1536;s:6:"height";i:1194;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:153263;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:76:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:199626;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29589;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54296;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:74:"sky-vehicle-flight-rocket-explosion-mission-703453-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16762;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:167231;s:9:"ori_saved";i:18;s:10:"webp_total";i:167231;s:10:"webp_saved";i:4983;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -454,6 +488,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:89:"2023/04/car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_.jpg";s:8:"filesize";i:198023;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9860;}s:5:"large";a:5:{s:4:"file";s:90:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68640;}s:9:"thumbnail";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5252;}s:12:"medium_large";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43152;}s:9:"1536x1536";a:5:{s:4:"file";s:90:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134973;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34328;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61315;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:89:"car-vehicle-sports-car-supercar-mercedes-benz-land-vehicle-168592-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19520;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[watch-hand-screen-apple-technology-ring-105683-pxhere.com]]></title>
@@ -486,6 +533,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:79:"2023/04/watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:294014;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8550;}s:5:"large";a:5:{s:4:"file";s:80:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60788;}s:9:"thumbnail";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4404;}s:12:"medium_large";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37080;}s:9:"1536x1536";a:5:{s:4:"file";s:81:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121000;}s:9:"2048x2048";a:5:{s:4:"file";s:81:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:196339;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:81:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:176529;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27208;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46625;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:79:"watch-hand-screen-apple-technology-ring-105683-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14506;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -520,6 +580,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:74:"2023/04/person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_.jpg";s:8:"filesize";i:211500;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10928;}s:5:"large";a:5:{s:4:"file";s:75:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84867;}s:9:"thumbnail";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5074;}s:12:"medium_large";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49375;}s:9:"1536x1536";a:5:{s:4:"file";s:76:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189454;}s:9:"2048x2048";a:5:{s:4:"file";s:76:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:329440;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:76:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:292761;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32412;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63002;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:74:"person-car-window-driving-vehicle-sleeping-1392425-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18690;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min]]></title>
@@ -552,6 +625,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1652;s:4:"file";s:91:"2023/04/outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1.jpg";s:8:"filesize";i:286695;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9671;}s:5:"large";a:5:{s:4:"file";s:92:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-1024x661.jpg";s:5:"width";i:1024;s:6:"height";i:661;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63586;}s:9:"thumbnail";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4536;}s:12:"medium_large";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-768x496.jpg";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39592;}s:9:"1536x1536";a:5:{s:4:"file";s:92:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-1536x991.jpg";s:5:"width";i:1536;s:6:"height";i:991;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121661;}s:9:"2048x2048";a:5:{s:4:"file";s:93:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-2048x1322.jpg";s:5:"width";i:2048;s:6:"height";i:1322;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:194636;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:93:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:177761;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28722;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49888;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:91:"outdoor-person-people-woman-countryside-running-1271129-pxhere.com-min-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16343;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -586,6 +672,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2508;s:6:"height";i:1672;s:4:"file";s:72:"2023/04/table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_.jpg";s:8:"filesize";i:239571;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17570;}s:5:"large";a:5:{s:4:"file";s:73:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127948;}s:9:"thumbnail";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8035;}s:12:"medium_large";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80131;}s:9:"1536x1536";a:5:{s:4:"file";s:74:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:242493;}s:9:"2048x2048";a:5:{s:4:"file";s:74:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:378252;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:74:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:341984;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56469;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99578;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:72:"table-coffee-morning-restaurant-dish-meal-893009-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31425;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[man-person-fitness-gym-muscle-power-915257-pxhere.com]]></title>
@@ -618,6 +717,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:75:"2023/04/man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:287867;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7373;}s:5:"large";a:5:{s:4:"file";s:76:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57549;}s:9:"thumbnail";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3970;}s:12:"medium_large";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34997;}s:9:"1536x1536";a:5:{s:4:"file";s:77:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116512;}s:9:"2048x2048";a:5:{s:4:"file";s:77:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188817;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:77:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:169780;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28669;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45286;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:75:"man-person-fitness-gym-muscle-power-915257-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13395;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -652,6 +764,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:82:"2023/04/fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:292059;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11783;}s:5:"large";a:5:{s:4:"file";s:83:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74638;}s:9:"thumbnail";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5866;}s:12:"medium_large";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48577;}s:9:"1536x1536";a:5:{s:4:"file";s:84:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:136587;}s:9:"2048x2048";a:5:{s:4:"file";s:84:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:206549;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:84:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:188264;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35185;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59418;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:82:"fashion-runway-fashion-design-fashion-show-165882-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20203;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[music-woman-road-window-advertising-decoration-1027171-pxhere.com]]></title>
@@ -684,6 +809,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1365;s:4:"file";s:78:"2023/04/music-woman-road-window-advertising-decoration-1027171-pxhere.com_.jpg";s:8:"filesize";i:216630;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17379;}s:5:"large";a:5:{s:4:"file";s:79:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132725;}s:9:"thumbnail";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7483;}s:12:"medium_large";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82498;}s:9:"1536x1536";a:5:{s:4:"file";s:80:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:263529;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:80:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:378393;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53745;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103567;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:78:"music-woman-road-window-advertising-decoration-1027171-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31176;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -722,6 +860,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[people-dance-balance-show-movement-ballerina-770415-pxhere.com]]></title>
@@ -754,6 +905,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1624;s:4:"file";s:84:"2023/04/people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:322809;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-300x190.jpg";s:5:"width";i:300;s:6:"height";i:190;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11503;}s:5:"large";a:5:{s:4:"file";s:85:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-1024x650.jpg";s:5:"width";i:1024;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78589;}s:9:"thumbnail";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5356;}s:12:"medium_large";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-768x487.jpg";s:5:"width";i:768;s:6:"height";i:487;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50075;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-1536x974.jpg";s:5:"width";i:1536;s:6:"height";i:974;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146249;}s:9:"2048x2048";a:5:{s:4:"file";s:86:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-2048x1299.jpg";s:5:"width";i:2048;s:6:"height";i:1299;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:224744;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:86:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:208303;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34256;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62754;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:84:"people-dance-balance-show-movement-ballerina-770415-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20349;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -788,6 +952,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:81:"2023/04/music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:310984;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8284;}s:5:"large";a:5:{s:4:"file";s:82:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60222;}s:9:"thumbnail";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4380;}s:12:"medium_large";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37215;}s:9:"1536x1536";a:5:{s:4:"file";s:83:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121686;}s:9:"2048x2048";a:5:{s:4:"file";s:83:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:199410;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:83:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:179234;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28549;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47642;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:81:"music-light-sunset-sunlight-crowd-concert-145352-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14969;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[music-guitar-concert-singer-band-musician-1033035-pxhere.com]]></title>
@@ -820,6 +997,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:82:"2023/04/music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:463840;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15328;}s:5:"large";a:5:{s:4:"file";s:83:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111161;}s:9:"thumbnail";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6510;}s:12:"medium_large";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70070;}s:9:"1536x1536";a:5:{s:4:"file";s:84:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209680;}s:9:"2048x2048";a:5:{s:4:"file";s:84:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:321987;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:84:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:292366;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45874;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88246;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:82:"music-guitar-concert-singer-band-musician-1033035-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27679;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -854,6 +1044,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1920;s:4:"file";s:77:"2023/04/sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:652797;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15750;}s:5:"large";a:5:{s:4:"file";s:78:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:139117;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5599;}s:12:"medium_large";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83238;}s:9:"1536x1536";a:5:{s:4:"file";s:79:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:280063;}s:9:"2048x2048";a:5:{s:4:"file";s:79:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-2048x1536.jpg";s:5:"width";i:2048;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:439196;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:79:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:364036;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47797;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95975;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:77:"sea-water-dock-architecture-sky-boat-1071759-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26382;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com]]></title>
@@ -886,6 +1089,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1702;s:4:"file";s:83:"2023/04/landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:329798;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9771;}s:5:"large";a:5:{s:4:"file";s:84:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71667;}s:9:"thumbnail";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4135;}s:12:"medium_large";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44605;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-1536x1021.jpg";s:5:"width";i:1536;s:6:"height";i:1021;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:138821;}s:9:"2048x2048";a:5:{s:4:"file";s:85:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-2048x1362.jpg";s:5:"width";i:2048;s:6:"height";i:1362;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:220541;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:85:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:198815;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28152;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55085;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:83:"landscape-sand-desert-travel-camel-dromedary-46229-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17152;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -920,6 +1136,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:90:"2023/04/mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:730855;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14950;}s:5:"large";a:5:{s:4:"file";s:91:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133519;}s:9:"thumbnail";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6731;}s:12:"medium_large";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79137;}s:9:"1536x1536";a:5:{s:4:"file";s:92:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:276883;}s:9:"2048x2048";a:5:{s:4:"file";s:92:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:455501;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:92:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:408502;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56660;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101101;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:90:"mountain-snow-winter-sport-mountain-range-extreme-1409450-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27902;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[japan-osaka-night-asia-landmark-travel-1371472-pxhere.com]]></title>
@@ -953,6 +1182,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1362;s:4:"file";s:70:"2023/04/japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_.jpg";s:8:"filesize";i:210426;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12617;}s:5:"large";a:5:{s:4:"file";s:71:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-1024x681.jpg";s:5:"width";i:1024;s:6:"height";i:681;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99446;}s:9:"thumbnail";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6630;}s:12:"medium_large";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62241;}s:9:"1536x1536";a:5:{s:4:"file";s:72:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-1536x1022.jpg";s:5:"width";i:1536;s:6:"height";i:1022;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:195007;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:72:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:277972;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50945;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80177;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:70:"japan-osaka-night-asia-landmark-travel-1371472-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23885;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[site-icon]]></title>
@@ -985,6 +1227,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2023/04/site-icon.png";s:8:"filesize";i:16683;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:21:"site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21444;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9923;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:21:"site-icon-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37997;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:21:"site-icon-410x294.png";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22682;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1022,6 +1277,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1284,6 +1552,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:83:"2023/04/person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:359165;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13783;}s:5:"large";a:5:{s:4:"file";s:84:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86849;}s:9:"thumbnail";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6346;}s:12:"medium_large";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56298;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:158490;}s:9:"2048x2048";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:246228;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:85:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:223475;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38222;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68084;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:83:"person-people-girl-woman-camera-photography-948941-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23497;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[road-sport-car-automobile-vehicle-drive-938484-pxhere.com]]></title>
@@ -1316,6 +1597,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:79:"2023/04/road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:600898;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14556;}s:5:"large";a:5:{s:4:"file";s:80:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119894;}s:9:"thumbnail";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6357;}s:12:"medium_large";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72370;}s:9:"1536x1536";a:5:{s:4:"file";s:81:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:239732;}s:9:"2048x2048";a:5:{s:4:"file";s:81:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:388801;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:81:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:349069;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49142;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90745;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:79:"road-sport-car-automobile-vehicle-drive-938484-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26478;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1350,6 +1644,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1707;s:4:"file";s:76:"2023/04/beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:259522;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6956;}s:5:"large";a:5:{s:4:"file";s:77:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55254;}s:9:"thumbnail";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3320;}s:12:"medium_large";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33029;}s:9:"1536x1536";a:5:{s:4:"file";s:78:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108376;}s:9:"2048x2048";a:5:{s:4:"file";s:78:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-2048x1366.jpg";s:5:"width";i:2048;s:6:"height";i:1366;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:175526;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:78:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:157152;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23105;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41741;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:76:"beach-sea-coast-water-ocean-horizon-1179715-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12544;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[person-girl-woman-photography-portrait-model-59258-pxhere.com]]></title>
@@ -1382,6 +1689,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1706;s:4:"file";s:83:"2023/04/person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:299977;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10382;}s:5:"large";a:5:{s:4:"file";s:84:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67086;}s:9:"thumbnail";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4699;}s:12:"medium_large";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42114;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128972;}s:9:"2048x2048";a:5:{s:4:"file";s:85:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-2048x1365.jpg";s:5:"width";i:2048;s:6:"height";i:1365;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:204964;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:85:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185187;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29513;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52342;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:83:"person-girl-woman-photography-portrait-model-59258-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17142;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1488,6 +1808,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2048;s:6:"height";i:1366;s:4:"file";s:73:"2023/04/restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_.jpg";s:8:"filesize";i:198245;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15117;}s:5:"large";a:5:{s:4:"file";s:74:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102540;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7560;}s:12:"medium_large";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65710;}s:9:"1536x1536";a:5:{s:4:"file";s:75:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:196094;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:75:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:275497;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49032;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82039;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:73:"restaurant-food-cooking-plate-seafood-fire-636624-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27055;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com]]></title>
@@ -1521,6 +1854,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:2560;s:4:"file";s:83:"2023/04/alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:497786;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13082;}s:5:"large";a:5:{s:4:"file";s:85:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104250;}s:9:"thumbnail";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4283;}s:12:"medium_large";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63563;}s:9:"1536x1536";a:5:{s:4:"file";s:85:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-1536x1536.jpg";s:5:"width";i:1536;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:208057;}s:9:"2048x2048";a:5:{s:4:"file";s:85:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-2048x2048.jpg";s:5:"width";i:2048;s:6:"height";i:2048;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:331088;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:85:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:212381;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31044;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56458;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:83:"alone-vehicle-space-float-lonely-astronaut-1255597-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16856;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[desk-notebook-watch-table-book-wood-1293590-pxhere.com]]></title>
@@ -1553,6 +1899,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:2560;s:6:"height";i:1920;s:4:"file";s:76:"2023/04/desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1.jpg";s:8:"filesize";i:442169;s:5:"sizes";a:10:{s:6:"medium";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11413;}s:5:"large";a:5:{s:4:"file";s:77:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93977;}s:9:"thumbnail";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5119;}s:12:"medium_large";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57335;}s:9:"1536x1536";a:5:{s:4:"file";s:78:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-1536x1152.jpg";s:5:"width";i:1536;s:6:"height";i:1152;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:186757;}s:9:"2048x2048";a:5:{s:4:"file";s:78:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-2048x1536.jpg";s:5:"width";i:2048;s:6:"height";i:1536;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:296290;}s:25:"magazine-saga-cover-image";a:5:{s:4:"file";s:78:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-1920x1280.jpg";s:5:"width";i:1920;s:6:"height";i:1280;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:244280;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38302;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65757;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:76:"desk-notebook-watch-table-book-wood-1293590-pxhere.com_-scaled-1-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18834;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1591,6 +1950,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[home-shop-business-shopping-room-lighting-1062572-pxhere.com]]></title>
@@ -1623,6 +1995,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1618;s:6:"height";i:1080;s:4:"file";s:73:"2023/04/home-shop-business-shopping-room-lighting-1062572-pxhere.com_.jpg";s:8:"filesize";i:252098;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13750;}s:5:"large";a:5:{s:4:"file";s:74:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101369;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5984;}s:12:"medium_large";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64374;}s:9:"1536x1536";a:5:{s:4:"file";s:75:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-1536x1025.jpg";s:5:"width";i:1536;s:6:"height";i:1025;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:192781;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41577;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78262;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:73:"home-shop-business-shopping-room-lighting-1062572-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24435;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1657,6 +2042,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:64:"2023/04/girl-leg-model-spring-red-sitting-620841-pxhere.com_.jpg";s:8:"filesize";i:326800;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16982;}s:5:"large";a:5:{s:4:"file";s:65:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:131644;}s:9:"thumbnail";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7389;}s:12:"medium_large";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82235;}s:9:"1536x1536";a:5:{s:4:"file";s:66:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:246821;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54455;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-850x600.jpg";s:5:"width";i:850;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101277;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:64:"girl-leg-model-spring-red-sitting-620841-pxhere.com_-410x294.jpg";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31099;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-pro]]></title>
@@ -1689,6 +2087,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:22:"2023/04/banner-pro.png";s:8:"filesize";i:20827;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:21:"banner-pro-300x37.png";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14017;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"banner-pro-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1960;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:21:"banner-pro-500x90.png";s:5:"width";i:500;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14307;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:21:"banner-pro-410x90.png";s:5:"width";i:410;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10484;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1723,6 +2134,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:250;s:4:"file";s:24:"2023/04/banner-small.png";s:8:"filesize";i:26634;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:24:"banner-small-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:30504;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[banner-large]]></title>
@@ -1755,6 +2179,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:600;s:6:"height";i:1200;s:4:"file";s:24:"2023/04/banner-large.png";s:8:"filesize";i:351938;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:24:"banner-large-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:77470;}s:5:"large";a:5:{s:4:"file";s:25:"banner-large-512x1024.png";s:5:"width";i:512;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:758388;}s:9:"thumbnail";a:5:{s:4:"file";s:24:"banner-large-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:41316;}s:26:"magazine-saga-square-image";a:5:{s:4:"file";s:24:"banner-large-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:388677;}s:23:"magazine-saga-large-img";a:5:{s:4:"file";s:24:"banner-large-600x600.png";s:5:"width";i:600;s:6:"height";i:600;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:224537;}s:23:"magazine-saga-small-img";a:5:{s:4:"file";s:24:"banner-large-410x294.png";s:5:"width";i:410;s:6:"height";i:294;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:197379;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1789,6 +2226,19 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:350;s:6:"height";i:60;s:4:"file";s:32:"2023/04/mag-saga-1-logo-dark.png";s:8:"filesize";i:2238;s:5:"sizes";a:2:{s:6:"medium";a:5:{s:4:"file";s:31:"mag-saga-1-logo-dark-300x51.png";s:5:"width";i:300;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6899;}s:9:"thumbnail";a:5:{s:4:"file";s:31:"mag-saga-1-logo-dark-150x60.png";s:5:"width";i:150;s:6:"height";i:60;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2925;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[mag-saga-1-logo-light]]></title>
@@ -1821,6 +2271,19 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:250;s:6:"height";i:40;s:4:"file";s:33:"2023/04/mag-saga-1-logo-light.png";s:8:"filesize";i:1727;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:32:"mag-saga-1-logo-light-150x40.png";s:5:"width";i:150;s:6:"height";i:40;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2854;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1920x1280
+500x500
+850x600
+410x294]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
