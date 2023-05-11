@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-05-09 05:35" -->
+	<!-- generator="WordPress/6.2" created="2023-05-11 07:47" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/magazine-saga</link>
 	<description>Awesome Multipurpose Magazine Theme</description>
-	<pubDate>Tue, 09 May 2023 05:35:53 +0000</pubDate>
+	<pubDate>Thu, 11 May 2023 07:47:00 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -4837,8 +4837,8 @@ https://soundcloud.com/destroylonely/how-you-feel-main
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
-		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -5083,8 +5083,8 @@ https://soundcloud.com/destroylonely/how-you-feel-main
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="life"><![CDATA[life]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[lifestyle]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[test-post-copy-copy-copy-copy-copy-copy-copy]]></wp:meta_value>
