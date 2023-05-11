@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-05-05 09:03" -->
+	<!-- generator="WordPress/6.2" created="2023-05-11 07:55" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/mag-fashion</link>
 	<description>Awesome Multipurpose Magazine Theme</description>
-	<pubDate>Fri, 05 May 2023 09:03:58 +0000</pubDate>
+	<pubDate>Thu, 11 May 2023 07:55:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -1218,6 +1218,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:297666;s:9:"ori_saved";i:1782;s:10:"webp_total";i:297666;s:10:"webp_saved";i:103344;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-ray-piedra-1478442-min]]></title>
@@ -1264,6 +1268,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:470666;s:9:"ori_saved";i:27519;s:10:"webp_total";i:470666;s:10:"webp_saved";i:197478;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-castorly-stock-3682293-min]]></title>
@@ -1309,6 +1317,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:354183;s:9:"ori_saved";i:28042;s:10:"webp_total";i:354183;s:10:"webp_saved";i:118939;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1839,6 +1851,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:285214;s:9:"ori_saved";i:54;s:10:"webp_total";i:285214;s:10:"webp_saved";i:92876;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mikhail-nilov-6834016-min]]></title>
@@ -1884,6 +1900,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:186443;s:9:"ori_saved";i:54;s:10:"webp_total";i:186443;s:10:"webp_saved";i:70187;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1931,6 +1951,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:346811;s:9:"ori_saved";i:29745;s:10:"webp_total";i:346811;s:10:"webp_saved";i:148579;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[bmx22c-VZdnHy9XpJ4-unsplash]]></title>
@@ -1976,6 +2000,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:222695;s:9:"ori_saved";i:54;s:10:"webp_total";i:222695;s:10:"webp_saved";i:44919;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2023,6 +2051,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:195503;s:9:"ori_saved";i:54;s:10:"webp_total";i:195503;s:10:"webp_saved";i:46705;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-mart-production-8450259-min]]></title>
@@ -2068,6 +2100,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:27898;s:9:"ori_saved";i:54;s:10:"webp_total";i:27898;s:10:"webp_saved";i:12674;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2115,6 +2151,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:293042;s:9:"ori_saved";i:25491;s:10:"webp_total";i:293042;s:10:"webp_saved";i:119166;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[hans-vivek-nKhWFgcUtdk-unsplash]]></title>
@@ -2160,6 +2200,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:103910;s:9:"ori_saved";i:54;s:10:"webp_total";i:103910;s:10:"webp_saved";i:33216;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2207,6 +2251,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:153680;s:9:"ori_saved";i:54;s:10:"webp_total";i:153680;s:10:"webp_saved";i:49100;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[fashion-banner]]></title>
@@ -2253,6 +2301,10 @@
 850x600
 410x294]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:71143;s:9:"ori_saved";i:13453;s:10:"webp_total";i:71143;s:10:"webp_saved";i:55177;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[fashion-small-banner]]></title>
@@ -2298,6 +2350,10 @@
 500x500
 850x600
 410x294]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:106676;s:9:"ori_saved";i:43851;s:10:"webp_total";i:106676;s:10:"webp_saved";i:92888;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3928,8 +3984,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
@@ -4396,8 +4452,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4636,8 +4692,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4888,8 +4944,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5136,8 +5192,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6619,8 +6675,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="accessories"><![CDATA[accessories]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
@@ -6875,8 +6931,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="accessories"><![CDATA[accessories]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
