@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-05-16 10:22" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-25 09:25" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/magazine-saga</link>
 	<description>Awesome Multipurpose Magazine Theme</description>
-	<pubDate>Tue, 16 May 2023 10:22:17 +0000</pubDate>
+	<pubDate>Thu, 25 May 2023 09:25:02 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -346,7 +346,7 @@
 	<wp:term><wp:term_id>59</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/cropped-site-icon-150x150.png</url>
@@ -5579,8 +5579,8 @@ https://soundcloud.com/destroylonely/how-you-feel-main
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
 		<category domain="post_tag" nicename="april"><![CDATA[April]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="featured"><![CDATA[Featured]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>

@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2" created="2023-05-16 10:24" -->
+	<!-- generator="WordPress/6.2.2" created="2023-05-25 09:27" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/mag-fashion</link>
 	<description>Awesome Multipurpose Magazine Theme</description>
-	<pubDate>Tue, 16 May 2023 10:24:49 +0000</pubDate>
+	<pubDate>Thu, 25 May 2023 09:27:49 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -301,7 +301,7 @@
 	<wp:term><wp:term_id>40</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.2</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
 	<url>https://demo.unfoldwp.com/mag-fashion/wp-content/uploads/sites/3/2023/04/cropped-site-icon-1-150x150.png</url>
@@ -3984,8 +3984,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
@@ -4452,8 +4452,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4692,8 +4692,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -4944,8 +4944,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -5192,8 +5192,8 @@
 										<category domain="post_tag" nicename="beautytools"><![CDATA[beautytools]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="makeup"><![CDATA[makeup]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -6675,8 +6675,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="accessories"><![CDATA[accessories]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
@@ -6931,8 +6931,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="accessories"><![CDATA[accessories]]></category>
-		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="post_tag" nicename="clothing"><![CDATA[clothing]]></category>
+		<category domain="category" nicename="clothing"><![CDATA[Clothing]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashionable"><![CDATA[fashionable]]></category>
 		<category domain="post_tag" nicename="style"><![CDATA[style]]></category>
