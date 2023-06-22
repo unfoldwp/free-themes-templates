@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-06-14 07:44" -->
+	<!-- generator="WordPress/6.2.2" created="2023-06-22 15:16" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://demo.unfoldwp.com/magazine-saga</link>
 	<description>Awesome Multipurpose Magazine Theme</description>
-	<pubDate>Wed, 14 Jun 2023 07:44:18 +0000</pubDate>
+	<pubDate>Thu, 22 Jun 2023 15:16:51 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -1775,16 +1775,16 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>154</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-04 08:04:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[154]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
+		<wp:menu_order>19</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1857,6 +1857,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
@@ -1868,16 +1872,16 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-04 08:04:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[156]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>18</wp:menu_order>
+		<wp:menu_order>20</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -1949,6 +1953,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2159,10 +2167,10 @@
 		<content:encoded><![CDATA[Hot]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>278</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-07 07:01:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[features]]></wp:post_name>
@@ -2233,6 +2241,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Left Sidebar]]></title>
@@ -2244,16 +2256,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>280</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-07 07:02:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[280]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
+		<wp:menu_order>11</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2318,6 +2330,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Right Sidebar]]></title>
@@ -2329,16 +2345,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>281</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-07 07:02:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[281]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
+		<wp:menu_order>12</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2403,6 +2419,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Wide]]></title>
@@ -2414,16 +2434,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>284</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-07 07:02:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[284]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
+		<wp:menu_order>14</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2488,31 +2508,11 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Sample]]></title>
-		<link>https://demo.unfoldwp.com/magazine-saga/sample/</link>
-		<pubDate>Mon, 10 Apr 2023 07:33:16 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?page_id=290</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>290</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-10 07:33:16]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-10 07:33:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-10 07:33:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-10 07:33:16]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Sidebar]]></title>
 		<link>https://demo.unfoldwp.com/magazine-saga/sidebar/</link>
@@ -2523,16 +2523,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>297</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:48:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidebar]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
+		<wp:menu_order>10</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2593,6 +2593,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Posts]]></title>
@@ -2604,16 +2608,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>299</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:52:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
+		<wp:menu_order>15</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2674,6 +2678,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Style 1]]></title>
@@ -2685,16 +2693,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>300</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:52:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-1]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
+		<wp:menu_order>16</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2755,6 +2763,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Style 2]]></title>
@@ -2766,16 +2778,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>301</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:52:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-2]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
+		<wp:menu_order>17</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2836,6 +2848,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Style 3]]></title>
@@ -2847,16 +2863,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>302</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:52:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[style-3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
+		<wp:menu_order>18</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -2917,61 +2933,9 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Us]]></title>
-		<link>https://demo.unfoldwp.com/magazine-saga/contact-us/</link>
-		<pubDate>Mon, 10 Apr 2023 07:56:27 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?page_id=303</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Get In Touch</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Email Us: info@random.com<br>Contact: +1-123-4465-332</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:wpforms/form-selector {"clientId":"d34ed94c-e73f-4705-8a28-4872965f0905","formId":"397","copyPasteValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>303</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-10 07:56:27]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-10 07:56:27]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-04-15 12:49:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-04-15 12:49:43]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[magazine_saga_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2984,16 +2948,16 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>305</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-10 07:57:02]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[305]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>19</wp:menu_order>
+		<wp:menu_order>21</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3054,6 +3018,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Unique Demos]]></title>
@@ -3065,10 +3033,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>441</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-25 11:34:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[unique-demos]]></wp:post_name>
@@ -3127,6 +3095,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Default]]></title>
@@ -3138,10 +3110,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>442</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-25 11:34:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -3200,6 +3172,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Fashion]]></title>
@@ -3211,10 +3187,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>443</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-04-25 11:34:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -3273,6 +3249,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Narrow]]></title>
@@ -3284,16 +3264,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>451</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-05-03 11:25:55]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[no-sidebar-narrow]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
+		<wp:menu_order>13</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3342,6 +3322,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Travel]]></title>
@@ -3353,10 +3337,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>553</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-01 07:17:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[travel]]></wp:post_name>
@@ -3407,6 +3391,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sports]]></title>
@@ -3418,10 +3406,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>554</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-01 07:17:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[food]]></wp:post_name>
@@ -3472,6 +3460,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Article]]></title>
@@ -3483,10 +3475,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>557</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-05 11:33:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[article]]></wp:post_name>
@@ -3533,6 +3525,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-06-05]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Upgrade Now]]></title>
@@ -3544,16 +3540,16 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>561</wp:post_id>
-		<wp:post_date><![CDATA[2023-06-14 07:38:00]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-06-14 07:37:08]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-06-14 07:38:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-06-14 07:38:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upgrade-now]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>20</wp:menu_order>
+		<wp:menu_order>22</wp:menu_order>
 		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
@@ -3589,6 +3585,124 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magazine-saga/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-06-14]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Technology]]></title>
+		<link>https://demo.unfoldwp.com/magazine-saga/technology/</link>
+		<pubDate>Thu, 22 Jun 2023 11:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-saga/?p=563</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>563</wp:post_id>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[technology]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[441]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[563]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/mag-technology]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[News]]></title>
+		<link>https://demo.unfoldwp.com/magazine-saga/news/</link>
+		<pubDate>Thu, 22 Jun 2023 11:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-saga/?p=564</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>564</wp:post_id>
+		<wp:post_date><![CDATA[2023-06-22 11:11:26]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-06-22 11:11:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-06-22 11:11:26]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[news]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[441]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[564]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/mag-news]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6072,302 +6186,6 @@ https://soundcloud.com/destroylonely/how-you-feel-main
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[20 fashion trends to have on your radar in 2023]]></title>
-		<link>https://demo.unfoldwp.com/magazine-saga/20-fashion-trends-to-have-on-your-radar-in-2023/</link>
-		<pubDate>Thu, 06 Apr 2023 04:09:03 +0000</pubDate>
-		<dc:creator><![CDATA[brandon]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/test-post-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":483,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/girl-woman-hair-white-photography-cute-596921-pxhere.com_-1024x764.webp" alt="" class="wp-image-483"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":487,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_-1024x768.webp" alt="" class="wp-image-487"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":484,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/japan-osaka-night-asia-landmark-travel-1371471-pxhere.com_-1024x678.webp" alt="" class="wp-image-484"/></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:pullquote {"style":{"border":{"radius":"0px","width":"0px","style":"none"}}} -->
-<figure class="wp-block-pullquote" style="border-style:none;border-width:0px;border-radius:0px"><blockquote><p>Exercise to stimulate, not to annihilate. The world wasn’t formed in a day, and neither were we. Set small goals and build upon them.</p><cite>Lee Haney</cite></blockquote></figure>
-<!-- /wp:pullquote -->
-
-<!-- wp:paragraph -->
-<p>Etiam eget sapien in enim semper malesuada. Nam maximus viverra vehicula. Aenean facilisis odio eu tortor facilisis, vitae ullamcorper libero congue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Aenean Facilisis Tortor</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:paragraph -->
-<p><strong>Also Read</strong>: <a href="#">Master your next trip</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_.webp","id":487,"hasParallax":true,"isRepeated":true,"dimRatio":30,"customOverlayColor":"#0f021e","minHeight":350,"align":"full"} -->
-<div class="wp-block-cover alignfull has-parallax is-repeated" style="min-height:350px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim" style="background-color:#0f021e"></span><div role="img" class="wp-block-cover__image-background wp-image-487 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_.webp)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
-<h2 class="wp-block-heading has-text-align-center">Duis aute irure dolor in reprehenderit </h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
-<p class="has-text-align-center has-medium-font-size">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p>Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li><strong>Proin laoreet neque eget ante semper.</strong>&nbsp;Aenean accumsan mattis malesuada. Aliquam ut luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Aenean accumsan mattis malesuada.</strong>&nbsp;Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed dapibus massa diam, vel facilisis mauris dapibus nec. Maecenas diam tortor, euismod vitae rutrum at, faucibus semper ligula.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Etiam venenatis condimentum.</strong>&nbsp;Nam dignissim dapibus libero id interdum. Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p>Suspendisse eget suscipit nisi, eget aliquet sem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada. <a href="#">Aliquam ut</a> luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Donec Molestie Nulla Non Augue</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nulla hendrerit ante ut augue mollis, aliquam rhoncus arcu euismod. Curabitur fringilla turpis at nisl blandit lobortis.&nbsp;Duis semper sem sed pellentesque auctor.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:image {"align":"center","id":485,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image aligncenter size-large" id="attachment_93"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/light-sun-sunset-road-street-night-99129-pxhere.com_-1024x610.webp" alt="" class="wp-image-485"/><figcaption class="wp-element-caption">Alley of the Suburb Downtown.</figcaption></figure>
-<!-- /wp:image -->
-
-<!-- wp:paragraph -->
-<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>Overview:</strong>&nbsp;<a href="https://demo.unfoldwp.com/magazine-saga/5-foods-that-can-keep-you-satiated-for-longer/" data-type="post" data-id="38">5 foods that can keep you satiated for longer</a></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"color":{"background":"#cde8ff"}}} -->
-<div class="wp-block-group has-background" style="background-color:#cde8ff"><!-- wp:paragraph -->
-<p><strong>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Quis autem vel eum iure reprehenderit qui.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Et harum quidem rerum facilis est et expedita distinction.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&nbsp;</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">1. Vivamus in diam vehicula velit feugiat sodales fsce lacinia.</h3>
-<!-- /wp:heading -->
-
-<!-- wp:embed {"url":"https://vimeo.com/227380775","type":"video","providerNameSlug":"vimeo","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://vimeo.com/227380775
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:separator {"opacity":"css"} -->
-<hr class="wp-block-separator has-css-opacity"/>
-<!-- /wp:separator -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading">2. Interdum et malesuada fames ac ante ipsum primis in faucibus.</h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:embed {"url":"https://soundcloud.com/destroylonely/how-you-feel-main","type":"rich","providerNameSlug":"soundcloud","responsive":true} -->
-<figure class="wp-block-embed is-type-rich is-provider-soundcloud wp-block-embed-soundcloud"><div class="wp-block-embed__wrapper">
-https://soundcloud.com/destroylonely/how-you-feel-main
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:paragraph -->
-<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2023-04-06 04:09:03]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-04-06 04:09:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-05-09 04:55:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-05-09 04:55:55]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[20-fashion-trends-to-have-on-your-radar-in-2023]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
-		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
-		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[test-post-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_f36e4dad7d7be47b5f9602a840826f50]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Antarctica" src="https://player.vimeo.com/video/124858722?h=da13e3a67b&amp;dnt=1&amp;app_id=122963" width="640" height="273" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_f36e4dad7d7be47b5f9602a840826f50]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1683607717]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[483]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_20d432de5ba82f33bfe5852aaa67c7c4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Naujafoto.lt - Živilės mergvakaris" src="https://player.vimeo.com/video/227380775?h=4fd4ce0a12&amp;dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_20d432de5ba82f33bfe5852aaa67c7c4]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1683608156]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_440281fc3edf028473e74f682d885eae]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="How You Feel by Destroylonely" width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1506477625&show_artwork=true&maxheight=960&maxwidth=640"></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_440281fc3edf028473e74f682d885eae]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1683608156]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:comment>
-			<wp:comment_id>20</wp:comment_id>
-			<wp:comment_author><![CDATA[Brandon]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[brandon@unfoldwp.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2023-04-13 08:36:14]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2023-04-13 08:36:14]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>0</wp:comment_parent>
-			<wp:comment_user_id>3</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>21</wp:comment_id>
-			<wp:comment_author><![CDATA[Jessica]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[jessica@unfoldwp.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2023-04-13 08:38:29]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2023-04-13 08:38:29]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>20</wp:comment_parent>
-			<wp:comment_user_id>2</wp:comment_user_id>
-							</wp:comment>
-					<wp:comment>
-			<wp:comment_id>23</wp:comment_id>
-			<wp:comment_author><![CDATA[Brandon]]></wp:comment_author>
-			<wp:comment_author_email><![CDATA[brandon@unfoldwp.com]]></wp:comment_author_email>
-			<wp:comment_author_url></wp:comment_author_url>
-			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
-			<wp:comment_date><![CDATA[2023-04-13 08:40:52]]></wp:comment_date>
-			<wp:comment_date_gmt><![CDATA[2023-04-13 08:40:52]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[Quis autem vel eum iure reprehenderit qui.
-Et harum quidem rerum facilis est et expedita distinction.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></wp:comment_content>
-			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
-			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
-			<wp:comment_parent>21</wp:comment_parent>
-			<wp:comment_user_id>3</wp:comment_user_id>
-							</wp:comment>
-					</item>
-					<item>
 		<title><![CDATA[Amazon's First Retail Clothing Store Is Open]]></title>
 		<link>https://demo.unfoldwp.com/magazine-saga/amazons-first-retail-clothing-store-is-open/</link>
 		<pubDate>Tue, 04 Apr 2023 04:15:14 +0000</pubDate>
@@ -8386,6 +8204,382 @@ https://soundcloud.com/destroylonely/how-you-feel-main
 		<wp:meta_value><![CDATA[1683608232]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Sample]]></title>
+		<link>https://demo.unfoldwp.com/magazine-saga/sample/</link>
+		<pubDate>Mon, 10 Apr 2023 07:33:16 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?page_id=290</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>290</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-10 07:33:16]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-10 07:33:16]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-10 07:33:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-10 07:33:16]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sample]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://demo.unfoldwp.com/magazine-saga/contact-us/</link>
+		<pubDate>Mon, 10 Apr 2023 07:56:27 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?page_id=303</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Get In Touch</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Email Us: info@random.com<br>Contact: +1-123-4465-332</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:wpforms/form-selector {"clientId":"d34ed94c-e73f-4705-8a28-4872965f0905","formId":"397","copyPasteValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>303</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-10 07:56:27]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-10 07:56:27]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-04-15 12:49:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-04-15 12:49:43]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[magazine_saga_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[20 fashion trends to have on your radar in 2023]]></title>
+		<link>https://demo.unfoldwp.com/magazine-saga/20-fashion-trends-to-have-on-your-radar-in-2023/</link>
+		<pubDate>Thu, 06 Apr 2023 04:09:03 +0000</pubDate>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/test-post-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":483,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/girl-woman-hair-white-photography-cute-596921-pxhere.com_-1024x764.webp" alt="" class="wp-image-483"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":487,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_-1024x768.webp" alt="" class="wp-image-487"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":484,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/japan-osaka-night-asia-landmark-travel-1371471-pxhere.com_-1024x678.webp" alt="" class="wp-image-484"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:pullquote {"style":{"border":{"radius":"0px","width":"0px","style":"none"}}} -->
+<figure class="wp-block-pullquote" style="border-style:none;border-width:0px;border-radius:0px"><blockquote><p>Exercise to stimulate, not to annihilate. The world wasn’t formed in a day, and neither were we. Set small goals and build upon them.</p><cite>Lee Haney</cite></blockquote></figure>
+<!-- /wp:pullquote -->
+
+<!-- wp:paragraph -->
+<p>Etiam eget sapien in enim semper malesuada. Nam maximus viverra vehicula. Aenean facilisis odio eu tortor facilisis, vitae ullamcorper libero congue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Aenean Facilisis Tortor</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:paragraph -->
+<p><strong>Also Read</strong>: <a href="#">Master your next trip</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_.webp","id":487,"hasParallax":true,"isRepeated":true,"dimRatio":30,"customOverlayColor":"#0f021e","minHeight":350,"align":"full"} -->
+<div class="wp-block-cover alignfull has-parallax is-repeated" style="min-height:350px"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim" style="background-color:#0f021e"></span><div role="img" class="wp-block-cover__image-background wp-image-487 has-parallax is-repeated" style="background-position:50% 50%;background-image:url(https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/rock-music-people-night-smoke-crowd-655306-pxhere.com_.webp)"></div><div class="wp-block-cover__inner-container"><!-- wp:heading {"textAlign":"center"} -->
+<h2 class="wp-block-heading has-text-align-center">Duis aute irure dolor in reprehenderit </h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"medium"} -->
+<p class="has-text-align-center has-medium-font-size">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Proin laoreet neque eget ante semper.</strong>&nbsp;Aenean accumsan mattis malesuada. Aliquam ut luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aenean accumsan mattis malesuada.</strong>&nbsp;Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed dapibus massa diam, vel facilisis mauris dapibus nec. Maecenas diam tortor, euismod vitae rutrum at, faucibus semper ligula.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Etiam venenatis condimentum.</strong>&nbsp;Nam dignissim dapibus libero id interdum. Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse eget suscipit nisi, eget aliquet sem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada. <a href="#">Aliquam ut</a> luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Donec Molestie Nulla Non Augue</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nulla hendrerit ante ut augue mollis, aliquam rhoncus arcu euismod. Curabitur fringilla turpis at nisl blandit lobortis.&nbsp;Duis semper sem sed pellentesque auctor.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:image {"align":"center","id":485,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image aligncenter size-large" id="attachment_93"><img src="https://demo.unfoldwp.com/magazine-saga/wp-content/uploads/sites/2/2023/04/light-sun-sunset-road-street-night-99129-pxhere.com_-1024x610.webp" alt="" class="wp-image-485"/><figcaption class="wp-element-caption">Alley of the Suburb Downtown.</figcaption></figure>
+<!-- /wp:image -->
+
+<!-- wp:paragraph -->
+<p>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>Overview:</strong>&nbsp;<a href="https://demo.unfoldwp.com/magazine-saga/5-foods-that-can-keep-you-satiated-for-longer/" data-type="post" data-id="38">5 foods that can keep you satiated for longer</a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#cde8ff"}}} -->
+<div class="wp-block-group has-background" style="background-color:#cde8ff"><!-- wp:paragraph -->
+<p><strong>Sed ut perspiciatis unde omnis iste natus error sit voluptatem.</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Quis autem vel eum iure reprehenderit qui.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Et harum quidem rerum facilis est et expedita distinction.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.&nbsp;</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">1. Vivamus in diam vehicula velit feugiat sodales fsce lacinia.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:embed {"url":"https://vimeo.com/227380775","type":"video","providerNameSlug":"vimeo","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://vimeo.com/227380775
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:separator {"opacity":"css"} -->
+<hr class="wp-block-separator has-css-opacity"/>
+<!-- /wp:separator -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading">2. Interdum et malesuada fames ac ante ipsum primis in faucibus.</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:embed {"url":"https://soundcloud.com/destroylonely/how-you-feel-main","type":"rich","providerNameSlug":"soundcloud","responsive":true} -->
+<figure class="wp-block-embed is-type-rich is-provider-soundcloud wp-block-embed-soundcloud"><div class="wp-block-embed__wrapper">
+https://soundcloud.com/destroylonely/how-you-feel-main
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>63</wp:post_id>
+		<wp:post_date><![CDATA[2023-04-06 04:09:03]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-04-06 04:09:03]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-05-09 04:55:55]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-05-09 04:55:55]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[20-fashion-trends-to-have-on-your-radar-in-2023]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_format" nicename="post-format-image"><![CDATA[Image]]></category>
+		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
+		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[test-post-copy-copy-copy-copy-copy-copy-copy-copy-copy-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_f36e4dad7d7be47b5f9602a840826f50]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Antarctica" src="https://player.vimeo.com/video/124858722?h=da13e3a67b&amp;dnt=1&amp;app_id=122963" width="640" height="273" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_f36e4dad7d7be47b5f9602a840826f50]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1683607717]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-04-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[483]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_20d432de5ba82f33bfe5852aaa67c7c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Naujafoto.lt - Živilės mergvakaris" src="https://player.vimeo.com/video/227380775?h=4fd4ce0a12&amp;dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_20d432de5ba82f33bfe5852aaa67c7c4]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1683608156]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_440281fc3edf028473e74f682d885eae]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How You Feel by Destroylonely" width="640" height="400" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?visual=true&url=https%3A%2F%2Fapi.soundcloud.com%2Ftracks%2F1506477625&show_artwork=true&maxheight=960&maxwidth=640"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_440281fc3edf028473e74f682d885eae]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1683608156]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:comment>
+			<wp:comment_id>20</wp:comment_id>
+			<wp:comment_author><![CDATA[Brandon]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[brandon@unfoldwp.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-13 08:36:14]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-13 08:36:14]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>0</wp:comment_parent>
+			<wp:comment_user_id>3</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>21</wp:comment_id>
+			<wp:comment_author><![CDATA[Jessica]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[jessica@unfoldwp.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-13 08:38:29]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-13 08:38:29]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>20</wp:comment_parent>
+			<wp:comment_user_id>2</wp:comment_user_id>
+							</wp:comment>
+					<wp:comment>
+			<wp:comment_id>23</wp:comment_id>
+			<wp:comment_author><![CDATA[Brandon]]></wp:comment_author>
+			<wp:comment_author_email><![CDATA[brandon@unfoldwp.com]]></wp:comment_author_email>
+			<wp:comment_author_url></wp:comment_author_url>
+			<wp:comment_author_IP><![CDATA[27.34.41.41]]></wp:comment_author_IP>
+			<wp:comment_date><![CDATA[2023-04-13 08:40:52]]></wp:comment_date>
+			<wp:comment_date_gmt><![CDATA[2023-04-13 08:40:52]]></wp:comment_date_gmt>
+			<wp:comment_content><![CDATA[Quis autem vel eum iure reprehenderit qui.
+Et harum quidem rerum facilis est et expedita distinction.
+Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.]]></wp:comment_content>
+			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
+			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
+			<wp:comment_parent>21</wp:comment_parent>
+			<wp:comment_user_id>3</wp:comment_user_id>
+							</wp:comment>
+					</item>
 					<item>
 		<title><![CDATA[Top Menu]]></title>
 		<link>https://demo.unfoldwp.com/magazine-saga/top-menu/</link>
