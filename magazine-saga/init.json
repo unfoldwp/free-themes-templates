@@ -2,16 +2,41 @@
     "import_files": {
         "free": [
             {
-                "import_name": "Style 1",
+                "import_name": "Magazine",
                 "import_path": "v1",
-                "preview_url": "https://demos.unfoldwp.com/magazine-saga/"
+                "preview_url": "https://demo.unfoldwp.com/magazine-saga/"
+            },
+            {
+                "import_name": "Fashion",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/mag-fashion/"
             }
         ],
         "pro": [
             {
-                "import_name": "Style 2",
-                "import_path": "v2",
-                "preview_url": "https://demos.unfoldwp.com/magazine-saga-pro/"
+                "import_name": "Travel",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/mag-travel/"
+            },
+            {
+                "import_name": "Sports",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/mag-sports/"
+            },
+            {
+                "import_name": "Article",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/mag-article/"
+            },
+            {
+                "import_name": "Technology",
+                "import_path": "v6",
+                "preview_url": "https://demo.unfoldwp.com/mag-technology/"
+            },
+            {
+                "import_name": "News",
+                "import_path": "v7",
+                "preview_url": "https://demo.unfoldwp.com/mag-news/"
             }
         ]
     },
