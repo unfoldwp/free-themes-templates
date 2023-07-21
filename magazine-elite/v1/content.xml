@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-21 08:37" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-21 11:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Magazine Elite</title>
 	<link>https://demo.unfoldwp.com/magazine-elite</link>
-	<description></description>
-	<pubDate>Fri, 21 Jul 2023 08:37:14 +0000</pubDate>
+	<description>Awesome Multipurpose Blog/Magazine Theme</description>
+	<pubDate>Fri, 21 Jul 2023 11:33:54 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -756,39 +756,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-gianluigi-bergamo-7360049]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/best-places-to-travel-solo-14-top-destinations-per-an-expert/pexels-gianluigi-bergamo-7360049/</link>
-		<pubDate>Wed, 19 Jul 2023 05:20:31 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/pexels-gianluigi-bergamo-7360049.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>98</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-19 05:20:31]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-19 05:20:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-gianluigi-bergamo-7360049]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>86</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-gianluigi-bergamo-7360049.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/pexels-gianluigi-bergamo-7360049.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:850;s:4:"file";s:44:"2023/07/pexels-gianluigi-bergamo-7360049.jpg";s:8:"filesize";i:145130;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12579;}s:5:"large";a:5:{s:4:"file";s:45:"pexels-gianluigi-bergamo-7360049-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119796;}s:9:"thumbnail";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5178;}s:12:"medium_large";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72492;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84721;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23627;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:44:"pexels-gianluigi-bergamo-7360049-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71140;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[pexels-harrison-haines-2921542]]></title>
 		<link>https://demo.unfoldwp.com/magazine-elite/paradise-pier-amusement-park-is-now-open-at-margaritaville-biloxi/pexels-harrison-haines-2921542/</link>
 		<pubDate>Wed, 19 Jul 2023 05:43:54 +0000</pubDate>
@@ -1086,32 +1053,36 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[One Click Demo Import - log_file_2023-07-21__07-04-38]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/one-click-demo-import-log_file_2023-07-21__07-04-38/</link>
-		<pubDate>Fri, 21 Jul 2023 07:04:38 +0000</pubDate>
+		<title><![CDATA[tree-nature-forest-branch-light-black-and-white-853850-pxhere.com]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/the-best-campgrounds-in-louisiana-to-visit-in-2023/tree-nature-forest-branch-light-black-and-white-853850-pxhere-com/</link>
+		<pubDate>Wed, 19 Jul 2023 07:07:23 +0000</pubDate>
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/log_file_2023-07-21__07-04-38.txt</guid>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-21 07:04:38]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-21 07:04:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:04:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:04:38]]></wp:post_modified_gmt>
+		<wp:post_id>148</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-19 07:07:23]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-19 07:07:23]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[one-click-demo-import-log_file_2023-07-21__07-04-38]]></wp:post_name>
+		<wp:post_name><![CDATA[tree-nature-forest-branch-light-black-and-white-853850-pxhere-com]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>94</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/log_file_2023-07-21__07-04-38.txt]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/log_file_2023-07-21__07-04-38.txt]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:78:"2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg";s:8:"filesize";i:984553;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10467;}s:5:"large";a:5:{s:4:"file";s:79:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129898;}s:9:"thumbnail";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4807;}s:12:"medium_large";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69251;}s:9:"1536x1536";a:5:{s:4:"file";s:79:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:305646;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105609;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24452;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90121;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1375,69 +1346,68 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-harun-tan-3980364]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/california-city-in-top-summer-travel-destinations/pexels-harun-tan-3980364/</link>
-		<pubDate>Wed, 19 Jul 2023 07:05:23 +0000</pubDate>
+		<title><![CDATA[Upgrade Now]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/upgrade-now/</link>
+		<pubDate>Tue, 18 Jul 2023 15:53:47 +0000</pubDate>
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/pexels-harun-tan-3980364.jpg</guid>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=55</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-19 07:05:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-19 07:05:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:post_id>55</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-21 08:35:51]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-18 15:53:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 08:35:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 08:35:51]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-harun-tan-3980364]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>100</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_name><![CDATA[upgrade-now]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-harun-tan-3980364.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/pexels-harun-tan-3980364.jpg]]></wp:meta_value>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:896;s:4:"file";s:36:"2023/07/pexels-harun-tan-3980364.jpg";s:8:"filesize";i:123737;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-300x210.jpg";s:5:"width";i:300;s:6:"height";i:210;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9913;}s:5:"large";a:5:{s:4:"file";s:37:"pexels-harun-tan-3980364-1024x717.jpg";s:5:"width";i:1024;s:6:"height";i:717;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67222;}s:9:"thumbnail";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5902;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-768x538.jpg";s:5:"width";i:768;s:6:"height";i:538;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40523;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47008;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15224;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:36:"pexels-harun-tan-3980364-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39564;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[tree-nature-forest-branch-light-black-and-white-853850-pxhere.com]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/the-best-campgrounds-in-louisiana-to-visit-in-2023/tree-nature-forest-branch-light-black-and-white-853850-pxhere-com/</link>
-		<pubDate>Wed, 19 Jul 2023 07:07:23 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>148</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-19 07:07:23]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-19 07:07:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[tree-nature-forest-branch-light-black-and-white-853850-pxhere-com]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>94</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:78:"2023/07/tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_.jpg";s:8:"filesize";i:984553;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10467;}s:5:"large";a:5:{s:4:"file";s:79:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:129898;}s:9:"thumbnail";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4807;}s:12:"medium_large";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69251;}s:9:"1536x1536";a:5:{s:4:"file";s:79:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:305646;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105609;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24452;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:78:"tree-nature-forest-branch-light-black-and-white-853850-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90121;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magazine-elite/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-18]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-07-19]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1507,39 +1477,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[pexels-harry-cooke-6194943]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/here-are-this-summers-top-travel-destinations/pexels-harry-cooke-6194943/</link>
-		<pubDate>Wed, 19 Jul 2023 07:15:19 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/pexels-harry-cooke-6194943.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>151</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-19 07:15:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-19 07:15:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-harry-cooke-6194943]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>79</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-harry-cooke-6194943.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/pexels-harry-cooke-6194943.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:38:"2023/07/pexels-harry-cooke-6194943.jpg";s:8:"filesize";i:94387;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8903;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-harry-cooke-6194943-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49860;}s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5377;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31201;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32892;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12235;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:38:"pexels-harry-cooke-6194943-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27539;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com]]></title>
 		<link>https://demo.unfoldwp.com/magazine-elite/sony-launches-new-affordable-headphones-with-50-hours-playback/laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere-com/</link>
 		<pubDate>Wed, 19 Jul 2023 07:17:23 +0000</pubDate>
@@ -1570,39 +1507,6 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:801;s:4:"file";s:80:"2023/07/laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_.jpg";s:8:"filesize";i:200563;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-300x188.jpg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10344;}s:5:"large";a:5:{s:4:"file";s:81:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-1024x641.jpg";s:5:"width";i:1024;s:6:"height";i:641;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73857;}s:9:"thumbnail";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5729;}s:12:"medium_large";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-768x481.jpg";s:5:"width";i:768;s:6:"height";i:481;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47213;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64451;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21080;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:80:"laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61860;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[pexels-hugo-r-gonzález-4263630]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/nikon-z8-mirrorless-camera-launched-in-india/pexels-hugo-r-gonzalez-4263630/</link>
-		<pubDate>Wed, 19 Jul 2023 07:19:11 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/07/pexels-hugo-r-gonzalez-4263630.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>153</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-19 07:19:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-19 07:19:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:05:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:05:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[pexels-hugo-r-gonzalez-4263630]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>21</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-hugo-r-gonzalez-4263630.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023/07/pexels-hugo-r-gonzalez-4263630.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2023/07/pexels-hugo-r-gonzalez-4263630.jpg";s:8:"filesize";i:89041;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7246;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-hugo-r-gonzalez-4263630-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40512;}s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5492;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23488;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30449;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10627;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:42:"pexels-hugo-r-gonzalez-4263630-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29819;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2074,6 +1978,138 @@ Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/california-city-in-top-summer-travel-destinations/black-and-white-skyline-photography-building-city-skyscraper-163-pxhere-com/</link>
+		<pubDate>Fri, 21 Jul 2023 11:19:56 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>254</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-21 11:19:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-21 11:19:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:19:56]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:19:56]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[black-and-white-skyline-photography-building-city-skyscraper-163-pxhere-com]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>100</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/07/black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1920;s:6:"height";i:1080;s:4:"file";s:88:"2023/07/black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_.jpg";s:8:"filesize";i:1114977;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16291;}s:5:"large";a:5:{s:4:"file";s:89:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:173094;}s:9:"thumbnail";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7736;}s:12:"medium_large";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97385;}s:9:"1536x1536";a:5:{s:4:"file";s:89:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-1536x864.jpg";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:368589;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142098;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36381;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:88:"black-and-white-skyline-photography-building-city-skyscraper-163-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:124068;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/best-places-to-travel-solo-14-top-destinations-per-an-expert/horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere-com/</link>
+		<pubDate>Fri, 21 Jul 2023 11:25:58 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>255</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-21 11:25:58]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-21 11:25:58]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:25:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:25:58]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere-com]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>86</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/07/horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:88:"2023/07/horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_.jpg";s:8:"filesize";i:385894;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8199;}s:5:"large";a:5:{s:4:"file";s:89:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69530;}s:9:"thumbnail";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3791;}s:12:"medium_large";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39500;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42837;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12657;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:88:"horizon-silhouette-black-and-white-white-skyline-photography-216-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38177;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[person-black-and-white-white-camera-photography-vintage-72-pxhere.com]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/nikon-z8-monochrome-camera-launched-recently/person-black-and-white-white-camera-photography-vintage-72-pxhere-com/</link>
+		<pubDate>Fri, 21 Jul 2023 11:30:00 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/person-black-and-white-white-camera-photography-vintage-72-pxhere.com_.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>256</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-21 11:30:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-21 11:30:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:30:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:30:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[person-black-and-white-white-camera-photography-vintage-72-pxhere-com]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>21</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/person-black-and-white-white-camera-photography-vintage-72-pxhere.com_.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/07/person-black-and-white-white-camera-photography-vintage-72-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1620;s:6:"height";i:1080;s:4:"file";s:82:"2023/07/person-black-and-white-white-camera-photography-vintage-72-pxhere.com_.jpg";s:8:"filesize";i:520724;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10340;}s:5:"large";a:5:{s:4:"file";s:83:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68687;}s:9:"thumbnail";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5094;}s:12:"medium_large";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42234;}s:9:"1536x1536";a:5:{s:4:"file";s:84:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-1536x1024.jpg";s:5:"width";i:1536;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149470;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49246;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16894;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:82:"person-black-and-white-white-camera-photography-vintage-72-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43782;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/here-are-this-summers-top-travel-destinations/black-and-white-photography-town-old-cityscape-panorama-98980-pxhere-com/</link>
+		<pubDate>Fri, 21 Jul 2023 11:33:05 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>259</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-21 11:33:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-21 11:33:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:33:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:33:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[black-and-white-photography-town-old-cityscape-panorama-98980-pxhere-com]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>79</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/07/black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1440;s:6:"height";i:1080;s:4:"file";s:85:"2023/07/black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_.jpg";s:8:"filesize";i:583904;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16156;}s:5:"large";a:5:{s:4:"file";s:86:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:144568;}s:9:"thumbnail";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6372;}s:12:"medium_large";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85756;}s:24:"magazine-elite-large-img";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-800x600.jpg";s:5:"width";i:800;s:6:"height";i:600;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92324;}s:24:"magazine-elite-small-img";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-400x300.jpg";s:5:"width";i:400;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26424;}s:25:"magazine-elite-medium-img";a:5:{s:4:"file";s:85:"black-and-white-photography-town-old-cityscape-panorama-98980-pxhere.com_-640x640.jpg";s:5:"width";i:640;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81687;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Vision Pro: Apple's new augmented reality headset unveiled]]></title>
 		<link>https://demo.unfoldwp.com/magazine-elite/vision-pro-apples-new-augmented-reality-headset-unveiled/</link>
 		<pubDate>Tue, 18 Jul 2023 08:29:43 +0000</pubDate>
@@ -2276,8 +2312,8 @@ https://vimeo.com/276817023
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-18 08:32:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-18 08:32:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:25:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:23:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:23:29]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[sony-launches-new-affordable-headphones-with-50-hours-playback]]></wp:post_name>
@@ -2287,8 +2323,7 @@ https://vimeo.com/276817023
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
-		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+										<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
 		<category domain="post_tag" nicename="headphones"><![CDATA[headphones]]></category>
 		<category domain="post_tag" nicename="launches"><![CDATA[launches]]></category>
 		<category domain="post_tag" nicename="playback"><![CDATA[playback]]></category>
@@ -2335,8 +2370,8 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Nikon Z8 mirrorless camera launched in India]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/nikon-z8-mirrorless-camera-launched-in-india/</link>
+		<title><![CDATA[Nikon Z8 monochrome camera launched recently]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/nikon-z8-monochrome-camera-launched-recently/</link>
 		<pubDate>Tue, 18 Jul 2023 09:08:30 +0000</pubDate>
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/index.php/2023/07/18/vision-pro-apples-new-augmented-reality-headset-unveiled-copy-copy/</guid>
@@ -2408,11 +2443,11 @@ https://vimeo.com/276817023
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-18 09:08:30]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-18 09:08:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:25:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:30:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:30:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[nikon-z8-mirrorless-camera-launched-in-india]]></wp:post_name>
+		<wp:post_name><![CDATA[nikon-z8-monochrome-camera-launched-recently]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -2451,7 +2486,7 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[153]]></wp:meta_value>
+		<wp:meta_value><![CDATA[256]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
@@ -2467,76 +2502,153 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_eeaa13a518678d903fefac0afdc3b723]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1689924346]]></wp:meta_value>
+		<wp:meta_value><![CDATA[1689939042]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[nikon-z8-mirrorless-camera-launched-in-india]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Upgrade Now]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/upgrade-now/</link>
-		<pubDate>Tue, 18 Jul 2023 15:53:47 +0000</pubDate>
+		<title><![CDATA[Best Smartwatch 2023: Wearables For Android]]></title>
+		<link>https://demo.unfoldwp.com/magazine-elite/best-smartwatch-2023-wearables-for-android/</link>
+		<pubDate>Tue, 18 Jul 2023 10:14:05 +0000</pubDate>
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=55</guid>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/index.php/2023/07/18/vision-pro-apples-new-augmented-reality-headset-unveiled-copy-2-copy/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li><strong>Proin laoreet neque eget ante semper.</strong>&nbsp;Aenean accumsan mattis malesuada. Aliquam ut luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Aenean accumsan mattis malesuada.</strong>&nbsp;Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed dapibus massa diam, vel facilisis mauris dapibus nec. Maecenas diam tortor, euismod vitae rutrum at, faucibus semper ligula.</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li><strong>Etiam venenatis condimentum.</strong>&nbsp;Nam dignissim dapibus libero id interdum. Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:embed {"url":"https://vimeo.com/276817023","type":"video","providerNameSlug":"vimeo","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://vimeo.com/276817023
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:gallery {"linkTo":"none"} -->
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":142,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-amit-14475748-1024x873.jpg" alt="" class="wp-image-142"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":146,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/man-black-and-white-girl-woman-road-white-500179-pxhere.com_-1024x576.jpg" alt="" class="wp-image-146"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":152,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-1024x641.jpg" alt="" class="wp-image-152"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-behrouz-sasani-5816426-min-819x1024.jpg" alt="" class="wp-image-128"/></figure>
+<!-- /wp:image -->
+
+<!-- wp:image {"id":68,"sizeSlug":"large","linkDestination":"none"} -->
+<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/laptop-notebook-computer-macbook-work-screen-700347-pxhere.com_-1024x683.jpg" alt="" class="wp-image-68"/></figure>
+<!-- /wp:image --></figure>
+<!-- /wp:gallery -->
+
+<!-- wp:quote -->
+<blockquote class="wp-block-quote"><!-- wp:paragraph -->
+<p><strong>Never Give up. Today is hard and tomorrow will be Worse, but the day after Tomorrow will be Sunshine.</strong></p>
+<!-- /wp:paragraph --><cite>Jack Ma, Founder Alibaba Group</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:paragraph -->
+<p>Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada. <a href="#">Aliquam ut</a> luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>55</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-21 08:35:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-18 15:53:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:35:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:35:51]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[upgrade-now]]></wp:post_name>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2023-07-18 10:14:05]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-07-18 10:14:05]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 07:25:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[best-smartwatch-2023-wearables-for-android]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+										<category domain="post_tag" nicename="android"><![CDATA[Android]]></category>
+		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
+		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="post_tag" nicename="smartwatch"><![CDATA[smartwatch]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[55]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_time_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1689670391]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_efafe04117d9d86ad2d963bf9d3b60d9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Amplify your entertainment with moto g32" width="640" height="360" src="https://www.youtube.com/embed/8hIIa4LktUM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_time_efafe04117d9d86ad2d963bf9d3b60d9]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1689675310]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_6a3a368f093bb45a0c9683098e5e67da]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Top 5 Best LTE Smartwatch 2023" width="640" height="360" src="https://www.youtube.com/embed/yY9VikrsJn4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_time_6a3a368f093bb45a0c9683098e5e67da]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1689676167]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magazine-elite/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[vision-pro-apples-new-augmented-reality-headset-unveiled-copy-2-copy]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-07-18]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-07-19]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_oembed_eeaa13a518678d903fefac0afdc3b723]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="YOSEMITE in Black and White" src="https://player.vimeo.com/video/276817023?dnt=1&amp;app_id=122963" width="640" height="272" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_eeaa13a518678d903fefac0afdc3b723]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1689924341]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3446,144 +3558,6 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Best Smartwatch 2023: Wearables For Android]]></title>
-		<link>https://demo.unfoldwp.com/magazine-elite/best-smartwatch-2023-wearables-for-android/</link>
-		<pubDate>Tue, 18 Jul 2023 10:14:05 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/index.php/2023/07/18/vision-pro-apples-new-augmented-reality-headset-unveiled-copy-2-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li><strong>Proin laoreet neque eget ante semper.</strong>&nbsp;Aenean accumsan mattis malesuada. Aliquam ut luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Aenean accumsan mattis malesuada.</strong>&nbsp;Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed dapibus massa diam, vel facilisis mauris dapibus nec. Maecenas diam tortor, euismod vitae rutrum at, faucibus semper ligula.</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li><strong>Etiam venenatis condimentum.</strong>&nbsp;Nam dignissim dapibus libero id interdum. Ut id urna tellus. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:embed {"url":"https://vimeo.com/276817023","type":"video","providerNameSlug":"vimeo","responsive":true,"className":"wp-embed-aspect-21-9 wp-has-aspect-ratio"} -->
-<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-21-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
-https://vimeo.com/276817023
-</div></figure>
-<!-- /wp:embed -->
-
-<!-- wp:paragraph -->
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Suspendisse eget suscipit nisi, eget aliquet sem. Nam interdum odio ut justo dignissim malesuada. Fusce aliquet laoreet leo id consectetur.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":142,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-amit-14475748-1024x873.jpg" alt="" class="wp-image-142"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":146,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/man-black-and-white-girl-woman-road-white-500179-pxhere.com_-1024x576.jpg" alt="" class="wp-image-146"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":152,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/laptop-desk-computer-mobile-book-black-and-white-1076276-pxhere.com_-1024x641.jpg" alt="" class="wp-image-152"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":128,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/pexels-behrouz-sasani-5816426-min-819x1024.jpg" alt="" class="wp-image-128"/></figure>
-<!-- /wp:image -->
-
-<!-- wp:image {"id":68,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magazine-elite/wp-content/uploads/sites/9/2023/07/laptop-notebook-computer-macbook-work-screen-700347-pxhere.com_-1024x683.jpg" alt="" class="wp-image-68"/></figure>
-<!-- /wp:image --></figure>
-<!-- /wp:gallery -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><!-- wp:paragraph -->
-<p><strong>Never Give up. Today is hard and tomorrow will be Worse, but the day after Tomorrow will be Sunshine.</strong></p>
-<!-- /wp:paragraph --><cite>Jack Ma, Founder Alibaba Group</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>Duis sit amet dolor dapibus, finibus enim sit amet, vestibulum neque. Proin laoreet neque eget ante semper, vitae ornare odio dignissim. Aenean accumsan mattis malesuada. <a href="#">Aliquam ut</a> luctus nisl. Etiam venenatis condimentum tortor id malesuada. Nam sed semper quam.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2023-07-18 10:14:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-07-18 10:14:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:25:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[best-smartwatch-2023-wearables-for-android]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="android"><![CDATA[Android]]></category>
-		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
-		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
-		<category domain="post_tag" nicename="smartwatch"><![CDATA[smartwatch]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[150]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1689670391]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_efafe04117d9d86ad2d963bf9d3b60d9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Amplify your entertainment with moto g32" width="640" height="360" src="https://www.youtube.com/embed/8hIIa4LktUM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_efafe04117d9d86ad2d963bf9d3b60d9]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1689675310]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_6a3a368f093bb45a0c9683098e5e67da]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="Top 5 Best LTE Smartwatch 2023" width="640" height="360" src="https://www.youtube.com/embed/yY9VikrsJn4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_6a3a368f093bb45a0c9683098e5e67da]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1689676167]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[vision-pro-apples-new-augmented-reality-headset-unveiled-copy-2-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_eeaa13a518678d903fefac0afdc3b723]]></wp:meta_key>
-		<wp:meta_value><![CDATA[<iframe title="YOSEMITE in Black and White" src="https://player.vimeo.com/video/276817023?dnt=1&amp;app_id=122963" width="640" height="272" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_oembed_time_eeaa13a518678d903fefac0afdc3b723]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1689924341]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Simple yoga practices to relieve anxiety]]></title>
 		<link>https://demo.unfoldwp.com/magazine-elite/simple-yoga-practices-to-relieve-anxiety/</link>
 		<pubDate>Tue, 18 Jul 2023 10:30:25 +0000</pubDate>
@@ -3657,8 +3631,8 @@ https://vimeo.com/276817023
 		<wp:post_id>31</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-18 10:30:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-18 10:30:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:25:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:23:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:23:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[simple-yoga-practices-to-relieve-anxiety]]></wp:post_name>
@@ -3669,7 +3643,6 @@ https://vimeo.com/276817023
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="anxiety"><![CDATA[anxiety]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="practices"><![CDATA[practices]]></category>
 		<category domain="post_tag" nicename="relieve"><![CDATA[relieve]]></category>
@@ -3805,8 +3778,8 @@ https://vimeo.com/276817023
 		<wp:post_id>43</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-18 11:22:13]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-18 11:22:13]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:25:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:25:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:23:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:23:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-improve-heart-health-diet-exercise-and-more]]></wp:post_name>
@@ -3817,7 +3790,6 @@ https://vimeo.com/276817023
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="diet"><![CDATA[diet]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="exercise"><![CDATA[exercise]]></category>
 		<category domain="post_tag" nicename="heart-health"><![CDATA[heart health]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
@@ -4128,8 +4100,8 @@ https://vimeo.com/276817023
 		<wp:post_id>74</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 04:15:51]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 04:15:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:02:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:02:01]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:23:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:23:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[13-predictions-for-the-fashion-trends-well-see-in-2023]]></wp:post_name>
@@ -4140,7 +4112,6 @@ https://vimeo.com/276817023
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
@@ -4215,10 +4186,6 @@ https://vimeo.com/276817023
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[magazine_elite_single_post_style]]></wp:meta_key>
 		<wp:meta_value><![CDATA[single_style_3]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[magazine_elite_page_layout]]></wp:meta_key>
@@ -4299,8 +4266,8 @@ https://vimeo.com/276817023
 		<wp:post_id>79</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 04:35:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 04:35:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:24:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:24:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:33:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:33:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[here-are-this-summers-top-travel-destinations]]></wp:post_name>
@@ -4312,9 +4279,10 @@ https://vimeo.com/276817023
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="destination"><![CDATA[destination]]></category>
 		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
+		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
@@ -4361,7 +4329,7 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[151]]></wp:meta_value>
+		<wp:meta_value><![CDATA[259]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_3e5f06c66d32de23d2d76deab50f47b9]]></wp:meta_key>
@@ -4462,8 +4430,8 @@ https://vimeo.com/276817023
 		<wp:post_id>86</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 04:53:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 04:53:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:39:07]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:39:07]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:26:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:26:04]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[best-places-to-travel-solo-14-top-destinations-per-an-expert]]></wp:post_name>
@@ -4478,8 +4446,8 @@ https://vimeo.com/276817023
 		<category domain="post_tag" nicename="places"><![CDATA[places]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 		<category domain="post_tag" nicename="solo"><![CDATA[solo]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
@@ -4506,7 +4474,7 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[98]]></wp:meta_value>
+		<wp:meta_value><![CDATA[255]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_a750f63c98bf4131f4ac96cd0316a7a5]]></wp:meta_key>
@@ -4750,8 +4718,8 @@ https://vimeo.com/276817023
 		<wp:post_id>100</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 05:21:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 05:21:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:55:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:55:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:20:39]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:20:39]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[california-city-in-top-summer-travel-destinations]]></wp:post_name>
@@ -4766,8 +4734,8 @@ https://vimeo.com/276817023
 		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_format" nicename="post-format-status"><![CDATA[Status]]></category>
 		<category domain="post_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
@@ -4794,7 +4762,7 @@ https://vimeo.com/276817023
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[147]]></wp:meta_value>
+		<wp:meta_value><![CDATA[254]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_a750f63c98bf4131f4ac96cd0316a7a5]]></wp:meta_key>
@@ -5117,8 +5085,8 @@ https://vimeo.com/276817023
 		<wp:post_id>109</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 05:45:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 05:45:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:24:10]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:24:10]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:21:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:21:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[pop-up-post-malone-concert-in-times-square-draws-massive-crowd]]></wp:post_name>
@@ -5130,7 +5098,6 @@ https://vimeo.com/276817023
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="concert"><![CDATA[concert]]></category>
 		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="malone"><![CDATA[Malone]]></category>
 		<category domain="post_tag" nicename="times-square"><![CDATA[Times Square]]></category>
 						<wp:postmeta>
@@ -5496,8 +5463,8 @@ https://vimeo.com/276817023
 		<wp:post_id>120</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 05:57:53]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 05:57:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:23:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:23:59]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:21:27]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:21:27]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[queenscliff-music-festival-expands-2023-lineup]]></wp:post_name>
@@ -5509,7 +5476,6 @@ https://vimeo.com/276817023
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="2023"><![CDATA[2023]]></category>
 		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="music-festival"><![CDATA[music festival]]></category>
 		<category domain="post_tag" nicename="queenscliff"><![CDATA[Queenscliff]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
@@ -5881,8 +5847,8 @@ https://vimeo.com/133877157
 		<wp:post_id>130</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 06:21:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 06:21:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 08:00:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 08:00:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:21:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:21:21]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[new-womens-fashion-experience-in-rome]]></wp:post_name>
@@ -5892,8 +5858,7 @@ https://vimeo.com/133877157
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+										<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="post_tag" nicename="men"><![CDATA[men]]></category>
 		<category domain="post_tag" nicename="rome"><![CDATA[Rome]]></category>
@@ -6300,8 +6265,8 @@ https://vimeo.com/276817023
 		<wp:post_id>136</wp:post_id>
 		<wp:post_date><![CDATA[2023-07-19 06:40:16]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-07-19 06:40:16]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-07-21 07:36:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-07-21 07:36:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-07-21 11:21:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-07-21 11:21:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[1960s-fashion-trends-that-we-still-adore-today]]></wp:post_name>
@@ -6312,7 +6277,6 @@ https://vimeo.com/276817023
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="1960s"><![CDATA[1960s]]></category>
-		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
