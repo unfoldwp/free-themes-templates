@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.2.2" created="2023-07-25 13:54" -->
+	<!-- generator="WordPress/6.2.2" created="2023-07-27 07:09" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Elite</title>
 	<link>https://demo.unfoldwp.com/magazine-elite</link>
 	<description>Awesome Multipurpose Blog/Magazine Theme</description>
-	<pubDate>Tue, 25 Jul 2023 13:54:05 +0000</pubDate>
+	<pubDate>Thu, 27 Jul 2023 07:09:09 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -4359,8 +4359,8 @@ https://vimeo.com/276817023
 		<category domain="category" nicename="editorial"><![CDATA[Editorial]]></category>
 		<category domain="category" nicename="exclusive"><![CDATA[Exclusive]]></category>
 		<category domain="post_tag" nicename="summer"><![CDATA[summer]]></category>
-		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 		<category domain="post_tag" nicename="travel"><![CDATA[travel]]></category>
+		<category domain="category" nicename="travel"><![CDATA[Travel]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
 		<wp:meta_value><![CDATA[<iframe title="Introducing Apple Vision Pro" width="640" height="360" src="https://www.youtube.com/embed/TX9qSaGXFyg?start=134&feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
@@ -6355,8 +6355,8 @@ https://vimeo.com/276817023
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="1960s"><![CDATA[1960s]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[fashion]]></category>
 		<category domain="post_tag" nicename="trends"><![CDATA[trends]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_75b0aa49ea57e26e214cf41b48b97a89]]></wp:meta_key>
