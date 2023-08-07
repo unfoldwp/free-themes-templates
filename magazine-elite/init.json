@@ -9,9 +9,14 @@
         ],
         "pro": [
             {
-                "import_name": "Mag",
+                "import_name": "Blog - Modern",
                 "import_path": "v2",
-                "preview_url": "https://demo.unfoldwp.com/magazine-elite-pro/"
+                "preview_url": "https://demo.unfoldwp.com/mag-elite-modern/"
+            },
+            {
+                "import_name": "Blog - Retro",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/mag-elite-retro/"
             }
         ]
     },
