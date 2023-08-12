@@ -2,21 +2,26 @@
     "import_files": {
         "free": [
             {
-                "import_name": "Blog",
+                "import_name": "Classic",
                 "import_path": "v1",
                 "preview_url": "https://demo.unfoldwp.com/magazine-elite/"
             }
         ],
         "pro": [
             {
-                "import_name": "Blog - Modern",
+                "import_name": "Modern",
                 "import_path": "v2",
                 "preview_url": "https://demo.unfoldwp.com/mag-elite-modern/"
             },
             {
-                "import_name": "Blog - Retro",
+                "import_name": "Retro",
                 "import_path": "v3",
                 "preview_url": "https://demo.unfoldwp.com/mag-elite-retro/"
+            },
+            {
+                "import_name": "Article",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/mag-elite-article/"
             }
         ]
     },
