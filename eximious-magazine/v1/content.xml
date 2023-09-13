@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-09-10 10:41" -->
+	<!-- generator="WordPress/6.3.1" created="2023-09-13 08:11" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Eximious Magazine</title>
 	<link>https://demo.unfoldwp.com/eximious-magazine</link>
 	<description>Feature Rich Multipurpose Theme</description>
-	<pubDate>Sun, 10 Sep 2023 10:41:49 +0000</pubDate>
+	<pubDate>Wed, 13 Sep 2023 08:11:55 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -342,7 +342,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:848;s:4:"file";s:64:"2018/08/beach-water-sand-sky-sunshine-car-971394-pxhere.com_.jpg";s:8:"filesize";i:373604;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7642;}s:6:"medium";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16231;}s:12:"medium_large";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86859;}s:5:"large";a:5:{s:4:"file";s:65:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-1024x678.jpg";s:5:"width";i:1024;s:6:"height";i:678;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146075;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:65:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209436;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80481;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30848;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18142;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:848;s:4:"file";s:64:"2018/08/beach-water-sand-sky-sunshine-car-971394-pxhere.com_.jpg";s:8:"filesize";i:255852;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7642;}s:6:"medium";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16231;}s:12:"medium_large";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86859;}s:5:"large";a:5:{s:4:"file";s:65:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-1024x678.jpg";s:5:"width";i:1024;s:6:"height";i:678;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:146075;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:65:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209436;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80481;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30848;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:64:"beach-water-sand-sky-sunshine-car-971394-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18142;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:373604;s:9:"ori_saved";i:117752;s:10:"webp_total";i:373604;s:10:"webp_saved";i:145070;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -375,7 +392,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-jim-de-ramos-1263348.jpg";s:8:"filesize";i:242380;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9102;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17207;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73850;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-jim-de-ramos-1263348-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118318;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-jim-de-ramos-1263348-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:163673;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69151;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30760;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17048;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-jim-de-ramos-1263348.jpg";s:8:"filesize";i:201930;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9102;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17207;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73850;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-jim-de-ramos-1263348-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118318;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-jim-de-ramos-1263348-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:163673;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69151;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30760;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-jim-de-ramos-1263348-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17048;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:242380;s:9:"ori_saved";i:40450;s:10:"webp_total";i:242380;s:10:"webp_saved";i:88006;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -408,7 +442,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:914;s:4:"file";s:40:"2018/08/pexels-edgar-colomba-6364138.jpg";s:8:"filesize";i:253369;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9305;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17989;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-768x548.jpg";s:5:"width";i:768;s:6:"height";i:548;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81071;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-edgar-colomba-6364138-1024x731.jpg";s:5:"width";i:1024;s:6:"height";i:731;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134435;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-edgar-colomba-6364138-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185768;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71496;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30471;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17646;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:914;s:4:"file";s:40:"2018/08/pexels-edgar-colomba-6364138.jpg";s:8:"filesize";i:216687;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9305;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-300x214.jpg";s:5:"width";i:300;s:6:"height";i:214;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17989;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-768x548.jpg";s:5:"width";i:768;s:6:"height";i:548;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81071;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-edgar-colomba-6364138-1024x731.jpg";s:5:"width";i:1024;s:6:"height";i:731;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134435;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-edgar-colomba-6364138-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185768;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71496;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30471;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-edgar-colomba-6364138-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17646;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:253369;s:9:"ori_saved";i:36682;s:10:"webp_total";i:253369;s:10:"webp_saved";i:51653;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -441,7 +492,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:38:"2018/08/pexels-tim-douglas-6210844.jpg";s:8:"filesize";i:204627;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9264;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17072;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69470;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-tim-douglas-6210844-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:110153;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-tim-douglas-6210844-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:148923;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64269;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27828;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17382;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:38:"2018/08/pexels-tim-douglas-6210844.jpg";s:8:"filesize";i:183545;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9264;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17072;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69470;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-tim-douglas-6210844-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:110153;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-tim-douglas-6210844-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:148923;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64269;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27828;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-tim-douglas-6210844-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17382;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:204627;s:9:"ori_saved";i:21082;s:10:"webp_total";i:204627;s:10:"webp_saved";i:73889;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -474,7 +542,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:65:"2018/07/beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_.jpg";s:8:"filesize";i:173445;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3019;}s:6:"medium";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7108;}s:12:"medium_large";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31694;}s:5:"large";a:5:{s:4:"file";s:66:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52428;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:66:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76434;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30353;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13384;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6338;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:65:"2018/07/beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_.jpg";s:8:"filesize";i:83965;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3019;}s:6:"medium";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7108;}s:12:"medium_large";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31694;}s:5:"large";a:5:{s:4:"file";s:66:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52428;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:66:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76434;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30353;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13384;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:65:"beach-sea-girl-sunshine-woman-hair-910294-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6338;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:173445;s:9:"ori_saved";i:89480;s:10:"webp_total";i:173445;s:10:"webp_saved";i:111065;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -507,7 +592,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2022/08/site-icon.png";s:8:"filesize";i:16745;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9923;}s:6:"medium";a:5:{s:4:"file";s:21:"site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21444;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:21:"site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:21:"site-icon-512x250.png";s:5:"width";i:512;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:18372;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:21:"site-icon-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17247;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2022/08/site-icon.png";s:8:"filesize";i:16683;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9923;}s:6:"medium";a:5:{s:4:"file";s:21:"site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21444;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:21:"site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:21:"site-icon-512x250.png";s:5:"width";i:512;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:18372;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:21:"site-icon-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:17247;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:16745;s:9:"ori_saved";i:62;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -546,6 +648,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
 		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:37344;s:9:"ori_saved";i:20661;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-nikita-das-10923954]]></title>
@@ -577,7 +696,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1279;s:6:"height";i:853;s:4:"file";s:38:"2018/08/pexels-nikita-das-10923954.jpg";s:8:"filesize";i:102314;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6384;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9796;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32935;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-nikita-das-10923954-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52044;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-nikita-das-10923954-1279x720.jpg";s:5:"width";i:1279;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73227;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32417;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16827;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10160;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1279;s:6:"height";i:853;s:4:"file";s:38:"2018/08/pexels-nikita-das-10923954.jpg";s:8:"filesize";i:84907;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6384;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9796;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32935;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-nikita-das-10923954-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52044;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-nikita-das-10923954-1279x720.jpg";s:5:"width";i:1279;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73227;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32417;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16827;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-nikita-das-10923954-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10160;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:102314;s:9:"ori_saved";i:17407;s:10:"webp_total";i:102314;s:10:"webp_saved";i:52664;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -610,7 +746,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:39:"2018/08/pexels-artem-podrez-5726800.jpg";s:8:"filesize";i:121526;s:5:"sizes";a:7:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8423;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11730;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40212;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-artem-podrez-5726800-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62326;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42738;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21207;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14578;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:39:"2018/08/pexels-artem-podrez-5726800.jpg";s:8:"filesize";i:105145;s:5:"sizes";a:7:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8423;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11730;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40212;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-artem-podrez-5726800-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62326;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42738;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21207;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-artem-podrez-5726800-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14578;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:121526;s:9:"ori_saved";i:16381;s:10:"webp_total";i:121526;s:10:"webp_saved";i:61040;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -643,11 +796,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:45:"2018/08/pexels-rdne-stock-project-7035447.jpg";s:8:"filesize";i:134701;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9093;}s:6:"medium";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14132;}s:12:"medium_large";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45518;}s:5:"large";a:5:{s:4:"file";s:46:"pexels-rdne-stock-project-7035447-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69474;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:46:"pexels-rdne-stock-project-7035447-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90519;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41700;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20804;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15238;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:45:"2018/08/pexels-rdne-stock-project-7035447.jpg";s:8:"filesize";i:117963;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9093;}s:6:"medium";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14132;}s:12:"medium_large";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45518;}s:5:"large";a:5:{s:4:"file";s:46:"pexels-rdne-stock-project-7035447-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69474;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:46:"pexels-rdne-stock-project-7035447-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90519;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41700;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20804;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:45:"pexels-rdne-stock-project-7035447-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15238;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:134701;s:9:"ori_saved";i:16738;s:10:"webp_total";i:134701;s:10:"webp_saved";i:63835;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -680,7 +850,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2018/08/pexels-ron-lach-9783373.jpg";s:8:"filesize";i:146685;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8821;}s:6:"medium";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14903;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49747;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-ron-lach-9783373-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76758;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:36:"pexels-ron-lach-9783373-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100836;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46576;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23195;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15037;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2018/08/pexels-ron-lach-9783373.jpg";s:8:"filesize";i:129253;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8821;}s:6:"medium";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14903;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49747;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-ron-lach-9783373-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76758;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:36:"pexels-ron-lach-9783373-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100836;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46576;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23195;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:35:"pexels-ron-lach-9783373-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15037;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:146685;s:9:"ori_saved";i:17432;s:10:"webp_total";i:146685;s:10:"webp_saved";i:74915;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -713,7 +900,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:951;s:4:"file";s:32:"2018/08/pexels-laker-6156975.jpg";s:8:"filesize";i:221917;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-laker-6156975-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8225;}s:6:"medium";a:5:{s:4:"file";s:32:"pexels-laker-6156975-300x223.jpg";s:5:"width";i:300;s:6:"height";i:223;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14376;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-laker-6156975-768x571.jpg";s:5:"width";i:768;s:6:"height";i:571;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64620;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-laker-6156975-1024x761.jpg";s:5:"width";i:1024;s:6:"height";i:761;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:107552;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:33:"pexels-laker-6156975-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152828;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61174;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28139;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15193;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:951;s:4:"file";s:32:"2018/08/pexels-laker-6156975.jpg";s:8:"filesize";i:194180;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:32:"pexels-laker-6156975-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8225;}s:6:"medium";a:5:{s:4:"file";s:32:"pexels-laker-6156975-300x223.jpg";s:5:"width";i:300;s:6:"height";i:223;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14376;}s:12:"medium_large";a:5:{s:4:"file";s:32:"pexels-laker-6156975-768x571.jpg";s:5:"width";i:768;s:6:"height";i:571;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64620;}s:5:"large";a:5:{s:4:"file";s:33:"pexels-laker-6156975-1024x761.jpg";s:5:"width";i:1024;s:6:"height";i:761;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:107552;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:33:"pexels-laker-6156975-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152828;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61174;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28139;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:32:"pexels-laker-6156975-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15193;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:221917;s:9:"ori_saved";i:27737;s:10:"webp_total";i:221917;s:10:"webp_saved";i:87379;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -746,7 +950,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:38:"2018/08/pexels-iheb-khili-14513608.jpg";s:8:"filesize";i:234040;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7409;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14284;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66120;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-iheb-khili-14513608-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112502;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-iheb-khili-14513608-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154990;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55691;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23105;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13488;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:38:"2018/08/pexels-iheb-khili-14513608.jpg";s:8:"filesize";i:203701;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7409;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14284;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66120;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-iheb-khili-14513608-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112502;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-iheb-khili-14513608-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154990;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55691;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23105;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-iheb-khili-14513608-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13488;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:234040;s:9:"ori_saved";i:30339;s:10:"webp_total";i:234040;s:10:"webp_saved";i:67822;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -779,7 +1000,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-oleksandr-p-12960383.jpg";s:8:"filesize";i:173178;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8832;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14594;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55179;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12960383-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85751;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12960383-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120106;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53489;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25840;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15944;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-oleksandr-p-12960383.jpg";s:8:"filesize";i:147488;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8832;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14594;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55179;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12960383-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85751;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12960383-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120106;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53489;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25840;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12960383-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15944;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:173178;s:9:"ori_saved";i:25690;s:10:"webp_total";i:173178;s:10:"webp_saved";i:74342;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -812,7 +1050,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2018/08/pexels-mikhail-nilov-7662634.jpg";s:8:"filesize";i:179777;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7726;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14236;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56209;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7662634-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89135;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7662634-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115235;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51437;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23386;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13673;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:40:"2018/08/pexels-mikhail-nilov-7662634.jpg";s:8:"filesize";i:153442;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7726;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14236;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56209;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7662634-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89135;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-mikhail-nilov-7662634-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:115235;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51437;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23386;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-mikhail-nilov-7662634-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13673;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:179777;s:9:"ori_saved";i:26335;s:10:"webp_total";i:179777;s:10:"webp_saved";i:85475;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -845,7 +1100,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/08/pexels-designecologist-1779487.jpg";s:8:"filesize";i:155241;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8399;}s:6:"medium";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14010;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50582;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-designecologist-1779487-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79519;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:43:"pexels-designecologist-1779487-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117511;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51170;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26059;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14942;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:42:"2018/08/pexels-designecologist-1779487.jpg";s:8:"filesize";i:134437;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8399;}s:6:"medium";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14010;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50582;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-designecologist-1779487-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79519;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:43:"pexels-designecologist-1779487-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117511;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51170;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26059;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:42:"pexels-designecologist-1779487-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14942;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:155241;s:9:"ori_saved";i:20804;s:10:"webp_total";i:155241;s:10:"webp_saved";i:77951;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -878,7 +1150,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/08/pexels-tessa-charles-13886741.jpg";s:8:"filesize";i:68302;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6288;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9252;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24773;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-tessa-charles-13886741-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35793;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:42:"pexels-tessa-charles-13886741-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46274;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24233;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13337;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9040;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2018/08/pexels-tessa-charles-13886741.jpg";s:8:"filesize";i:53369;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6288;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9252;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24773;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-tessa-charles-13886741-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35793;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:42:"pexels-tessa-charles-13886741-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46274;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24233;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13337;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:41:"pexels-tessa-charles-13886741-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9040;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:68302;s:9:"ori_saved";i:14933;s:10:"webp_total";i:68302;s:10:"webp_saved";i:43962;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -911,7 +1200,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:826;s:4:"file";s:62:"2018/08/beach-sea-coast-trail-car-jeep-1228364-pxhere.com_.jpg";s:8:"filesize";i:234280;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3894;}s:6:"medium";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7778;}s:12:"medium_large";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-768x496.jpg";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36835;}s:5:"large";a:5:{s:4:"file";s:63:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-1024x661.jpg";s:5:"width";i:1024;s:6:"height";i:661;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62251;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:63:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95819;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36842;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16238;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8416;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:826;s:4:"file";s:62:"2018/08/beach-sea-coast-trail-car-jeep-1228364-pxhere.com_.jpg";s:8:"filesize";i:96950;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3894;}s:6:"medium";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7778;}s:12:"medium_large";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-768x496.jpg";s:5:"width";i:768;s:6:"height";i:496;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36835;}s:5:"large";a:5:{s:4:"file";s:63:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-1024x661.jpg";s:5:"width";i:1024;s:6:"height";i:661;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62251;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:63:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95819;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36842;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16238;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:62:"beach-sea-coast-trail-car-jeep-1228364-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8416;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:234280;s:9:"ori_saved";i:137330;s:10:"webp_total";i:234280;s:10:"webp_saved";i:164594;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -944,7 +1250,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:68:"2018/08/beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_.jpg";s:8:"filesize";i:299088;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4438;}s:6:"medium";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9679;}s:12:"medium_large";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50807;}s:5:"large";a:5:{s:4:"file";s:69:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87415;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:69:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127233;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47139;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18571;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10447;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:68:"2018/08/beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_.jpg";s:8:"filesize";i:150922;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4438;}s:6:"medium";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9679;}s:12:"medium_large";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50807;}s:5:"large";a:5:{s:4:"file";s:69:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87415;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:69:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127233;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47139;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18571;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:68:"beach-sea-coast-water-nature-outdoor-1216645-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10447;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:299088;s:9:"ori_saved";i:148166;s:10:"webp_total";i:299088;s:10:"webp_saved";i:165480;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -977,7 +1300,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:71:"2018/08/structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_.jpg";s:8:"filesize";i:369196;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5175;}s:6:"medium";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14136;}s:12:"medium_large";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75200;}s:5:"large";a:5:{s:4:"file";s:72:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127925;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:72:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168843;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67486;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27762;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12309;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:71:"2018/08/structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_.jpg";s:8:"filesize";i:188468;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5175;}s:6:"medium";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14136;}s:12:"medium_large";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75200;}s:5:"large";a:5:{s:4:"file";s:72:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127925;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:72:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:168843;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67486;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27762;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:71:"structure-lawn-mansion-palace-plaza-park-778965-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12309;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:369196;s:9:"ori_saved";i:180728;s:10:"webp_total";i:369196;s:10:"webp_saved";i:186536;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1352,7 +1692,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:887;s:4:"file";s:40:"2018/08/pexels-xue-guangjian-1705667.jpg";s:8:"filesize";i:336901;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9672;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-300x208.jpg";s:5:"width";i:300;s:6:"height";i:208;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19055;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-768x532.jpg";s:5:"width";i:768;s:6:"height";i:532;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96670;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1705667-1024x710.jpg";s:5:"width";i:1024;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:162495;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1705667-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:236497;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87786;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35677;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19418;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:887;s:4:"file";s:40:"2018/08/pexels-xue-guangjian-1705667.jpg";s:8:"filesize";i:296897;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9672;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-300x208.jpg";s:5:"width";i:300;s:6:"height";i:208;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19055;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-768x532.jpg";s:5:"width";i:768;s:6:"height";i:532;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96670;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1705667-1024x710.jpg";s:5:"width";i:1024;s:6:"height";i:710;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:162495;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1705667-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:236497;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87786;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35677;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1705667-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19418;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:336901;s:9:"ori_saved";i:40004;s:10:"webp_total";i:336901;s:10:"webp_saved";i:69993;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1385,11 +1742,28 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-oleksandr-p-12956084.jpg";s:8:"filesize";i:123567;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6474;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10674;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34348;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12956084-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54431;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12956084-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78870;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33145;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16573;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10068;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2018/08/pexels-oleksandr-p-12956084.jpg";s:8:"filesize";i:99807;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6474;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10674;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34348;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12956084-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54431;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:40:"pexels-oleksandr-p-12956084-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78870;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33145;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16573;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:39:"pexels-oleksandr-p-12956084-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10068;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:123567;s:9:"ori_saved";i:23760;s:10:"webp_total";i:123567;s:10:"webp_saved";i:56443;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1422,7 +1796,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:855;s:4:"file";s:36:"2018/08/pexels-nick-kwan-2725479.jpg";s:8:"filesize";i:247208;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8447;}s:6:"medium";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15039;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71261;}s:5:"large";a:5:{s:4:"file";s:37:"pexels-nick-kwan-2725479-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117850;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:37:"pexels-nick-kwan-2725479-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:178890;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69712;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29171;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16154;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:855;s:4:"file";s:36:"2018/08/pexels-nick-kwan-2725479.jpg";s:8:"filesize";i:212142;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8447;}s:6:"medium";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15039;}s:12:"medium_large";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-768x513.jpg";s:5:"width";i:768;s:6:"height";i:513;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71261;}s:5:"large";a:5:{s:4:"file";s:37:"pexels-nick-kwan-2725479-1024x684.jpg";s:5:"width";i:1024;s:6:"height";i:684;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117850;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:37:"pexels-nick-kwan-2725479-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:178890;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69712;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29171;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:36:"pexels-nick-kwan-2725479-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16154;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:247208;s:9:"ori_saved";i:35066;s:10:"webp_total";i:247208;s:10:"webp_saved";i:72324;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1455,7 +1846,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:40:"2018/08/pexels-matthias-zomer-344029.jpg";s:8:"filesize";i:154239;s:5:"sizes";a:7:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9587;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16249;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55665;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-matthias-zomer-344029-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82502;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58871;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29023;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16354;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:40:"2018/08/pexels-matthias-zomer-344029.jpg";s:8:"filesize";i:133528;s:5:"sizes";a:7:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9587;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16249;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55665;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-matthias-zomer-344029-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82502;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58871;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29023;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:40:"pexels-matthias-zomer-344029-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16354;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:154239;s:9:"ori_saved";i:20711;s:10:"webp_total";i:154239;s:10:"webp_saved";i:75167;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1560,7 +1968,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:390;s:6:"height";i:115;s:4:"file";s:20:"2023/08/sitelogo.png";s:8:"filesize";i:4991;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:20:"sitelogo-150x115.png";s:5:"width";i:150;s:6:"height";i:115;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1951;}s:6:"medium";a:5:{s:4:"file";s:19:"sitelogo-300x88.png";s:5:"width";i:300;s:6:"height";i:88;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7060;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:20:"sitelogo-250x115.png";s:5:"width";i:250;s:6:"height";i:115;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2776;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:390;s:6:"height";i:115;s:4:"file";s:20:"2023/08/sitelogo.png";s:8:"filesize";i:3165;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:20:"sitelogo-150x115.png";s:5:"width";i:150;s:6:"height";i:115;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1951;}s:6:"medium";a:5:{s:4:"file";s:19:"sitelogo-300x88.png";s:5:"width";i:300;s:6:"height";i:88;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7060;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:20:"sitelogo-250x115.png";s:5:"width";i:250;s:6:"height";i:115;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2776;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:4991;s:9:"ori_saved";i:1826;s:10:"webp_total";i:4991;s:10:"webp_saved";i:2311;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1593,7 +2018,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:38:"2018/08/pexels-ivan-samkov-8951558.jpg";s:8:"filesize";i:223806;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9716;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15922;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63080;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-ivan-samkov-8951558-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105887;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-ivan-samkov-8951558-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166592;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63214;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29318;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17461;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:38:"2018/08/pexels-ivan-samkov-8951558.jpg";s:8:"filesize";i:199710;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9716;}s:6:"medium";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15922;}s:12:"medium_large";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63080;}s:5:"large";a:5:{s:4:"file";s:39:"pexels-ivan-samkov-8951558-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105887;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:39:"pexels-ivan-samkov-8951558-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166592;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63214;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29318;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:38:"pexels-ivan-samkov-8951558-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17461;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:223806;s:9:"ori_saved";i:24096;s:10:"webp_total";i:223806;s:10:"webp_saved";i:70742;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1626,7 +2068,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:90;s:4:"file";s:29:"2023/08/header-banner-1-1.png";s:8:"filesize";i:55569;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:28:"header-banner-1-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4318;}s:6:"medium";a:5:{s:4:"file";s:28:"header-banner-1-1-300x34.png";s:5:"width";i:300;s:6:"height";i:34;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12218;}s:12:"medium_large";a:5:{s:4:"file";s:28:"header-banner-1-1-768x86.png";s:5:"width";i:768;s:6:"height";i:86;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:53264;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:28:"header-banner-1-1-520x90.png";s:5:"width";i:520;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:30526;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:28:"header-banner-1-1-250x90.png";s:5:"width";i:250;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6815;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:800;s:6:"height";i:90;s:4:"file";s:29:"2023/08/header-banner-1-1.png";s:8:"filesize";i:41822;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:28:"header-banner-1-1-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4318;}s:6:"medium";a:5:{s:4:"file";s:28:"header-banner-1-1-300x34.png";s:5:"width";i:300;s:6:"height";i:34;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12218;}s:12:"medium_large";a:5:{s:4:"file";s:28:"header-banner-1-1-768x86.png";s:5:"width";i:768;s:6:"height";i:86;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:53264;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:28:"header-banner-1-1-520x90.png";s:5:"width";i:520;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:30526;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:28:"header-banner-1-1-250x90.png";s:5:"width";i:250;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6815;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:55569;s:9:"ori_saved";i:13747;s:10:"webp_total";i:55569;s:10:"webp_saved";i:48061;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1659,7 +2118,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:444;s:6:"height";i:46;s:4:"file";s:29:"2023/08/logo-horizontal-1.png";s:8:"filesize";i:3242;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:28:"logo-horizontal-1-150x46.png";s:5:"width";i:150;s:6:"height";i:46;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1196;}s:6:"medium";a:5:{s:4:"file";s:28:"logo-horizontal-1-300x31.png";s:5:"width";i:300;s:6:"height";i:31;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4360;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:28:"logo-horizontal-1-250x46.png";s:5:"width";i:250;s:6:"height";i:46;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1900;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:444;s:6:"height";i:46;s:4:"file";s:29:"2023/08/logo-horizontal-1.png";s:8:"filesize";i:2139;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:28:"logo-horizontal-1-150x46.png";s:5:"width";i:150;s:6:"height";i:46;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1196;}s:6:"medium";a:5:{s:4:"file";s:28:"logo-horizontal-1-300x31.png";s:5:"width";i:300;s:6:"height";i:31;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4360;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:28:"logo-horizontal-1-250x46.png";s:5:"width";i:250;s:6:"height";i:46;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1900;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:3242;s:9:"ori_saved";i:1103;s:10:"webp_total";i:3242;s:10:"webp_saved";i:1352;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1692,7 +2168,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:87:"2018/08/architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_.jpg";s:8:"filesize";i:406863;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4629;}s:6:"medium";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10290;}s:12:"medium_large";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60702;}s:5:"large";a:5:{s:4:"file";s:88:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109841;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:88:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:159943;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51784;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16896;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11284;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:87:"2018/08/architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_.jpg";s:8:"filesize";i:183931;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4629;}s:6:"medium";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10290;}s:12:"medium_large";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60702;}s:5:"large";a:5:{s:4:"file";s:88:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109841;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:88:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:159943;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51784;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16896;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:87:"architecture-eiffel-tower-paris-urban-monument-cityscape-727850-pxhere.com_-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11284;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:406863;s:9:"ori_saved";i:222932;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1725,7 +2218,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-1.png";s:8:"filesize";i:241364;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28571;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-1-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:58127;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-1-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:178252;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-1-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:101156;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-1-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:76567;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-1.png";s:8:"filesize";i:136167;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28571;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-1-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:58127;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-1-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:178252;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-1-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:101156;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-1-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:76567;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:241364;s:9:"ori_saved";i:105197;s:10:"webp_total";i:241364;s:10:"webp_saved";i:217576;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1758,7 +2268,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-2.png";s:8:"filesize";i:239001;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29884;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-2-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:59269;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-2-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:180187;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-2-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:102491;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-2-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:78033;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-2.png";s:8:"filesize";i:141107;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-2-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29884;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-2-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:59269;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-2-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:180187;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-2-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:102491;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-2-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:78033;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:239001;s:9:"ori_saved";i:97894;s:10:"webp_total";i:239001;s:10:"webp_saved";i:215323;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1791,7 +2318,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-3.png";s:8:"filesize";i:106057;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-3-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16710;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-3-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31147;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-3-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:84021;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-3-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50301;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-3-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:40761;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:26:"2023/09/banner-large-3.png";s:8:"filesize";i:69959;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:26:"banner-large-3-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16710;}s:6:"medium";a:5:{s:4:"file";s:26:"banner-large-3-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31147;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:26:"banner-large-3-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:84021;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:26:"banner-large-3-300x250.png";s:5:"width";i:300;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:50301;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:26:"banner-large-3-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:40761;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:106057;s:9:"ori_saved";i:36098;s:10:"webp_total";i:106057;s:10:"webp_saved";i:90467;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1824,7 +2368,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:345;s:6:"height";i:345;s:4:"file";s:24:"2023/09/banner-small.png";s:8:"filesize";i:95522;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:24:"banner-small-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21962;}s:6:"medium";a:5:{s:4:"file";s:24:"banner-small-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:72897;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:24:"banner-small-345x250.png";s:5:"width";i:345;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:68703;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:24:"banner-small-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:53275;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:345;s:6:"height";i:345;s:4:"file";s:24:"2023/09/banner-small.png";s:8:"filesize";i:72277;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:24:"banner-small-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21962;}s:6:"medium";a:5:{s:4:"file";s:24:"banner-small-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:72897;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:24:"banner-small-345x250.png";s:5:"width";i:345;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:68703;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:24:"banner-small-250x250.png";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:53275;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+520x250
+250x250]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:95522;s:9:"ori_saved";i:23245;s:10:"webp_total";i:95522;s:10:"webp_saved";i:79518;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3980,8 +4541,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_format" nicename="post-format-audio"><![CDATA[Audio]]></category>
 		<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
-		<category domain="category" nicename="exercise"><![CDATA[Exercise]]></category>
 		<category domain="post_tag" nicename="exercise"><![CDATA[Exercise]]></category>
+		<category domain="category" nicename="exercise"><![CDATA[Exercise]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="health-fitness"><![CDATA[Health &amp; Fitness]]></category>
 						<wp:postmeta>
@@ -4425,8 +4986,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
 		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
-		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="sports"><![CDATA[Sports]]></category>
+		<category domain="category" nicename="sports"><![CDATA[Sports]]></category>
 		<category domain="post_tag" nicename="training"><![CDATA[Training]]></category>
 		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
