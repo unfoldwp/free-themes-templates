@@ -1,0 +1,31 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Fashion",
+                "import_path": "v1",
+                "preview_url": "https://demo.unfoldwp.com/exim-mag-fashion-2/"
+            }
+        ]
+    },
+    "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "wpforms-lite",
+            "name": "WPForms Lite",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "regenerate-thumbnails",
+            "name": "Regenerate Thumbnails",
+            "required": false,
+            "preselected": false
+        }
+    ]
+}
