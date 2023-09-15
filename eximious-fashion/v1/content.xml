@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-09-14 10:37" -->
+	<!-- generator="WordPress/6.3.1" created="2023-09-15 03:12" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magazine Saga</title>
 	<link>https://dev.unfoldwp.com</link>
 	<description></description>
-	<pubDate>Thu, 14 Sep 2023 10:37:46 +0000</pubDate>
+	<pubDate>Fri, 15 Sep 2023 03:12:12 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://dev.unfoldwp.com</wp:base_site_url>
@@ -1775,168 +1775,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Demos]]></title>
-		<link>https://dev.unfoldwp.com/2023/09/08/demos/</link>
-		<pubDate>Mon, 10 Sep 2018 05:31:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=220</guid>
-		<description></description>
-		<content:encoded><![CDATA[New]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>220</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-08 04:03:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-09-10 05:31:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-08 04:03:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2018-09-10 05:31:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[demos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>2</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[220]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-09-10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2021-03-16]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-29]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-04]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-05]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Posts]]></title>
-		<link>https://dev.unfoldwp.com/2023/09/08/single-posts/</link>
-		<pubDate>Mon, 28 Aug 2023 07:38:30 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=320</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>320</wp:post_id>
-		<wp:post_date><![CDATA[2023-09-08 04:03:35]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2023-08-28 07:38:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-08 04:03:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-08-28 07:38:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[320]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-28]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-29]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-08-30]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-04]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2023-09-05]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Mailchimp]]></title>
 		<link>https://dev.unfoldwp.com/mc4wp-form/mailchimp/</link>
 		<pubDate>Mon, 28 Aug 2023 10:17:59 +0000</pubDate>
@@ -2171,6 +2009,72 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:46:"2018/07/pexels-elias-de-carvalho-1144834-1.jpg";s:8:"filesize";i:241604;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18824;}s:5:"large";a:5:{s:4:"file";s:47:"pexels-elias-de-carvalho-1144834-1-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128282;}s:9:"thumbnail";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9799;}s:12:"medium_large";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80074;}s:29:"eximious-magazine-cover-image";a:5:{s:4:"file";s:47:"pexels-elias-de-carvalho-1144834-1-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:162531;}s:27:"eximious-magazine-large-img";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70924;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-520x250.jpg";s:5:"width";i:520;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31954;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:46:"pexels-elias-de-carvalho-1144834-1-250x250.jpg";s:5:"width";i:250;s:6:"height";i:250;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18548;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[logo]]></title>
+		<link>https://dev.unfoldwp.com/logo/</link>
+		<pubDate>Fri, 15 Sep 2023 02:24:14 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/09/logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>619</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-15 02:24:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-15 02:24:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-15 02:24:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-15 02:24:14]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/wp-content/uploads/2023/09/logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/09/logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:177;s:6:"height";i:75;s:4:"file";s:16:"2023/09/logo.png";s:8:"filesize";i:3352;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:15:"logo-150x75.png";s:5:"width";i:150;s:6:"height";i:75;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2800;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[banner-h-w]]></title>
+		<link>https://dev.unfoldwp.com/banner-h-w/</link>
+		<pubDate>Fri, 15 Sep 2023 02:24:31 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/wp-content/uploads/2023/09/banner-h-w.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>620</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-15 02:24:31]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-09-15 02:24:31]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-15 02:24:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-15 02:24:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[banner-h-w]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/wp-content/uploads/2023/09/banner-h-w.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023/09/banner-h-w.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:728;s:6:"height";i:90;s:4:"file";s:22:"2023/09/banner-h-w.png";s:8:"filesize";i:23589;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:21:"banner-h-w-300x37.png";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8018;}s:9:"thumbnail";a:5:{s:4:"file";s:21:"banner-h-w-150x90.png";s:5:"width";i:150;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1393;}s:28:"eximious-magazine-medium-img";a:5:{s:4:"file";s:21:"banner-h-w-520x90.png";s:5:"width";i:520;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3214;}s:34:"eximious-magazine-small-square-img";a:5:{s:4:"file";s:21:"banner-h-w-250x90.png";s:5:"width";i:250;s:6:"height";i:90;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1938;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2829,115 +2733,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Ageless Beauty: Makeup Tips and Products for Mature Skin]]></title>
-		<link>https://dev.unfoldwp.com/2018/08/05/ageless-beauty-makeup-tips-and-products-for-mature-skin/</link>
-		<pubDate>Sun, 05 Aug 2018 05:05:56 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=67</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"color":{"background":"#f2f5f7"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="background-color:#f2f5f7"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="key_highlight_heading">KEY HIGHLIGHTS</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Nam libero tempore soluta nobis est eligendi optio cumque nihil impedit</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Sed vitae lorem ipsum aiquam cursus nulla non vel eum iure reprehenderit&nbsp;</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Malis erant constituam mel ex, prompta appetere erroribus ea sed, id aeterno maiorum appellantur mel</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p><a href="https://demo.unfoldwp.com/eximious-magazine" data-type="link" data-id="https://demo.unfoldwp.com/eximious-magazine">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>Innovative Solar-Paint Hybrid Revolutionizes Clean Energy Generation</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>One of the most exciting aspects of this innovation is its versatility</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="https://demo.unfoldwp.com/eximious-magazine">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et <a href="https://demo.unfoldwp.com/eximious-magazine">dolore magnam </a>aliquam quaerat voluptatem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>How It Works</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><em><strong>Versatility and Integration</strong></em></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>ALSO READ:</strong>&nbsp;<strong><a href="https://demo.unfoldwp.com/eximious-magazine">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</a>’</strong></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-05 05:05:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-05 05:05:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-14 08:05:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-14 08:05:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[ageless-beauty-makeup-tips-and-products-for-mature-skin]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
-		<category domain="post_tag" nicename="time"><![CDATA[Time]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[544]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[make-yourself-professional]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[How to Dress Down Your Suit for Effortless Style]]></title>
 		<link>https://dev.unfoldwp.com/2018/08/03/how-to-dress-down-your-suit-for-effortless-style/</link>
 		<pubDate>Fri, 03 Aug 2018 05:14:43 +0000</pubDate>
@@ -3059,120 +2854,165 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Beauty and Beyond: Seasonal Makeup Trends to Try for a Fresh Look]]></title>
-		<link>https://dev.unfoldwp.com/2018/08/04/pick-a-ride-and-start/</link>
-		<pubDate>Sat, 04 Aug 2018 07:08:59 +0000</pubDate>
+		<title><![CDATA[Demos]]></title>
+		<link>https://dev.unfoldwp.com/2023/09/08/demos/</link>
+		<pubDate>Mon, 10 Sep 2018 05:31:36 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=122</guid>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=220</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"color":{"background":"#f2f5f7"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="background-color:#f2f5f7"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="key_highlight_heading">KEY HIGHLIGHTS</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Nam libero tempore soluta nobis est eligendi optio cumque nihil impedit</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Sed vitae lorem ipsum aiquam cursus nulla non vel eum iure reprehenderit&nbsp;</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Malis erant constituam mel ex, prompta appetere erroribus ea sed, id aeterno maiorum appellantur mel</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p><a href="https://demo.unfoldwp.com/eximious-magazine" data-type="link" data-id="https://demo.unfoldwp.com/eximious-magazine">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>Innovative Solar-Paint Hybrid Revolutionizes Clean Energy Generation</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>One of the most exciting aspects of this innovation is its versatility</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="https://demo.unfoldwp.com/eximious-magazine">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et <a href="https://demo.unfoldwp.com/eximious-magazine">dolore magnam </a>aliquam quaerat voluptatem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>How It Works</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><em><strong>Versatility and Integration</strong></em></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>ALSO READ:</strong>&nbsp;<strong><a href="https://demo.unfoldwp.com/eximious-magazine">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</a>’</strong></p>
-<!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-04 07:08:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-04 07:08:59]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-14 08:43:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-14 08:43:05]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[pick-a-ride-and-start]]></wp:post_name>
+		<wp:post_id>220</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-08 04:03:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-09-10 05:31:36]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-08 04:03:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2018-09-10 05:31:36]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[demos]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:menu_order>2</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
-		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
-		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
 						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[583]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[eximious_magazine_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[220]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-05]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2018-09-10]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2018-08-06]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2021-03-16]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-29]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-05]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://dev.unfoldwp.com/2023/09/08/single-posts/</link>
+		<pubDate>Mon, 28 Aug 2023 07:38:30 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=320</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>320</wp:post_id>
+		<wp:post_date><![CDATA[2023-09-08 04:03:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2023-08-28 07:38:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-08 04:03:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-08-28 07:38:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[320]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-28]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-29]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-08-30]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-09-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3879,6 +3719,115 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Ageless Beauty: Makeup Tips and Products for Mature Skin]]></title>
+		<link>https://dev.unfoldwp.com/2018/08/05/ageless-beauty-makeup-tips-and-products-for-mature-skin/</link>
+		<pubDate>Sun, 05 Aug 2018 05:05:56 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=67</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#f2f5f7"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="background-color:#f2f5f7"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="key_highlight_heading">KEY HIGHLIGHTS</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Nam libero tempore soluta nobis est eligendi optio cumque nihil impedit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Sed vitae lorem ipsum aiquam cursus nulla non vel eum iure reprehenderit&nbsp;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Malis erant constituam mel ex, prompta appetere erroribus ea sed, id aeterno maiorum appellantur mel</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><a href="https://demo.unfoldwp.com/eximious-magazine" data-type="link" data-id="https://demo.unfoldwp.com/eximious-magazine">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>Innovative Solar-Paint Hybrid Revolutionizes Clean Energy Generation</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>One of the most exciting aspects of this innovation is its versatility</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="https://demo.unfoldwp.com/eximious-magazine">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et <a href="https://demo.unfoldwp.com/eximious-magazine">dolore magnam </a>aliquam quaerat voluptatem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>How It Works</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem..&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><em><strong>Versatility and Integration</strong></em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ALSO READ:</strong>&nbsp;<strong><a href="https://demo.unfoldwp.com/eximious-magazine">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</a>’</strong></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>67</wp:post_id>
+		<wp:post_date><![CDATA[2018-08-05 05:05:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-05 05:05:56]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-14 08:05:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-14 08:05:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[ageless-beauty-makeup-tips-and-products-for-mature-skin]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
+		<category domain="post_tag" nicename="time"><![CDATA[Time]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[544]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[make-yourself-professional]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Blonde and Beautiful: The Perfect Makeup Palette for Your Hair Color]]></title>
 		<link>https://dev.unfoldwp.com/2018/08/05/blonde-and-beautiful-the-perfect-makeup-palette-for-your-hair-color/</link>
 		<pubDate>Sun, 05 Aug 2018 05:11:02 +0000</pubDate>
@@ -3984,115 +3933,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[visit-these-places-at-least-once]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Trendy summer look styling tips for women]]></title>
-		<link>https://dev.unfoldwp.com/2018/08/05/trendy-summer-look-styling-tips-for-women/</link>
-		<pubDate>Sun, 05 Aug 2018 06:02:07 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=82</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"style":{"color":{"background":"#f2f5f7"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group has-background" style="background-color:#f2f5f7"><!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading" id="key_highlight_heading">KEY HIGHLIGHTS</h3>
-<!-- /wp:heading -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Nam libero tempore soluta nobis est eligendi optio cumque nihil impedit</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Sed vitae lorem ipsum aiquam cursus nulla non vel eum iure reprehenderit&nbsp;</li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Malis erant constituam mel ex, prompta appetere erroribus ea sed, id aeterno maiorum appellantur mel</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list --></div>
-<!-- /wp:group -->
-
-<!-- wp:paragraph -->
-<p><a href="https://demo.unfoldwp.com/eximious-magazine" data-type="link" data-id="https://demo.unfoldwp.com/eximious-magazine">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>Innovative Solar-Paint Hybrid Revolutionizes Clean Energy Generation</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>One of the most exciting aspects of this innovation is its versatility</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="https://demo.unfoldwp.com/eximious-magazine">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et <a href="https://demo.unfoldwp.com/eximious-magazine">dolore magnam </a>aliquam quaerat voluptatem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><strong><em>How It Works</em></strong></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem..&nbsp;</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading"><em><strong>Versatility and Integration</strong></em></h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p><strong>ALSO READ:</strong>&nbsp;<strong><a href="https://demo.unfoldwp.com/eximious-magazine">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</a>’</strong></p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>82</wp:post_id>
-		<wp:post_date><![CDATA[2018-08-05 06:02:07]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2018-08-05 06:02:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-09-14 07:52:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-09-14 07:52:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[trendy-summer-look-styling-tips-for-women]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
-		<category domain="post_tag" nicename="tips"><![CDATA[Tips]]></category>
-		<category domain="category" nicename="uncategorized"><![CDATA[Uncategorized]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[consectetuer-adipiscing-elit]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[trendy-summer-look-styling-tips]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4768,6 +4608,123 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[little-things-that-matters]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Beauty and Beyond: Seasonal Makeup Trends to Try for a Fresh Look]]></title>
+		<link>https://dev.unfoldwp.com/2018/08/04/pick-a-ride-and-start/</link>
+		<pubDate>Sat, 04 Aug 2018 07:08:59 +0000</pubDate>
+		<dc:creator><![CDATA[author]]></dc:creator>
+		<guid isPermaLink="false">https://demos.unfoldwp.com/eximious-magazine/?p=122</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"color":{"background":"#f2f5f7"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group has-background" style="background-color:#f2f5f7"><!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading" id="key_highlight_heading">KEY HIGHLIGHTS</h3>
+<!-- /wp:heading -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Nam libero tempore soluta nobis est eligendi optio cumque nihil impedit</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Sed vitae lorem ipsum aiquam cursus nulla non vel eum iure reprehenderit&nbsp;</li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Malis erant constituam mel ex, prompta appetere erroribus ea sed, id aeterno maiorum appellantur mel</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph -->
+<p><a href="https://demo.unfoldwp.com/eximious-magazine" data-type="link" data-id="https://demo.unfoldwp.com/eximious-magazine">Lorem ipsum dolor sit amet</a>, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum..&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>Innovative Solar-Paint Hybrid Revolutionizes Clean Energy Generation</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>One of the most exciting aspects of this innovation is its versatility</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo <a href="https://demo.unfoldwp.com/eximious-magazine">inventore veritatis</a> et quasi architecto beatae vitae dicta sunt explicabo. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et <a href="https://demo.unfoldwp.com/eximious-magazine">dolore magnam </a>aliquam quaerat voluptatem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><strong><em>How It Works</em></strong></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem..&nbsp;</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading"><em><strong>Versatility and Integration</strong></em></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p><strong>ALSO READ:</strong>&nbsp;<strong><a href="https://demo.unfoldwp.com/eximious-magazine">Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat…</a>’</strong></p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2018-08-04 07:08:59]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2018-08-04 07:08:59]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2023-09-14 08:43:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-09-14 08:43:05]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[pick-a-ride-and-start]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="editors-pick"><![CDATA[Editor's Pick]]></category>
+		<category domain="post_tag" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="category" nicename="makeup"><![CDATA[Makeup]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[583]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[eximious_magazine_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-05]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2018-08-06]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
