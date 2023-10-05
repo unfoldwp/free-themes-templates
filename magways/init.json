@@ -21,6 +21,12 @@
             "name": "WPForms Lite",
             "required": false,
             "preselected": true
+        },
+        {
+            "slug": "regenerate-thumbnails",
+            "name": "Regenerate Thumbnails",
+            "required": false,
+            "preselected": false
         }
     ]
 }
