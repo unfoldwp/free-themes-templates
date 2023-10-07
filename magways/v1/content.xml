@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-10-06 07:13" -->
+	<!-- generator="WordPress/6.3.1" created="2023-10-07 18:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-lite</link>
 	<description>Multipurpose WordPress Theme</description>
-	<pubDate>Fri, 06 Oct 2023 07:13:39 +0000</pubDate>
+	<pubDate>Sat, 07 Oct 2023 18:02:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -3220,8 +3220,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
@@ -4373,8 +4373,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:04:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:04:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:54:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:54:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 17:45:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 17:45:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fact-checking-and-verification-the-battle-against-fake-news-and-misinformation]]></wp:post_name>
@@ -4386,7 +4386,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[50]]></wp:meta_value>
@@ -4478,8 +4477,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:12:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:12:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:54:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:54:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 17:45:02]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 17:45:02]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-impact-of-newspaper-headlines-how-they-shape-public-perception]]></wp:post_name>
@@ -4492,7 +4491,6 @@
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[53]]></wp:meta_value>
@@ -4991,8 +4989,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:20:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:20:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:54:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:54:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 17:44:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 17:44:59]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[activism-and-protests-advocating-for-jobs-opportunities-action]]></wp:post_name>
@@ -5004,7 +5002,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[56]]></wp:meta_value>
@@ -5096,8 +5093,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:23:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:23:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:54:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:54:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 17:44:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 17:44:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-ethics-of-political-leadership-balancing-power-and-responsibility]]></wp:post_name>
@@ -5109,7 +5106,6 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[59]]></wp:meta_value>
@@ -5230,7 +5226,13 @@
 		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=105</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:embed {"url":"https://www.youtube.com/watch?v=eO8NNJMhLFM","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=eO8NNJMhLFM
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
 <p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
 <!-- /wp:paragraph -->
 
@@ -5305,8 +5307,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:03:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:03:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:53:58]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:53:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 02:21:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 02:21:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[mastering-composition-tips-for-creating-eye-catching-photographs]]></wp:post_name>
@@ -5326,6 +5328,14 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_e0c5e4046669b0fa3f8a969e8b716a73]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="Simple COLOR GRADE Trick To Make Your Photo &quot;Pop&quot; (Look MORE 3D!)" width="640" height="360" src="https://www.youtube.com/embed/eO8NNJMhLFM?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_e0c5e4046669b0fa3f8a969e8b716a73]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1696645302]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How to Capture Stunning Shots in Dimly Lit Conditions]]></title>
@@ -5334,7 +5344,13 @@
 		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=108</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:embed {"url":"https://vimeo.com/246699695","type":"video","providerNameSlug":"vimeo","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://vimeo.com/246699695
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
 <p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
 <!-- /wp:paragraph -->
 
@@ -5409,8 +5425,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:05:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:05:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:53:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:53:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 02:18:44]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 02:18:44]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-capture-stunning-shots-in-dimly-lit-conditions]]></wp:post_name>
@@ -5430,6 +5446,26 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_828817c9d75ea59e1552a846df8f9ea5]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="How to Boost your Mobile Content with App-Driven Motion Control | Sponsored by JOBY" src="https://player.vimeo.com/video/671184169?dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_828817c9d75ea59e1552a846df8f9ea5]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1696645054]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magways_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_3]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_2f6822ecd57f7b34eaa832d73dadf85c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="FASHION HANDS | A fashion film" src="https://player.vimeo.com/video/246699695?dnt=1&amp;app_id=122963" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture"></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_2f6822ecd57f7b34eaa832d73dadf85c]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1696645123]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Art of Candid Photography and Street Portraits]]></title>
@@ -5438,7 +5474,13 @@
 		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=111</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:embed {"url":"https://www.youtube.com/watch?v=IQr6IQbZoNY","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=IQr6IQbZoNY
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
 <p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
 <!-- /wp:paragraph -->
 
@@ -5513,8 +5555,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:08:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:08:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:53:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:53:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 02:13:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 02:13:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-art-of-candid-photography-and-street-portraits]]></wp:post_name>
@@ -5536,6 +5578,18 @@
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_f945457a0f93b4901183af9b5ec3f545]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="DON&#039;T BE THIS GUY editing your photos with Lightroom 🤮" width="640" height="360" src="https://www.youtube.com/embed/IQr6IQbZoNY?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_f945457a0f93b4901183af9b5ec3f545]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1696644814]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magways_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_3]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[10 Essential Photography Tips for Beginners]]></title>
@@ -5544,7 +5598,13 @@
 		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=114</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
+		<content:encoded><![CDATA[<!-- wp:embed {"url":"https://www.youtube.com/watch?v=V7z7BAZdt2M","type":"video","providerNameSlug":"youtube","responsive":true,"className":"wp-embed-aspect-16-9 wp-has-aspect-ratio"} -->
+<figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+https://www.youtube.com/watch?v=V7z7BAZdt2M
+</div></figure>
+<!-- /wp:embed -->
+
+<!-- wp:paragraph -->
 <p>Ex falli delenit consequuntur eos, cum no oblique mandamus. Veniam dicunt consetetur cu sit. Cu sea delicata neglegentur, in nec esse lucilius. Nec legere maluisset ea, cum paulo definitionem no. Dignissim constituam Velit audiam ceteros pri ut, ea has libris atomorum pericula. Elitr suavitate pro ne. Vis ut discere constituam, in mel mnesarchum disputando. Laoreet sensibus iudicabit ad vel, pro dignissim eloquentiam in, ea his saepe pertinax mediocritatem. Usu eu essent epicurei delicatissimi.</p>
 <!-- /wp:paragraph -->
 
@@ -5619,8 +5679,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:29:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:29:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:53:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:53:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-07 02:14:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-07 02:14:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[10-essential-photography-tips-for-beginners]]></wp:post_name>
@@ -5642,6 +5702,18 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_1ff78d4805cf52905288dea7e2d39bc0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[<iframe title="PHOTOGRAPHY BASICS in 10 MINUTES" width="640" height="360" src="https://www.youtube.com/embed/V7z7BAZdt2M?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_oembed_time_1ff78d4805cf52905288dea7e2d39bc0]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1696644665]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magways_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
