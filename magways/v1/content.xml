@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-10-08 09:44" -->
+	<!-- generator="WordPress/6.3.1" created="2023-10-08 14:13" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-lite</link>
 	<description>Multipurpose WordPress Theme</description>
-	<pubDate>Sun, 08 Oct 2023 09:44:30 +0000</pubDate>
+	<pubDate>Sun, 08 Oct 2023 14:13:58 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -3256,8 +3256,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
@@ -4316,8 +4316,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="post_tag" nicename="politics"><![CDATA[Politics]]></category>
 		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
+		<category domain="post_tag" nicename="politics"><![CDATA[Politics]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[47]]></wp:meta_value>
