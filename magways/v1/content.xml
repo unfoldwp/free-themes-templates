@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-10-07 18:02" -->
+	<!-- generator="WordPress/6.3.1" created="2023-10-08 09:44" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-lite</link>
 	<description>Multipurpose WordPress Theme</description>
-	<pubDate>Sat, 07 Oct 2023 18:02:32 +0000</pubDate>
+	<pubDate>Sun, 08 Oct 2023 09:44:30 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -1960,10 +1960,10 @@
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:30:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[63]]></wp:post_name>
@@ -2010,6 +2010,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
@@ -2021,10 +2025,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:30:53]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -2065,11 +2069,15 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magways-lite]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2082,10 +2090,10 @@
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>65</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:31:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demos]]></wp:post_name>
@@ -2132,6 +2140,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Magazine]]></title>
@@ -2143,10 +2155,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:32:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[magazine]]></wp:post_name>
@@ -2193,6 +2205,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Left Sidebar]]></title>
@@ -2204,10 +2220,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:34:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[67]]></wp:post_name>
@@ -2254,6 +2270,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Right Sidebar]]></title>
@@ -2265,10 +2285,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>68</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:34:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[river-cruises-navigating-the-worlds-most-scenic-waterways]]></wp:post_name>
@@ -2315,6 +2335,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Narrow]]></title>
@@ -2326,10 +2350,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>69</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:34:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[makeup-trends-whats-hot-and-whats-not-this-year]]></wp:post_name>
@@ -2376,6 +2400,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Wide]]></title>
@@ -2387,10 +2415,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:34:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[70]]></wp:post_name>
@@ -2437,6 +2465,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sidebars]]></title>
@@ -2448,10 +2480,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>71</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:34:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidebars]]></wp:post_name>
@@ -2497,6 +2529,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -3220,8 +3256,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="beauty"><![CDATA[Beauty]]></category>
-		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="fashion"><![CDATA[Fashion]]></category>
+		<category domain="category" nicename="fashion"><![CDATA[Fashion]]></category>
 		<category domain="post_tag" nicename="health"><![CDATA[Health]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
 						<wp:postmeta>
@@ -4280,8 +4316,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 		<category domain="post_tag" nicename="politics"><![CDATA[Politics]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[47]]></wp:meta_value>
@@ -4514,10 +4550,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>72</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:38:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upgrade-now]]></wp:post_name>
@@ -4564,6 +4600,10 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2023-10-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
@@ -4575,10 +4615,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>171</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:57:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -4621,6 +4661,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magways/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Posts]]></title>
@@ -4632,10 +4676,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>172</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:59:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
@@ -4678,6 +4722,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 1]]></title>
@@ -4689,10 +4737,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>173</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:59:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-style-1]]></wp:post_name>
@@ -4735,6 +4783,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 2]]></title>
@@ -4746,10 +4798,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>174</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:59:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-style-2]]></wp:post_name>
@@ -4792,6 +4844,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 3]]></title>
@@ -4803,10 +4859,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>175</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:59:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-style-3]]></wp:post_name>
@@ -4849,6 +4905,10 @@
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
@@ -4860,10 +4920,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>207</wp:post_id>
-		<wp:post_date><![CDATA[2023-10-05 10:19:17]]></wp:post_date>
+		<wp:post_date><![CDATA[2023-10-08 09:42:36]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-05 10:19:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-05 10:19:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-10-08 09:42:36]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-10-08 09:42:36]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog-2]]></wp:post_name>
@@ -4905,6 +4965,10 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magways-blog/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2023-10-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
