@@ -4,7 +4,12 @@
             {
                 "import_name": "Magazine",
                 "import_path": "v1",
-                "preview_url": "https://demo.unfoldwp.com/eximious-magazine/"
+                "preview_url": "https://demo.unfoldwp.com/magways-lite/"
+            },
+            {
+                "import_name": "Blog",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/magways-blog/"
             }
         ],
         "pro": []
