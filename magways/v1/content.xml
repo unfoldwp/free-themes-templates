@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.1" created="2023-10-10 16:26" -->
+	<!-- generator="WordPress/6.3.1" created="2023-10-11 07:31" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-lite</link>
 	<description>Multipurpose WordPress Theme</description>
-	<pubDate>Tue, 10 Oct 2023 16:26:36 +0000</pubDate>
+	<pubDate>Wed, 11 Oct 2023 07:31:11 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -3688,8 +3688,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<category domain="post_tag" nicename="gadgets"><![CDATA[Gadgets]]></category>
 		<category domain="category" nicename="gadgets"><![CDATA[Gadgets]]></category>
+		<category domain="post_tag" nicename="gadgets"><![CDATA[Gadgets]]></category>
 		<category domain="post_tag" nicename="science"><![CDATA[Science]]></category>
 		<category domain="category" nicename="technology"><![CDATA[Technology]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
