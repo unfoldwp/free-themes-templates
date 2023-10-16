@@ -2,7 +2,7 @@
     "import_files": {
         "free": [
             {
-                "import_name": "Magazine",
+                "import_name": "Default",
                 "import_path": "v1",
                 "preview_url": "https://demo.unfoldwp.com/magways-lite/"
             },
