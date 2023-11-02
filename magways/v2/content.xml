@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.3.2" created="2023-10-22 10:39" -->
+	<!-- generator="WordPress/6.3.2" created="2023-11-02 11:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-blog</link>
 	<description>Awesome Multipurpose WordPress Theme</description>
-	<pubDate>Sun, 22 Oct 2023 10:39:58 +0000</pubDate>
+	<pubDate>Thu, 02 Nov 2023 11:33:24 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
