@@ -12,7 +12,18 @@
                 "preview_url": "https://demo.unfoldwp.com/magways-blog/"
             }
         ],
-        "pro": []
+        "pro": [
+            {
+                "import_name": "Magazine",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/magways/"
+            },
+            {
+                "import_name": "Dark Tech",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/magways-dark-tech/"
+            }
+        ]
     },
     "plugins": [
         {
