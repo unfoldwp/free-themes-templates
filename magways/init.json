@@ -22,6 +22,11 @@
                 "import_name": "Dark Tech",
                 "import_path": "v4",
                 "preview_url": "https://demo.unfoldwp.com/magways-dark-tech/"
+            },
+            {
+                "import_name": "News",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/magways-news/"
             }
         ]
     },
