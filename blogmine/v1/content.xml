@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.2" created="2023-12-18 04:07" -->
+	<!-- generator="WordPress/6.4.2" created="2023-12-18 12:28" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Blogmine</title>
 	<link>https://demo.unfoldwp.com/blogmine-lite</link>
-	<description></description>
-	<pubDate>Mon, 18 Dec 2023 04:07:38 +0000</pubDate>
+	<description>A WordPress Blog Theme for the Inquisitive Mind</description>
+	<pubDate>Mon, 18 Dec 2023 12:28:59 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -37,6 +37,7 @@
 
 		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author@unfoldwp.com]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[John Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Doe]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[jessica]]></wp:author_login><wp:author_email><![CDATA[jessica@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Jessica]]></wp:author_display_name><wp:author_first_name><![CDATA[Jessica]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[brandon]]></wp:author_login><wp:author_email><![CDATA[brandon@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Brandon]]></wp:author_display_name><wp:author_first_name><![CDATA[Brandon]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -144,7 +145,62 @@
 			<wp:meta_value><![CDATA[0]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:category>
-					<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[category]]></wp:term_slug><wp:term_name><![CDATA[Category]]></wp:term_name>
+			<wp:tag>
+		<wp:term_id>24</wp:term_id>
+		<wp:tag_slug><![CDATA[cooking]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Cooking]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>27</wp:term_id>
+		<wp:tag_slug><![CDATA[fitness]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Fitness]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>23</wp:term_id>
+		<wp:tag_slug><![CDATA[food]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Food]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>22</wp:term_id>
+		<wp:tag_slug><![CDATA[health-and-wellness]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Health and Wellness]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>29</wp:term_id>
+		<wp:tag_slug><![CDATA[nature]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Nature]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>28</wp:term_id>
+		<wp:tag_slug><![CDATA[productivity]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Productivity]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>26</wp:term_id>
+		<wp:tag_slug><![CDATA[reviews]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Reviews]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>30</wp:term_id>
+		<wp:tag_slug><![CDATA[science]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Science]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>25</wp:term_id>
+		<wp:tag_slug><![CDATA[style]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Style]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>20</wp:term_id>
+		<wp:tag_slug><![CDATA[technology]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Technology]]></wp:tag_name>
+	</wp:tag>
+		<wp:tag>
+		<wp:term_id>21</wp:term_id>
+		<wp:tag_slug><![CDATA[travel]]></wp:tag_slug>
+		<wp:tag_name><![CDATA[Travel]]></wp:tag_name>
+	</wp:tag>
+				<wp:term><wp:term_id>17</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[category]]></wp:term_slug><wp:term_name><![CDATA[Category]]></wp:term_name>
 </wp:term>
 	<wp:term><wp:term_id>12</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[footer-menu]]></wp:term_slug><wp:term_name><![CDATA[Footer Menu]]></wp:term_name>
 </wp:term>
@@ -2009,8 +2065,8 @@ https://vimeo.com/430467207
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:16:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:16:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:27:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:27:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[balancing-safety-and-enjoyment-at-the-movies]]></wp:post_name>
@@ -2022,6 +2078,8 @@ https://vimeo.com/430467207
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
+		<category domain="post_tag" nicename="reviews"><![CDATA[Reviews]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[44]]></wp:meta_value>
@@ -2041,10 +2099,6 @@ https://vimeo.com/430467207
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_oembed_time_729b55dcf91c8a71fabd2937dceab24b]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1702828486]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_pingme]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2096,15 +2150,15 @@ https://vimeo.com/430467207
 <!-- /wp:column -->
 
 <!-- wp:column {"width":"66.66%"} -->
-<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:wpforms/form-selector {"clientId":"154654d1-64f5-41b7-bbf3-a37a3d8874c5","formId":"156","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#066aab\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /--></div>
+<div class="wp-block-column" style="flex-basis:66.66%"><!-- wp:wpforms/form-selector {"clientId":"154654d1-64f5-41b7-bbf3-a37a3d8874c5","formId":"156","buttonBackgroundColor":"#000000","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#000000\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /--></div>
 <!-- /wp:column --></div>
 <!-- /wp:columns -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>132</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-17 12:12:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-17 12:12:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:18:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:18:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 12:26:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 12:26:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -3211,8 +3265,8 @@ https://vimeo.com/430467207
 		<wp:post_id>8</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:17:17]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:17:17]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:40]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:40]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:26:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:26:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[exploring-the-craftsmanship-of-wooden-serveware]]></wp:post_name>
@@ -3222,7 +3276,8 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
+										<category domain="post_tag" nicename="productivity"><![CDATA[Productivity]]></category>
+		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[9]]></wp:meta_value>
@@ -3252,7 +3307,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Design and Aesthetics Across the Chevy Car Range]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/design-and-aesthetics-across-the-chevy-car-range/</link>
 		<pubDate>Fri, 15 Dec 2023 11:19:15 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=12</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -3302,8 +3357,8 @@ https://vimeo.com/430467207
 		<wp:post_id>12</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[design-and-aesthetics-across-the-chevy-car-range]]></wp:post_name>
@@ -3314,6 +3369,7 @@ https://vimeo.com/430467207
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
+		<category domain="category" nicename="work"><![CDATA[Work]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[73]]></wp:meta_value>
@@ -3339,7 +3395,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[The Physical and Mental Benefits of Forest Walking]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/the-physical-and-mental-benefits-of-forest-walking/</link>
 		<pubDate>Fri, 15 Dec 2023 11:19:18 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=13</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -3389,8 +3445,8 @@ https://vimeo.com/430467207
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-physical-and-mental-benefits-of-forest-walking]]></wp:post_name>
@@ -3400,7 +3456,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="post_tag" nicename="health-and-wellness"><![CDATA[Health and Wellness]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[56]]></wp:meta_value>
@@ -3546,7 +3604,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Strategies for Dust Rehabilitation and Control]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/strategies-for-dust-rehabilitation-and-control/</link>
 		<pubDate>Fri, 15 Dec 2023 11:19:23 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=15</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -3596,8 +3654,8 @@ https://vimeo.com/430467207
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:04]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:04]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[strategies-for-dust-rehabilitation-and-control]]></wp:post_name>
@@ -3692,8 +3750,8 @@ https://vimeo.com/430467207
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:25]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:25]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 10:52:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 10:52:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-culture-and-community-of-skateboarding]]></wp:post_name>
@@ -3703,7 +3761,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+										<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
+		<category domain="category" nicename="lifestyle"><![CDATA[Lifestyle]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[48]]></wp:meta_value>
@@ -3729,7 +3789,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[How to Properly Appreciate and Savor Your Pizza]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/how-to-properly-appreciate-and-savor-your-pizza/</link>
 		<pubDate>Fri, 15 Dec 2023 11:19:29 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=17</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -3779,8 +3839,8 @@ https://vimeo.com/430467207
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:53:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:53:57]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-properly-appreciate-and-savor-your-pizza]]></wp:post_name>
@@ -3790,7 +3850,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="food"><![CDATA[Food]]></category>
+										<category domain="post_tag" nicename="cooking"><![CDATA[Cooking]]></category>
+		<category domain="category" nicename="food"><![CDATA[Food]]></category>
+		<category domain="post_tag" nicename="food"><![CDATA[Food]]></category>
 		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -3905,7 +3967,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Designing the Future: The Unique Characteristics of Skyscraper Architecture]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/designing-the-future-the-unique-characteristics-of-skyscraper-architecture/</link>
 		<pubDate>Fri, 15 Dec 2023 11:19:42 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=20</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -3955,8 +4017,8 @@ https://vimeo.com/430467207
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:19:42]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:19:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:53:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:53:48]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[designing-the-future-the-unique-characteristics-of-skyscraper-architecture]]></wp:post_name>
@@ -3966,7 +4028,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
+										<category domain="post_tag" nicename="science"><![CDATA[Science]]></category>
+		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
+		<category domain="post_tag" nicename="technology"><![CDATA[Technology]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[36]]></wp:meta_value>
@@ -4084,7 +4148,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Unraveling the Art of Making the Best Hamburgers]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/unraveling-the-art-of-making-the-best-hamburgers/</link>
 		<pubDate>Fri, 15 Dec 2023 11:16:48 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=22</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -4134,8 +4198,8 @@ https://vimeo.com/430467207
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:16:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:16:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[unraveling-the-art-of-making-the-best-hamburgers]]></wp:post_name>
@@ -4173,7 +4237,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Celebrating the Diversity of Flower Cones Across Seasons]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/celebrating-the-diversity-of-flower-cones-across-seasons/</link>
 		<pubDate>Fri, 15 Dec 2023 11:20:00 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=23</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -4223,8 +4287,8 @@ https://vimeo.com/430467207
 		<wp:post_id>23</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:20:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:20:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:53:16]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:53:16]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[celebrating-the-diversity-of-flower-cones-across-seasons]]></wp:post_name>
@@ -4234,7 +4298,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="nature"><![CDATA[Nature]]></category>
+										<category domain="post_tag" nicename="nature"><![CDATA[Nature]]></category>
+		<category domain="category" nicename="nature"><![CDATA[Nature]]></category>
+		<category domain="post_tag" nicename="reviews"><![CDATA[Reviews]]></category>
 		<category domain="category" nicename="stories"><![CDATA[Stories]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
@@ -4311,8 +4377,8 @@ https://vimeo.com/430467207
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:20:03]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:20:03]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:51:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:51:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:25:49]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:25:49]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-evolution-of-skyscrapers-in-moscows-urban-landscape]]></wp:post_name>
@@ -4322,7 +4388,9 @@ https://vimeo.com/430467207
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="work"><![CDATA[Work]]></category>
+										<category domain="post_tag" nicename="productivity"><![CDATA[Productivity]]></category>
+		<category domain="post_tag" nicename="science"><![CDATA[Science]]></category>
+		<category domain="category" nicename="work"><![CDATA[Work]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[28]]></wp:meta_value>
@@ -4406,7 +4474,7 @@ https://vimeo.com/430467207
 		<title><![CDATA[Exploring the Signature Styles of Iconic Players]]></title>
 		<link>https://demo.unfoldwp.com/blogmine-lite/exploring-the-signature-styles-of-iconic-players/</link>
 		<pubDate>Fri, 15 Dec 2023 11:18:54 +0000</pubDate>
-		<dc:creator><![CDATA[jessica]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/capturing-the-grace-of-autumn-trees-in-every-frame-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
@@ -4456,8 +4524,8 @@ https://vimeo.com/430467207
 		<wp:post_id>98</wp:post_id>
 		<wp:post_date><![CDATA[2023-12-15 11:18:54]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-12-15 11:18:54]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-12-17 15:54:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-12-17 15:54:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2023-12-18 11:28:51]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2023-12-18 11:28:51]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[exploring-the-signature-styles-of-iconic-players]]></wp:post_name>
