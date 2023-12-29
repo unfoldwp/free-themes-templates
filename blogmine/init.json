@@ -7,7 +7,23 @@
                 "preview_url": "https://demo.unfoldwp.com/blogmine-lite/"
             }
         ],
-        "pro": []
+        "pro": [
+            {
+                "import_name": "Fashion",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/blogmine-fashion/"
+            },
+            {
+                "import_name": "Fitness",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/blogmine-fitness/"
+            },
+            {
+                "import_name": "Classic",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/blogmine-classic/"
+            }
+        ]
     },
     "plugins": [
         {
