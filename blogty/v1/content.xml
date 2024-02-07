@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-01-31 08:27" -->
+	<!-- generator="WordPress/6.4.3" created="2024-02-07 07:32" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogty</title>
 	<link>https://demo.unfoldwp.com/blogty-lite</link>
 	<description>Storytelling WordPress Theme</description>
-	<pubDate>Wed, 31 Jan 2024 08:27:41 +0000</pubDate>
+	<pubDate>Wed, 07 Feb 2024 07:32:47 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -297,12 +297,11 @@
 1280x720
 800x450
 544x306
-500x500
-250x250]]></wp:meta_value>
+500x500]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:21444;s:9:"ori_saved";i:8251;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:115869;s:9:"ori_saved";i:53390;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -352,12 +351,11 @@
 1280x720
 800x450
 544x306
-500x500
-250x250]]></wp:meta_value>
+500x500]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:37344;s:9:"ori_saved";i:20661;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:107731;s:9:"ori_saved";i:51079;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -392,6 +390,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:80:"2023/10/activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_.jpg";s:8:"filesize";i:539323;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11358;}s:5:"large";a:5:{s:4:"file";s:81:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71287;}s:9:"thumbnail";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7752;}s:12:"medium_large";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43794;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:81:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104483;}s:16:"blogty-large-img";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44109;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23605;}s:17:"blogty-square-img";a:5:{s:4:"file";s:80:"activity-adult-background-beach-beautiful-bikini-1637551-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37801;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:159950;s:9:"ori_saved";i:40555;s:10:"webp_total";i:159950;s:10:"webp_saved";i:74158;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[allergy-asia-asian-background-blue-care-1630679-pxhere.com]]></title>
@@ -424,6 +439,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:71:"2023/10/allergy-asia-asian-background-blue-care-1630679-pxhere.com_.jpg";s:8:"filesize";i:649202;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11603;}s:5:"large";a:5:{s:4:"file";s:72:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59240;}s:9:"thumbnail";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8204;}s:12:"medium_large";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37942;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:72:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79647;}s:16:"blogty-large-img";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35959;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21212;}s:17:"blogty-square-img";a:5:{s:4:"file";s:71:"allergy-asia-asian-background-blue-care-1630679-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33116;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:120967;s:9:"ori_saved";i:25836;s:10:"webp_total";i:120967;s:10:"webp_saved";i:62861;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -458,6 +490,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1123;s:6:"height";i:900;s:4:"file";s:72:"2023/10/person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_.jpg";s:8:"filesize";i:490208;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-300x240.jpg";s:5:"width";i:300;s:6:"height";i:240;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23512;}s:5:"large";a:5:{s:4:"file";s:73:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-1024x821.jpg";s:5:"width";i:1024;s:6:"height";i:821;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:193673;}s:9:"thumbnail";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8958;}s:12:"medium_large";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-768x615.jpg";s:5:"width";i:768;s:6:"height";i:615;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118457;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:73:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-1123x720.jpg";s:5:"width";i:1123;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:211525;}s:16:"blogty-large-img";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95144;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49420;}s:17:"blogty-square-img";a:5:{s:4:"file";s:72:"person-coffee-shop-coffee-woman-spring-hat-62317-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67590;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:658085;s:9:"ori_saved";i:240937;s:10:"webp_total";i:658085;s:10:"webp_saved";i:277759;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com]]></title>
@@ -490,6 +539,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:850;s:4:"file";s:81:"2023/10/working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_.jpg";s:8:"filesize";i:419500;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13349;}s:5:"large";a:5:{s:4:"file";s:82:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-1024x680.jpg";s:5:"width";i:1024;s:6:"height";i:680;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112254;}s:9:"thumbnail";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6381;}s:12:"medium_large";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-768x510.jpg";s:5:"width";i:768;s:6:"height";i:510;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65759;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:82:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:176466;}s:16:"blogty-large-img";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62660;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32161;}s:17:"blogty-square-img";a:5:{s:4:"file";s:81:"working-cafe-coffee-shop-coffee-people-restaurant-1224792-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45469;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:602347;s:9:"ori_saved";i:223149;s:10:"webp_total";i:182847;s:10:"webp_saved";i:30507;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -524,6 +590,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:70:"2023/10/restaurant-bar-shop-store-vendor-market-712115-pxhere.com_.jpg";s:8:"filesize";i:401881;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15905;}s:5:"large";a:5:{s:4:"file";s:71:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:139810;}s:9:"thumbnail";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6753;}s:12:"medium_large";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85950;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:71:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:200600;}s:16:"blogty-large-img";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81234;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41942;}s:17:"blogty-square-img";a:5:{s:4:"file";s:70:"restaurant-bar-shop-store-vendor-market-712115-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56178;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:202741;s:9:"ori_saved";i:86;s:10:"webp_total";i:202741;s:10:"webp_saved";i:36809;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com]]></title>
@@ -556,6 +639,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:69:"2023/10/girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_.jpg";s:8:"filesize";i:833432;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15791;}s:5:"large";a:5:{s:4:"file";s:70:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93747;}s:9:"thumbnail";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9231;}s:12:"medium_large";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58436;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:70:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:127530;}s:16:"blogty-large-img";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53990;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30241;}s:17:"blogty-square-img";a:5:{s:4:"file";s:69:"girl-face-lip-hand-hairstyle-shoulder-1682602-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41063;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:56854;s:9:"ori_saved";i:11320;s:10:"webp_total";i:56854;s:10:"webp_saved";i:29218;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -590,6 +690,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:99:"2023/10/book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_.jpg";s:8:"filesize";i:184642;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15491;}s:5:"large";a:5:{s:4:"file";s:100:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118455;}s:9:"thumbnail";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6409;}s:12:"medium_large";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74117;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:100:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:149577;}s:16:"blogty-large-img";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66415;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33912;}s:17:"blogty-square-img";a:5:{s:4:"file";s:99:"book-font-communication-device-publication-Material-property-gadget-1673852-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49358;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:81906;s:9:"ori_saved";i:36;s:10:"webp_total";i:81906;s:10:"webp_saved";i:15260;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com]]></title>
@@ -622,6 +739,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:86:"2023/10/woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_.jpg";s:8:"filesize";i:131424;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17444;}s:5:"large";a:5:{s:4:"file";s:87:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:116781;}s:9:"thumbnail";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9133;}s:12:"medium_large";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72104;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:87:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142879;}s:16:"blogty-large-img";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63307;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33936;}s:17:"blogty-square-img";a:5:{s:4:"file";s:86:"woman-lip-hairstyle-eyebrow-shoulder-facial-expression-1671620-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48144;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:213504;s:9:"ori_saved";i:3192;s:10:"webp_total";i:213504;s:10:"webp_saved";i:24666;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -660,6 +794,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:544335;s:9:"ori_saved";i:201555;s:10:"webp_total";i:127412;s:10:"webp_saved";i:18812;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com]]></title>
@@ -692,6 +843,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:89:"2023/10/camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_.jpg";s:8:"filesize";i:357112;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:15117;}s:5:"large";a:5:{s:4:"file";s:90:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:104340;}s:9:"thumbnail";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6894;}s:12:"medium_large";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63696;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:90:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128381;}s:16:"blogty-large-img";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54506;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29450;}s:17:"blogty-square-img";a:5:{s:4:"file";s:89:"camera-vintage-analog-film-camera-old-camera-reflex-camera-173086-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42088;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:160290;s:9:"ori_saved";i:54;s:10:"webp_total";i:160290;s:10:"webp_saved";i:46118;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -730,6 +898,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
 		<wp:meta_value><![CDATA[3]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:316898;s:9:"ori_saved";i:113832;s:10:"webp_total";i:316898;s:10:"webp_saved";i:165690;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[light-car-vintage-wheel-rain-vehicle-133929-pxhere.com]]></title>
@@ -762,6 +947,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:67:"2023/10/light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_.jpg";s:8:"filesize";i:282051;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14182;}s:5:"large";a:5:{s:4:"file";s:68:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:101484;}s:9:"thumbnail";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7124;}s:12:"medium_large";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63992;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:68:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143420;}s:16:"blogty-large-img";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61255;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32404;}s:17:"blogty-square-img";a:5:{s:4:"file";s:67:"light-car-vintage-wheel-rain-vehicle-133929-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49275;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:95861;s:9:"ori_saved";i:1632;s:10:"webp_total";i:95861;s:10:"webp_saved";i:17751;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -796,6 +998,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:69:"2023/10/vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_.jpg";s:8:"filesize";i:325470;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14982;}s:5:"large";a:5:{s:4:"file";s:70:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:107987;}s:9:"thumbnail";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6806;}s:12:"medium_large";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67983;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:70:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154828;}s:16:"blogty-large-img";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64879;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34855;}s:17:"blogty-square-img";a:5:{s:4:"file";s:69:"vintage-wheel-retro-film-vehicle-reel-1067196-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46894;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:397155;s:9:"ori_saved";i:153772;s:10:"webp_total";i:397155;s:10:"webp_saved";i:203741;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[water-person-girl-woman-photography-pier-26359-pxhere.com]]></title>
@@ -828,6 +1047,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:70:"2023/10/water-person-girl-woman-photography-pier-26359-pxhere.com_.jpg";s:8:"filesize";i:304766;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12105;}s:5:"large";a:5:{s:4:"file";s:71:"water-person-girl-woman-photography-pier-26359-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91729;}s:9:"thumbnail";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6135;}s:12:"medium_large";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56332;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:71:"water-person-girl-woman-photography-pier-26359-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:128246;}s:16:"blogty-large-img";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52739;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27782;}s:17:"blogty-square-img";a:5:{s:4:"file";s:70:"water-person-girl-woman-photography-pier-26359-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40709;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:190713;s:9:"ori_saved";i:281;s:10:"webp_total";i:190713;s:10:"webp_saved";i:42375;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -862,6 +1098,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:86:"2023/10/smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_.jpg";s:8:"filesize";i:261674;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12550;}s:5:"large";a:5:{s:4:"file";s:87:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78662;}s:9:"thumbnail";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5849;}s:12:"medium_large";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49659;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:87:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112237;}s:16:"blogty-large-img";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48220;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27114;}s:17:"blogty-square-img";a:5:{s:4:"file";s:86:"smartphone-mobile-technology-tablet-gadget-mobile-phone-600914-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32928;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:194824;s:9:"ori_saved";i:54;s:10:"webp_total";i:194824;s:10:"webp_saved";i:67176;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[light-structure-night-city-advertising-crowd-70289-pxhere.com]]></title>
@@ -894,6 +1147,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:74:"2023/10/light-structure-night-city-advertising-crowd-70289-pxhere.com_.jpg";s:8:"filesize";i:331412;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-300x169.jpg";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14023;}s:5:"large";a:5:{s:4:"file";s:75:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-1024x576.jpg";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:110655;}s:9:"thumbnail";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8074;}s:12:"medium_large";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-768x432.jpg";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69219;}s:16:"blogty-large-img";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73653;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38556;}s:17:"blogty-square-img";a:5:{s:4:"file";s:74:"light-structure-night-city-advertising-crowd-70289-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60782;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:209993;s:9:"ori_saved";i:54;s:10:"webp_total";i:209993;s:10:"webp_saved";i:34609;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -928,6 +1198,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:857;s:4:"file";s:74:"2023/10/landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_.jpg";s:8:"filesize";i:472901;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13563;}s:5:"large";a:5:{s:4:"file";s:75:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-1024x686.jpg";s:5:"width";i:1024;s:6:"height";i:686;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:154874;}s:9:"thumbnail";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5272;}s:12:"medium_large";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88563;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:75:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:233162;}s:16:"blogty-large-img";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80916;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37166;}s:17:"blogty-square-img";a:5:{s:4:"file";s:74:"landscape-architecture-sky-lawn-villa-house-488738-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54508;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:743229;s:9:"ori_saved";i:202747;s:10:"webp_total";i:743229;s:10:"webp_saved";i:212357;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[person-light-night-dark-sparkler-darkness-47289-pxhere.com]]></title>
@@ -960,6 +1247,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:71:"2023/10/person-light-night-dark-sparkler-darkness-47289-pxhere.com_.jpg";s:8:"filesize";i:374899;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12595;}s:5:"large";a:5:{s:4:"file";s:72:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111248;}s:9:"thumbnail";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5933;}s:12:"medium_large";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67656;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:72:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:175158;}s:16:"blogty-large-img";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70255;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35402;}s:17:"blogty-square-img";a:5:{s:4:"file";s:71:"person-light-night-dark-sparkler-darkness-47289-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48599;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:436093;s:9:"ori_saved";i:191563;s:10:"webp_total";i:436093;s:10:"webp_saved";i:238893;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1917,6 +2221,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:77:"2023/10/architecture-car-van-driving-transport-vehicle-147440-pxhere.com_.jpg";s:8:"filesize";i:498077;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16460;}s:5:"large";a:5:{s:4:"file";s:78:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145372;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7703;}s:12:"medium_large";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86251;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:78:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:216730;}s:16:"blogty-large-img";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81101;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40677;}s:17:"blogty-square-img";a:5:{s:4:"file";s:77:"architecture-car-van-driving-transport-vehicle-147440-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57652;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:619855;s:9:"ori_saved";i:269996;s:10:"webp_total";i:121778;s:10:"webp_saved";i:16762;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[blogty-classic-banner-m]]></title>
@@ -1949,6 +2270,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:391;s:6:"height";i:385;s:4:"file";s:35:"2024/01/blogty-classic-banner-m.png";s:8:"filesize";i:129736;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:35:"blogty-classic-banner-m-300x295.png";s:5:"width";i:300;s:6:"height";i:295;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:81367;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"blogty-classic-banner-m-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:27724;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:35:"blogty-classic-banner-m-391x306.png";s:5:"width";i:391;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:112052;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:109091;s:9:"ori_saved";i:44996;s:10:"webp_total";i:109091;s:10:"webp_saved";i:94575;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1983,6 +2321,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1170;s:6:"height";i:274;s:4:"file";s:28:"2024/01/blogty-banner-xl.png";s:8:"filesize";i:77594;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:27:"blogty-banner-xl-300x70.png";s:5:"width";i:300;s:6:"height";i:70;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8440;}s:5:"large";a:5:{s:4:"file";s:29:"blogty-banner-xl-1024x240.png";s:5:"width";i:1024;s:6:"height";i:240;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:65753;}s:9:"thumbnail";a:5:{s:4:"file";s:28:"blogty-banner-xl-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5471;}s:12:"medium_large";a:5:{s:4:"file";s:28:"blogty-banner-xl-768x180.png";s:5:"width";i:768;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:42443;}s:16:"blogty-large-img";a:5:{s:4:"file";s:28:"blogty-banner-xl-800x274.png";s:5:"width";i:800;s:6:"height";i:274;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28994;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:28:"blogty-banner-xl-544x274.png";s:5:"width";i:544;s:6:"height";i:274;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11171;}s:17:"blogty-square-img";a:5:{s:4:"file";s:28:"blogty-banner-xl-500x274.png";s:5:"width";i:500;s:6:"height";i:274;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10472;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:18912;s:9:"ori_saved";i:5109;s:10:"webp_total";i:8440;s:10:"webp_saved";i:4846;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pexels-cottonbro-studio-7253664]]></title>
@@ -2016,6 +2371,23 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:43:"2024/01/pexels-cottonbro-studio-7253664.jpg";s:8:"filesize";i:34166;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7321;}s:5:"large";a:5:{s:4:"file";s:44:"pexels-cottonbro-studio-7253664-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32276;}s:9:"thumbnail";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4950;}s:12:"medium_large";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21087;}s:18:"blogty-cover-image";a:5:{s:4:"file";s:44:"pexels-cottonbro-studio-7253664-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45480;}s:16:"blogty-large-img";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21474;}s:17:"blogty-medium-img";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12911;}s:17:"blogty-square-img";a:5:{s:4:"file";s:43:"pexels-cottonbro-studio-7253664-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13751;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:60828;s:9:"ori_saved";i:5642;s:10:"webp_total";i:60828;s:10:"webp_saved";i:23110;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[blogty-lite-logo]]></title>
@@ -2048,6 +2420,23 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:280;s:6:"height";i:51;s:4:"file";s:28:"2024/01/blogty-lite-logo.png";s:8:"filesize";i:2332;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:27:"blogty-lite-logo-150x51.png";s:5:"width";i:150;s:6:"height";i:51;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1536;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+544x306
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:2332;s:9:"ori_saved";i:829;s:10:"webp_total";i:2332;s:10:"webp_saved";i:890;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4647,8 +5036,8 @@
 										<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="post_tag" nicename="music"><![CDATA[Music]]></category>
 		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 		<category domain="post_tag" nicename="politics"><![CDATA[Politics]]></category>
+		<category domain="category" nicename="politics"><![CDATA[Politics]]></category>
 		<category domain="post_format" nicename="post-format-gallery"><![CDATA[Gallery]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
