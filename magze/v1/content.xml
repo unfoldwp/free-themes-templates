@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.3" created="2024-02-22 05:29" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-13 08:30" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -28,8 +28,8 @@
 <channel>
 	<title>Magze</title>
 	<link>https://demo.unfoldwp.com/magze-lite</link>
-	<description></description>
-	<pubDate>Thu, 22 Feb 2024 05:29:17 +0000</pubDate>
+	<description>Your Ultimate Magazine Destination</description>
+	<pubDate>Wed, 13 Mar 2024 08:30:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -190,6 +190,14 @@
 
 	<generator>https://wordpress.org/?v=6.4.3</generator>
 
+<image>
+	<url>https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/cropped-site-icon-32x32.png</url>
+	<title>Magze</title>
+	<link>https://demo.unfoldwp.com/magze-lite</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+
 		<item>
 		<title><![CDATA[women-lady-model-person-photography-wallpaper-1639643-pxhere.com]]></title>
 		<link>https://demo.unfoldwp.com/magze-lite/women-lady-model-person-photography-wallpaper-1639643-pxhere-com/</link>
@@ -220,7 +228,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:77:"2024/02/women-lady-model-person-photography-wallpaper-1639643-pxhere.com_.jpg";s:8:"filesize";i:551778;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14686;}s:5:"large";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:153195;}s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6511;}s:12:"medium_large";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88752;}s:17:"magze-cover-image";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:228458;}s:15:"magze-large-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84450;}s:16:"magze-medium-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55098;}s:16:"magze-square-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59610;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:77:"2024/02/women-lady-model-person-photography-wallpaper-1639643-pxhere.com_.jpg";s:8:"filesize";i:262473;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6513;}s:17:"magze-cover-image";a:5:{s:4:"file";s:78:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:223687;}s:15:"magze-large-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84009;}s:16:"magze-medium-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55012;}s:16:"magze-square-img";a:5:{s:4:"file";s:77:"women-lady-model-person-photography-wallpaper-1639643-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59501;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:302754;s:9:"ori_saved";i:1148;s:10:"webp_total";i:302754;s:10:"webp_saved";i:23374;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -253,7 +278,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:900;s:4:"file";s:92:"2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg";s:8:"filesize";i:50012;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-240x300.jpg";s:5:"width";i:240;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13512;}s:9:"thumbnail";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7799;}s:17:"magze-cover-image";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-720x720.jpg";s:5:"width";i:720;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57272;}s:15:"magze-large-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-720x450.jpg";s:5:"width";i:720;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47109;}s:16:"magze-medium-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34743;}s:16:"magze-square-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31408;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:900;s:4:"file";s:92:"2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg";s:8:"filesize";i:49994;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7799;}s:17:"magze-cover-image";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-720x720.jpg";s:5:"width";i:720;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57272;}s:15:"magze-large-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-720x450.jpg";s:5:"width";i:720;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47109;}s:16:"magze-medium-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34743;}s:16:"magze-square-img";a:5:{s:4:"file";s:92:"art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31408;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:89219;s:9:"ori_saved";i:3978;s:10:"webp_total";i:89219;s:10:"webp_saved";i:23697;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -286,7 +328,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:67:"2024/02/sport-play-train-young-hall-training-773727-pxhere.com_.jpg";s:8:"filesize";i:247385;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11327;}s:5:"large";a:5:{s:4:"file";s:68:"sport-play-train-young-hall-training-773727-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72271;}s:9:"thumbnail";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5683;}s:12:"medium_large";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45236;}s:17:"magze-cover-image";a:5:{s:4:"file";s:68:"sport-play-train-young-hall-training-773727-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:100669;}s:15:"magze-large-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42878;}s:16:"magze-medium-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31061;}s:16:"magze-square-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32665;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:67:"2024/02/sport-play-train-young-hall-training-773727-pxhere.com_.jpg";s:8:"filesize";i:104637;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5673;}s:17:"magze-cover-image";a:5:{s:4:"file";s:68:"sport-play-train-young-hall-training-773727-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91383;}s:15:"magze-large-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42237;}s:16:"magze-medium-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30886;}s:16:"magze-square-img";a:5:{s:4:"file";s:67:"sport-play-train-young-hall-training-773727-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32332;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:178570;s:9:"ori_saved";i:54;s:10:"webp_total";i:178570;s:10:"webp_saved";i:65078;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -319,7 +378,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:832;s:4:"file";s:75:"2024/02/mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_.jpg";s:8:"filesize";i:406707;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-300x195.jpg";s:5:"width";i:300;s:6:"height";i:195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7729;}s:5:"large";a:5:{s:4:"file";s:76:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-1024x666.jpg";s:5:"width";i:1024;s:6:"height";i:666;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53200;}s:9:"thumbnail";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3909;}s:12:"medium_large";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33630;}s:17:"magze-cover-image";a:5:{s:4:"file";s:76:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77158;}s:15:"magze-large-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32955;}s:16:"magze-medium-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22148;}s:16:"magze-square-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22729;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:832;s:4:"file";s:75:"2024/02/mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_.jpg";s:8:"filesize";i:73982;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3360;}s:17:"magze-cover-image";a:5:{s:4:"file";s:76:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71628;}s:15:"magze-large-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32455;}s:16:"magze-medium-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21684;}s:16:"magze-square-img";a:5:{s:4:"file";s:75:"mountain-nature-sky-landscape-night-horizon-1684064-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22158;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:29877;s:9:"ori_saved";i:389;s:10:"webp_total";i:29877;s:10:"webp_saved";i:9595;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -352,7 +428,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1218;s:6:"height";i:900;s:4:"file";s:82:"2024/02/doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_.jpg";s:8:"filesize";i:1018480;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-300x222.jpg";s:5:"width";i:300;s:6:"height";i:222;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20728;}s:5:"large";a:5:{s:4:"file";s:83:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-1024x757.jpg";s:5:"width";i:1024;s:6:"height";i:757;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:191570;}s:9:"thumbnail";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7911;}s:12:"medium_large";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-768x567.jpg";s:5:"width";i:768;s:6:"height";i:567;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112992;}s:17:"magze-cover-image";a:5:{s:4:"file";s:83:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-1218x720.jpg";s:5:"width";i:1218;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:245976;}s:15:"magze-large-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98225;}s:16:"magze-medium-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66212;}s:16:"magze-square-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69322;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1218;s:6:"height";i:900;s:4:"file";s:82:"2024/02/doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_.jpg";s:8:"filesize";i:251479;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6612;}s:17:"magze-cover-image";a:5:{s:4:"file";s:83:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-1218x720.jpg";s:5:"width";i:1218;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:213471;}s:15:"magze-large-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87409;}s:16:"magze-medium-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58682;}s:16:"magze-square-img";a:5:{s:4:"file";s:82:"doors-cloud-sky-building-road-surface-urban-design-1684146-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61649;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:156262;s:9:"ori_saved";i:17699;s:10:"webp_total";i:156262;s:10:"webp_saved";i:29082;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -385,7 +478,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:828;s:4:"file";s:68:"2024/02/man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_.jpg";s:8:"filesize";i:261928;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-300x194.jpg";s:5:"width";i:300;s:6:"height";i:194;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9714;}s:5:"large";a:5:{s:4:"file";s:69:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-1024x662.jpg";s:5:"width";i:1024;s:6:"height";i:662;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85416;}s:9:"thumbnail";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4682;}s:12:"medium_large";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-768x497.jpg";s:5:"width";i:768;s:6:"height";i:497;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52252;}s:17:"magze-cover-image";a:5:{s:4:"file";s:69:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:123482;}s:15:"magze-large-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50684;}s:16:"magze-medium-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34317;}s:16:"magze-square-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38433;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:828;s:4:"file";s:68:"2024/02/man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_.jpg";s:8:"filesize";i:124535;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4992;}s:17:"magze-cover-image";a:5:{s:4:"file";s:69:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121515;}s:15:"magze-large-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52750;}s:16:"magze-medium-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35988;}s:16:"magze-square-img";a:5:{s:4:"file";s:68:"man-outdoor-mountain-snow-cold-winter-780562-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40312;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:351045;s:9:"ori_saved";i:139056;s:10:"webp_total";i:351045;s:10:"webp_saved";i:190689;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -418,7 +528,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:65:"2024/02/man-beach-water-ocean-people-sport-666293-pxhere.com_.jpg";s:8:"filesize";i:385472;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17016;}s:5:"large";a:5:{s:4:"file";s:66:"man-beach-water-ocean-people-sport-666293-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:136314;}s:9:"thumbnail";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7373;}s:12:"medium_large";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84654;}s:17:"magze-cover-image";a:5:{s:4:"file";s:66:"man-beach-water-ocean-people-sport-666293-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:189091;}s:15:"magze-large-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81118;}s:16:"magze-medium-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55988;}s:16:"magze-square-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58172;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:65:"2024/02/man-beach-water-ocean-people-sport-666293-pxhere.com_.jpg";s:8:"filesize";i:220279;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7966;}s:17:"magze-cover-image";a:5:{s:4:"file";s:66:"man-beach-water-ocean-people-sport-666293-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:194870;}s:15:"magze-large-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87194;}s:16:"magze-medium-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60468;}s:16:"magze-square-img";a:5:{s:4:"file";s:65:"man-beach-water-ocean-people-sport-666293-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62564;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:383577;s:9:"ori_saved";i:54;s:10:"webp_total";i:383577;s:10:"webp_saved";i:42689;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -451,7 +578,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:848;s:4:"file";s:84:"2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg";s:8:"filesize";i:433493;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-300x199.jpg";s:5:"width";i:300;s:6:"height";i:199;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14801;}s:5:"large";a:5:{s:4:"file";s:85:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-1024x678.jpg";s:5:"width";i:1024;s:6:"height";i:678;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:125371;}s:9:"thumbnail";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6743;}s:12:"medium_large";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-768x509.jpg";s:5:"width";i:768;s:6:"height";i:509;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:75762;}s:17:"magze-cover-image";a:5:{s:4:"file";s:85:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:193032;}s:15:"magze-large-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74619;}s:16:"magze-medium-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48802;}s:16:"magze-square-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50951;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:848;s:4:"file";s:84:"2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg";s:8:"filesize";i:209415;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6733;}s:17:"magze-cover-image";a:5:{s:4:"file";s:85:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:185131;}s:15:"magze-large-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79724;}s:16:"magze-medium-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52300;}s:16:"magze-square-img";a:5:{s:4:"file";s:84:"photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54002;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:250726;s:9:"ori_saved";i:387;s:10:"webp_total";i:250726;s:10:"webp_saved";i:33138;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -484,7 +628,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:102:"2024/02/flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_.jpg";s:8:"filesize";i:219554;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12208;}s:5:"large";a:5:{s:4:"file";s:103:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77646;}s:9:"thumbnail";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6272;}s:12:"medium_large";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50446;}s:17:"magze-cover-image";a:5:{s:4:"file";s:103:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105496;}s:15:"magze-large-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47547;}s:16:"magze-medium-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34646;}s:16:"magze-square-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38306;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:102:"2024/02/flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_.jpg";s:8:"filesize";i:119592;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6861;}s:17:"magze-cover-image";a:5:{s:4:"file";s:103:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109818;}s:15:"magze-large-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52018;}s:16:"magze-medium-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38016;}s:16:"magze-square-img";a:5:{s:4:"file";s:102:"flower-outerwear-helmet-sports-equipment-sports-gear-motorcycle-helmet-1668246-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41662;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:95024;s:9:"ori_saved";i:54;s:10:"webp_total";i:95024;s:10:"webp_saved";i:23222;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -517,7 +678,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:731;s:4:"file";s:101:"2024/02/dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_.jpg";s:8:"filesize";i:302818;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-300x171.jpg";s:5:"width";i:300;s:6:"height";i:171;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20202;}s:5:"large";a:5:{s:4:"file";s:102:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-1024x585.jpg";s:5:"width";i:1024;s:6:"height";i:585;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:117433;}s:9:"thumbnail";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11520;}s:12:"medium_large";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-768x439.jpg";s:5:"width";i:768;s:6:"height";i:439;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77054;}s:17:"magze-cover-image";a:5:{s:4:"file";s:102:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:170739;}s:15:"magze-large-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81301;}s:16:"magze-medium-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57976;}s:16:"magze-square-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56113;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:731;s:4:"file";s:101:"2024/02/dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_.jpg";s:8:"filesize";i:144720;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7560;}s:17:"magze-cover-image";a:5:{s:4:"file";s:102:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:145470;}s:15:"magze-large-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69188;}s:16:"magze-medium-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48717;}s:16:"magze-square-img";a:5:{s:4:"file";s:101:"dentist-eyewear-automotive-design-white-collar-worker-comfort-service-1681242-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47031;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:254847;s:9:"ori_saved";i:34108;s:10:"webp_total";i:254847;s:10:"webp_saved";i:96505;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -550,7 +728,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:96:"2024/02/development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_.jpg";s:8:"filesize";i:210099;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16366;}s:5:"large";a:5:{s:4:"file";s:97:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106821;}s:9:"thumbnail";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7790;}s:12:"medium_large";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:69170;}s:17:"magze-cover-image";a:5:{s:4:"file";s:97:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143662;}s:15:"magze-large-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64117;}s:16:"magze-medium-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47033;}s:16:"magze-square-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47166;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:96:"2024/02/development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_.jpg";s:8:"filesize";i:163346;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7674;}s:17:"magze-cover-image";a:5:{s:4:"file";s:97:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:150353;}s:15:"magze-large-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67602;}s:16:"magze-medium-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49597;}s:16:"magze-square-img";a:5:{s:4:"file";s:96:"development-hand-photograph-personal-computer-tableware-computer-1680974-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49545;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:254812;s:9:"ori_saved";i:731;s:10:"webp_total";i:254812;s:10:"webp_saved";i:53206;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -583,7 +778,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:84:"2024/02/blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_.jpg";s:8:"filesize";i:223155;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7898;}s:5:"large";a:5:{s:4:"file";s:85:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56419;}s:9:"thumbnail";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4167;}s:12:"medium_large";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34999;}s:17:"magze-cover-image";a:5:{s:4:"file";s:85:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86409;}s:15:"magze-large-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33930;}s:16:"magze-medium-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23573;}s:16:"magze-square-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26802;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:84:"2024/02/blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_.jpg";s:8:"filesize";i:81286;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4329;}s:17:"magze-cover-image";a:5:{s:4:"file";s:85:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79521;}s:15:"magze-large-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35072;}s:16:"magze-medium-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24601;}s:16:"magze-square-img";a:5:{s:4:"file";s:84:"blackboard-university-speech-lecturer-lecture-teacher-698271-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27909;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:58273;s:9:"ori_saved";i:871;s:10:"webp_total";i:58273;s:10:"webp_saved";i:19399;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -616,7 +828,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:877;s:4:"file";s:75:"2024/02/girl-building-city-meeting-corporate-student-649367-pxhere.com_.jpg";s:8:"filesize";i:263570;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-300x206.jpg";s:5:"width";i:300;s:6:"height";i:206;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13969;}s:5:"large";a:5:{s:4:"file";s:76:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-1024x702.jpg";s:5:"width";i:1024;s:6:"height";i:702;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93357;}s:9:"thumbnail";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6333;}s:12:"medium_large";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-768x526.jpg";s:5:"width";i:768;s:6:"height";i:526;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60185;}s:17:"magze-cover-image";a:5:{s:4:"file";s:76:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133459;}s:15:"magze-large-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59141;}s:16:"magze-medium-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40467;}s:16:"magze-square-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40963;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:877;s:4:"file";s:75:"2024/02/girl-building-city-meeting-corporate-student-649367-pxhere.com_.jpg";s:8:"filesize";i:144309;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6763;}s:17:"magze-cover-image";a:5:{s:4:"file";s:76:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135707;}s:15:"magze-large-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63437;}s:16:"magze-medium-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43650;}s:16:"magze-square-img";a:5:{s:4:"file";s:75:"girl-building-city-meeting-corporate-student-649367-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43986;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:252785;s:9:"ori_saved";i:54;s:10:"webp_total";i:252785;s:10:"webp_saved";i:65957;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -649,7 +878,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:73:"2024/02/person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_.jpg";s:8:"filesize";i:244002;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13401;}s:5:"large";a:5:{s:4:"file";s:74:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77796;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6984;}s:12:"medium_large";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51358;}s:17:"magze-cover-image";a:5:{s:4:"file";s:74:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98413;}s:15:"magze-large-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47525;}s:16:"magze-medium-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36073;}s:16:"magze-square-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37921;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:73:"2024/02/person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_.jpg";s:8:"filesize";i:113591;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6431;}s:17:"magze-cover-image";a:5:{s:4:"file";s:74:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98509;}s:15:"magze-large-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47163;}s:16:"magze-medium-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35567;}s:16:"magze-square-img";a:5:{s:4:"file";s:73:"person-car-bicycle-bike-vehicle-motorcycle-146831-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37484;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:380336;s:9:"ori_saved";i:130447;s:10:"webp_total";i:380336;s:10:"webp_saved";i:215742;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -682,7 +928,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:64:"2024/02/city-cars-flower-shit-wheel-tire-1681200-pxhere.com_.jpg";s:8:"filesize";i:121157;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-300x188.jpg";s:5:"width";i:300;s:6:"height";i:188;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11846;}s:5:"large";a:5:{s:4:"file";s:65:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-1024x640.jpg";s:5:"width";i:1024;s:6:"height";i:640;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71894;}s:9:"thumbnail";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6019;}s:12:"medium_large";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-768x480.jpg";s:5:"width";i:768;s:6:"height";i:480;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46771;}s:17:"magze-cover-image";a:5:{s:4:"file";s:65:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:106024;}s:15:"magze-large-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45941;}s:16:"magze-medium-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33643;}s:16:"magze-square-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34396;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:800;s:4:"file";s:64:"2024/02/city-cars-flower-shit-wheel-tire-1681200-pxhere.com_.jpg";s:8:"filesize";i:121058;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6012;}s:17:"magze-cover-image";a:5:{s:4:"file";s:65:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:105914;}s:15:"magze-large-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45869;}s:16:"magze-medium-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33591;}s:16:"magze-square-img";a:5:{s:4:"file";s:64:"city-cars-flower-shit-wheel-tire-1681200-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34336;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:202324;s:9:"ori_saved";i:135;s:10:"webp_total";i:202324;s:10:"webp_saved";i:76188;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -715,7 +978,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:78:"2024/02/screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_.jpg";s:8:"filesize";i:261101;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14014;}s:5:"large";a:5:{s:4:"file";s:79:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:103307;}s:9:"thumbnail";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5920;}s:12:"medium_large";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-768x511.jpg";s:5:"width";i:768;s:6:"height";i:511;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:64842;}s:17:"magze-cover-image";a:5:{s:4:"file";s:79:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:147392;}s:15:"magze-large-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62362;}s:16:"magze-medium-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43328;}s:16:"magze-square-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42673;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:78:"2024/02/screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_.jpg";s:8:"filesize";i:172763;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5923;}s:17:"magze-cover-image";a:5:{s:4:"file";s:79:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143945;}s:15:"magze-large-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62028;}s:16:"magze-medium-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43243;}s:16:"magze-square-img";a:5:{s:4:"file";s:78:"screen-music-auditorium-crowd-concert-audience-1248058-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42510;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:293372;s:9:"ori_saved";i:54;s:10:"webp_total";i:293372;s:10:"webp_saved";i:57952;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -748,7 +1028,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:78:"2024/02/landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_.jpg";s:8:"filesize";i:242512;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10874;}s:5:"large";a:5:{s:4:"file";s:79:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:76957;}s:9:"thumbnail";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5555;}s:12:"medium_large";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49115;}s:17:"magze-cover-image";a:5:{s:4:"file";s:79:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112368;}s:15:"magze-large-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49318;}s:16:"magze-medium-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33255;}s:16:"magze-square-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:40024;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:78:"2024/02/landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_.jpg";s:8:"filesize";i:120259;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6123;}s:17:"magze-cover-image";a:5:{s:4:"file";s:79:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:114500;}s:15:"magze-large-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53520;}s:16:"magze-medium-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36460;}s:16:"magze-square-img";a:5:{s:4:"file";s:78:"landscape-water-architecture-sky-sunset-bridge-1071641-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43660;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:194941;s:9:"ori_saved";i:54;s:10:"webp_total";i:194941;s:10:"webp_saved";i:44879;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -781,7 +1078,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:73:"2024/02/snow-winter-architecture-woman-building-red-35628-pxhere.com_.jpg";s:8:"filesize";i:481516;s:5:"sizes";a:8:{s:6:"medium";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13899;}s:5:"large";a:5:{s:4:"file";s:74:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137691;}s:9:"thumbnail";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6698;}s:12:"medium_large";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79835;}s:17:"magze-cover-image";a:5:{s:4:"file";s:74:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:215888;}s:15:"magze-large-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77684;}s:16:"magze-medium-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49800;}s:16:"magze-square-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:56936;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:73:"2024/02/snow-winter-architecture-woman-building-red-35628-pxhere.com_.jpg";s:8:"filesize";i:225506;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6499;}s:17:"magze-cover-image";a:5:{s:4:"file";s:74:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:207985;}s:15:"magze-large-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80106;}s:16:"magze-medium-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51314;}s:16:"magze-square-img";a:5:{s:4:"file";s:73:"snow-winter-architecture-woman-building-red-35628-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58609;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:244427;s:9:"ori_saved";i:6247;s:10:"webp_total";i:244427;s:10:"webp_saved";i:37333;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -814,7 +1128,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:250;s:4:"file";s:37:"2024/02/magze-lite-banner-tech-hb.png";s:8:"filesize";i:139922;s:5:"sizes";a:7:{s:6:"medium";a:5:{s:4:"file";s:36:"magze-lite-banner-tech-hb-300x63.png";s:5:"width";i:300;s:6:"height";i:63;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13985;}s:5:"large";a:5:{s:4:"file";s:38:"magze-lite-banner-tech-hb-1024x213.png";s:5:"width";i:1024;s:6:"height";i:213;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:105963;}s:9:"thumbnail";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7111;}s:12:"medium_large";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-768x160.png";s:5:"width";i:768;s:6:"height";i:160;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:66014;}s:15:"magze-large-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-800x250.png";s:5:"width";i:800;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:72252;}s:16:"magze-medium-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-600x250.png";s:5:"width";i:600;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28156;}s:16:"magze-square-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-500x250.png";s:5:"width";i:500;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16366;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:250;s:4:"file";s:37:"2024/02/magze-lite-banner-tech-hb.png";s:8:"filesize";i:93763;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10668;}s:15:"magze-large-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-800x250.png";s:5:"width";i:800;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:74890;}s:16:"magze-medium-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-600x250.png";s:5:"width";i:600;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:29562;}s:16:"magze-square-img";a:5:{s:4:"file";s:37:"magze-lite-banner-tech-hb-500x250.png";s:5:"width";i:500;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20771;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:175189;s:9:"ori_saved";i:59442;s:10:"webp_total";i:175189;s:10:"webp_saved";i:144185;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -847,7 +1178,24 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:580;s:6:"height";i:400;s:4:"file";s:34:"2024/02/magze-default-banner-m.png";s:8:"filesize";i:139857;s:5:"sizes";a:3:{s:6:"medium";a:5:{s:4:"file";s:34:"magze-default-banner-m-300x207.png";s:5:"width";i:300;s:6:"height";i:207;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:44668;}s:9:"thumbnail";a:5:{s:4:"file";s:34:"magze-default-banner-m-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21999;}s:16:"magze-square-img";a:5:{s:4:"file";s:34:"magze-default-banner-m-500x400.png";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:123663;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:580;s:6:"height";i:400;s:4:"file";s:34:"2024/02/magze-default-banner-m.png";s:8:"filesize";i:90961;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"magze-default-banner-m-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:20268;}s:16:"magze-square-img";a:5:{s:4:"file";s:34:"magze-default-banner-m-500x400.png";s:5:"width";i:500;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:121093;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:145662;s:9:"ori_saved";i:49449;s:10:"webp_total";i:145662;s:10:"webp_saved";i:119634;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -860,10 +1208,10 @@
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>70</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-17 03:47:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[facebook]]></wp:post_name>
@@ -913,6 +1261,14 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1633,13 +1989,13 @@
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=93</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Top news picks and current events]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>93</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-20 06:41:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[default]]></wp:post_name>
@@ -1680,11 +2036,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magze-lite/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1694,13 +2058,13 @@
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=94</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Latest trends and style inspirations]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>94</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-20 06:41:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[times]]></wp:post_name>
@@ -1741,11 +2105,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magze-times/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1755,13 +2127,13 @@
 		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=95</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[Keep pace with the ever-evolving world]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>95</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-02-20 06:41:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[news-2]]></wp:post_name>
@@ -1802,186 +2174,19 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magze/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
 		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Blog]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/blog/</link>
-		<pubDate>Tue, 20 Feb 2024 06:41:07 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=96</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>96</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-20 06:41:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[blog]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>5</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[70]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[96]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Sidebars]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/sidebars/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=121</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>121</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[sidebars]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>7</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Left Sidebar]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/122/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=122</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>122</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[122]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>8</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[37]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2014,7 +2219,178 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:980;s:6:"height";i:120;s:4:"file";s:35:"2024/02/magze-default-banner-hm.png";s:8:"filesize";i:76452;s:5:"sizes";a:6:{s:6:"medium";a:5:{s:4:"file";s:34:"magze-default-banner-hm-300x37.png";s:5:"width";i:300;s:6:"height";i:37;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10967;}s:9:"thumbnail";a:5:{s:4:"file";s:35:"magze-default-banner-hm-150x120.png";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3128;}s:12:"medium_large";a:5:{s:4:"file";s:34:"magze-default-banner-hm-768x94.png";s:5:"width";i:768;s:6:"height";i:94;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:48097;}s:15:"magze-large-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-800x120.png";s:5:"width";i:800;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:59605;}s:16:"magze-medium-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-600x120.png";s:5:"width";i:600;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43180;}s:16:"magze-square-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-500x120.png";s:5:"width";i:500;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:34776;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:980;s:6:"height";i:120;s:4:"file";s:35:"2024/02/magze-default-banner-hm.png";s:8:"filesize";i:50515;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"magze-default-banner-hm-150x120.png";s:5:"width";i:150;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:4233;}s:15:"magze-large-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-800x120.png";s:5:"width";i:800;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:60894;}s:16:"magze-medium-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-600x120.png";s:5:"width";i:600;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43171;}s:16:"magze-square-img";a:5:{s:4:"file";s:35:"magze-default-banner-hm-500x120.png";s:5:"width";i:500;s:6:"height";i:120;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:34897;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:137561;s:9:"ori_saved";i:36418;s:10:"webp_total";i:137561;s:10:"webp_saved";i:112387;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[site-icon]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/site-icon/</link>
+		<pubDate>Fri, 23 Feb 2024 15:27:17 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/site-icon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>213</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-23 15:27:17]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-23 15:27:17]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-23 15:27:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-23 15:27:17]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[site-icon]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/site-icon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/02/site-icon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2024/02/site-icon.png";s:8:"filesize";i:16683;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9920;}s:15:"magze-large-img";a:5:{s:4:"file";s:21:"site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:16:"magze-medium-img";a:5:{s:4:"file";s:21:"site-icon-512x400.png";s:5:"width";i:512;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:30152;}s:16:"magze-square-img";a:5:{s:4:"file";s:21:"site-icon-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37997;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:78072;s:9:"ori_saved";i:35363;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[cropped-site-icon.png]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/cropped-site-icon-png/</link>
+		<pubDate>Fri, 23 Feb 2024 15:27:20 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/cropped-site-icon.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/cropped-site-icon.png]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>214</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-23 15:27:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-23 15:27:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-23 15:27:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-23 15:27:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[cropped-site-icon-png]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/02/cropped-site-icon.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/02/cropped-site-icon.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_context]]></wp:meta_key>
+		<wp:meta_value><![CDATA[site-icon]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:29:"2024/02/cropped-site-icon.png";s:8:"filesize";i:37344;s:5:"sizes";a:9:{s:6:"medium";a:5:{s:4:"file";s:29:"cropped-site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21444;}s:9:"thumbnail";a:5:{s:4:"file";s:29:"cropped-site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9923;}s:15:"magze-large-img";a:5:{s:4:"file";s:29:"cropped-site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:16:"magze-medium-img";a:5:{s:4:"file";s:29:"cropped-site-icon-512x400.png";s:5:"width";i:512;s:6:"height";i:400;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:30152;}s:16:"magze-square-img";a:5:{s:4:"file";s:29:"cropped-site-icon-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37997;}s:13:"site_icon-270";a:5:{s:4:"file";s:29:"cropped-site-icon-270x270.png";s:5:"width";i:270;s:6:"height";i:270;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:18934;}s:13:"site_icon-192";a:5:{s:4:"file";s:29:"cropped-site-icon-192x192.png";s:5:"width";i:192;s:6:"height";i:192;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:12876;}s:13:"site_icon-180";a:5:{s:4:"file";s:29:"cropped-site-icon-180x180.png";s:5:"width";i:180;s:6:"height";i:180;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:11814;}s:12:"site_icon-32";a:5:{s:4:"file";s:27:"cropped-site-icon-32x32.png";s:5:"width";i:32;s:6:"height";i:32;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1366;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:56760;s:9:"ori_saved";i:28100;s:10:"webp_total";i:1366;s:10:"webp_saved";i:322;}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[magze-logo]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/magze-logo/</link>
+		<pubDate>Wed, 06 Mar 2024 07:51:10 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/03/magze-logo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>219</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-06 07:51:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-03-06 07:51:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-06 07:51:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-06 07:51:10]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[magze-logo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magze-lite/wp-content/uploads/sites/31/2024/03/magze-logo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024/03/magze-logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+300x300
+768x0
+1024x1024
+1536x1536
+2048x2048
+1280x720
+800x450
+600x400
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:154;s:6:"height";i:47;s:4:"file";s:22:"2024/03/magze-logo.png";s:8:"filesize";i:1009;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"magze-logo-150x47.png";s:5:"width";i:150;s:6:"height";i:47;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1498;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:1507;s:9:"ori_saved";i:498;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2588,6 +2964,969 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Blog]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/blog/</link>
+		<pubDate>Tue, 20 Feb 2024 06:41:07 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=96</guid>
+		<description></description>
+		<content:encoded><![CDATA[Blog posts for in-depth exploration]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>96</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-20 06:41:07]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[blog]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>5</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[96]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/magze-blog/]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-20]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Sidebars]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/sidebars/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=121</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>121</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sidebars]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>7</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Left Sidebar]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/122/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=122</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>122</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[122]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>8</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[37]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Right Sidebar]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/123/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=123</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>123</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[123]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>9</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[23]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[No Sidebar - Narrow]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/124/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=124</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>124</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[124]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>10</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[No Sidebar - Wide]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/125/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=125</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>125</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[125]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>11</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[121]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[51]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/contact-us/</link>
+		<pubDate>Wed, 21 Feb 2024 05:35:50 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?page_id=129</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p>Thank you for your interest in reaching out to us. We value your feedback and inquiries.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"layout":{"type":"constrained"}} -->
+<div class="wp-block-group"><!-- wp:columns -->
+<div class="wp-block-columns"><!-- wp:column -->
+<div class="wp-block-column"><!-- wp:paragraph -->
+<p><strong>General Inquiries:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Email: <a>info@example.com</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Phone: (555) 123-4567<br></li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Customer Support:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Email: <a>support@example.com</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Phone: (555) 987-6543</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Business Inquiries:</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:list -->
+<ul><!-- wp:list-item -->
+<li>Email: <a>partnerships@example.com</a></li>
+<!-- /wp:list-item -->
+
+<!-- wp:list-item -->
+<li>Phone: (555) 789-0123</li>
+<!-- /wp:list-item --></ul>
+<!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p><strong>Address:</strong> 123 Main Street, Cityville, State, ZIP</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column -->
+<div class="wp-block-column"><!-- wp:wpforms/form-selector {"clientId":"2df46e8e-7266-4ed2-9e7b-13f11b7e67ad","formId":"197","buttonBackgroundColor":"#f21717","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#f21717\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /--></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>129</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-21 05:35:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-21 10:58:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-21 10:58:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magze_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/single-posts/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=186</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>186</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>12</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Style 1]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/187/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=187</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>187</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[187]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[22]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Style 2]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/188/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=188</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[188]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>14</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Style 3]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/189/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=189</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>189</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[189]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[97]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[More on Premium]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/more-on-premium/</link>
+		<pubDate>Wed, 21 Feb 2024 07:40:35 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=190</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>190</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:40:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[more-on-premium]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>16</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[190]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magze/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[All Demos]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/all-demos/</link>
+		<pubDate>Wed, 21 Feb 2024 07:40:35 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=191</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>191</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:40:35]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>6</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[70]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[191]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magze/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/209/</link>
+		<pubDate>Wed, 21 Feb 2024 10:59:22 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=209</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>209</wp:post_id>
+		<wp:post_date><![CDATA[2024-03-05 08:26:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-03-05 08:26:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-05 08:26:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[209]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>17</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[129]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.unfoldwp.com/magze-lite/navigation/</link>
+		<pubDate>Wed, 21 Feb 2024 03:53:20 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/2024/02/21/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-21 03:53:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 03:53:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-21 03:53:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-21 03:53:20]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
 		<title><![CDATA[How AI is Transforming the Creative Landscape]]></title>
 		<link>https://demo.unfoldwp.com/magze-lite/how-ai-is-transforming-the-creative-landscape/</link>
 		<pubDate>Thu, 15 Feb 2024 10:34:56 +0000</pubDate>
@@ -2870,690 +4209,6 @@
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Right Sidebar]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/123/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=123</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>123</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[123]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>9</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[23]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No Sidebar - Narrow]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/124/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=124</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>124</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[124]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>10</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[No Sidebar - Wide]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/125/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:04 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=125</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>125</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[125]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>11</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[121]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Us]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/contact-us/</link>
-		<pubDate>Wed, 21 Feb 2024 05:35:50 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?page_id=129</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>Thank you for your interest in reaching out to us. We value your feedback and inquiries.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:paragraph -->
-<p><strong>General Inquiries:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Email: <a>info@example.com</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Phone: (555) 123-4567<br></li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><strong>Customer Support:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Email: <a>support@example.com</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Phone: (555) 987-6543</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><strong>Business Inquiries:</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:list -->
-<ul><!-- wp:list-item -->
-<li>Email: <a>partnerships@example.com</a></li>
-<!-- /wp:list-item -->
-
-<!-- wp:list-item -->
-<li>Phone: (555) 789-0123</li>
-<!-- /wp:list-item --></ul>
-<!-- /wp:list -->
-
-<!-- wp:paragraph -->
-<p><strong>Address:</strong> 123 Main Street, Cityville, State, ZIP</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:wpforms/form-selector {"clientId":"2df46e8e-7266-4ed2-9e7b-13f11b7e67ad","formId":"197","buttonBackgroundColor":"#f21717","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#f21717\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022}"} /--></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>129</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 05:35:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 05:35:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:58:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:58:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magze_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Posts]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/single-posts/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=186</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>186</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>12</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Style 1]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/187/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=187</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>187</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[187]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[22]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Style 2]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/188/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=188</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[188]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>14</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Style 3]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/189/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=189</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>189</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[189]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[97]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[More on Premium]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/more-on-premium/</link>
-		<pubDate>Wed, 21 Feb 2024 07:40:35 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=190</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>190</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:40:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[more-on-premium]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>16</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[190]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magze/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[All Demos]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/all-demos/</link>
-		<pubDate>Wed, 21 Feb 2024 07:40:35 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=191</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>191</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:40:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>6</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[70]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[191]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[_blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magze/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/209/</link>
-		<pubDate>Wed, 21 Feb 2024 10:59:22 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=209</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>209</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 10:59:22]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 10:59:22]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 10:59:22]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[209]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>17</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[129]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Navigation]]></title>
-		<link>https://demo.unfoldwp.com/magze-lite/navigation/</link>
-		<pubDate>Wed, 21 Feb 2024 03:53:20 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/2024/02/21/navigation/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>4</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 03:53:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 03:53:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-21 03:53:20]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-21 03:53:20]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
 					<item>
 		<title><![CDATA[Why Dental Checkups Are Vital for Oral Health]]></title>
 		<link>https://demo.unfoldwp.com/magze-lite/why-dental-checkups-are-vital-for-oral-health/</link>
