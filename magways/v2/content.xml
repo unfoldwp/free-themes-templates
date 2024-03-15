@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.4.2" created="2024-01-04 08:31" -->
+	<!-- generator="WordPress/6.4.3" created="2024-03-15 02:19" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,15 +29,15 @@
 	<title>Magways</title>
 	<link>https://demo.unfoldwp.com/magways-blog</link>
 	<description>Awesome Multipurpose WordPress Theme</description>
-	<pubDate>Thu, 04 Jan 2024 08:31:53 +0000</pubDate>
+	<pubDate>Fri, 15 Mar 2024 02:19:56 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
 	<wp:base_blog_url>https://demo.unfoldwp.com/magways-blog</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author@unfoldwp.com]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[John Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Doe]]></wp:author_last_name></wp:author>
-	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[jessica]]></wp:author_login><wp:author_email><![CDATA[jessica@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Jessica]]></wp:author_display_name><wp:author_first_name><![CDATA[Jessica]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[jessica]]></wp:author_login><wp:author_email><![CDATA[jessica@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Jessica]]></wp:author_display_name><wp:author_first_name><![CDATA[Jessica]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[brandon]]></wp:author_login><wp:author_email><![CDATA[brandon@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Brandon]]></wp:author_display_name><wp:author_first_name><![CDATA[Brandon]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author@unfoldwp.com]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[John Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Doe]]></wp:author_last_name></wp:author>
 
 		<wp:category>
 		<wp:term_id>2</wp:term_id>
@@ -248,7 +248,7 @@
 	<wp:term><wp:term_id>33</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.4.3</generator>
 
 <image>
 	<url>https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/cropped-site-icon-150x150.png</url>
@@ -288,7 +288,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2023/10/site-icon.png";s:8:"filesize";i:16683;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9923;}s:6:"medium";a:5:{s:4:"file";s:21:"site-icon-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:21444;}s:17:"magways-large-img";a:5:{s:4:"file";s:21:"site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:18:"magways-medium-img";a:5:{s:4:"file";s:21:"site-icon-512x306.png";s:5:"width";i:512;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22467;}s:18:"magways-square-img";a:5:{s:4:"file";s:21:"site-icon-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37997;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:512;s:6:"height";i:512;s:4:"file";s:21:"2023/10/site-icon.png";s:8:"filesize";i:16683;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:21:"site-icon-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:9920;}s:17:"magways-large-img";a:5:{s:4:"file";s:21:"site-icon-512x450.png";s:5:"width";i:512;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:33961;}s:18:"magways-medium-img";a:5:{s:4:"file";s:21:"site-icon-512x306.png";s:5:"width";i:512;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:22467;}s:18:"magways-square-img";a:5:{s:4:"file";s:21:"site-icon-500x500.png";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37997;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -445,7 +445,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:50:"2023/10/pexels-the-lazy-artist-gallery-1300550.jpg";s:8:"filesize";i:95688;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5037;}s:6:"medium";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9786;}s:12:"medium_large";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41541;}s:5:"large";a:5:{s:4:"file";s:51:"pexels-the-lazy-artist-gallery-1300550-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67668;}s:19:"magways-cover-image";a:5:{s:4:"file";s:51:"pexels-the-lazy-artist-gallery-1300550-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94213;}s:17:"magways-large-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38419;}s:18:"magways-medium-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20689;}s:18:"magways-square-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29310;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:50:"2023/10/pexels-the-lazy-artist-gallery-1300550.jpg";s:8:"filesize";i:95688;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4573;}s:19:"magways-cover-image";a:5:{s:4:"file";s:51:"pexels-the-lazy-artist-gallery-1300550-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89960;}s:17:"magways-large-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37927;}s:18:"magways-medium-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20187;}s:18:"magways-square-img";a:5:{s:4:"file";s:50:"pexels-the-lazy-artist-gallery-1300550-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28844;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -496,7 +496,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:39:"2023/10/pexels-melvin-buezo-2529172.jpg";s:8:"filesize";i:145244;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5704;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13399;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60487;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-melvin-buezo-2529172-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:97953;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-melvin-buezo-2529172-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135067;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57686;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31205;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37815;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:39:"2023/10/pexels-melvin-buezo-2529172.jpg";s:8:"filesize";i:145244;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5222;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-melvin-buezo-2529172-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137649;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57532;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30801;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-melvin-buezo-2529172-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37528;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -547,7 +547,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-godisable-jacob-896291.jpg";s:8:"filesize";i:164815;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6187;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14799;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:74249;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-godisable-jacob-896291-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119412;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-godisable-jacob-896291-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:174355;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73337;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37790;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44845;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-godisable-jacob-896291.jpg";s:8:"filesize";i:164815;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5710;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-godisable-jacob-896291-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166810;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:72521;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37264;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-godisable-jacob-896291-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:44323;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -598,7 +598,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1279;s:6:"height";i:853;s:4:"file";s:43:"2023/10/pexels-andrea-piacquadio-837140.jpg";s:8:"filesize";i:72128;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4924;}s:6:"medium";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9856;}s:12:"medium_large";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36464;}s:5:"large";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-837140-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55713;}s:19:"magways-cover-image";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-837140-1279x720.jpg";s:5:"width";i:1279;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67449;}s:17:"magways-large-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33508;}s:18:"magways-medium-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19409;}s:18:"magways-square-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25467;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1279;s:6:"height";i:853;s:4:"file";s:43:"2023/10/pexels-andrea-piacquadio-837140.jpg";s:8:"filesize";i:72128;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4443;}s:19:"magways-cover-image";a:5:{s:4:"file";s:44:"pexels-andrea-piacquadio-837140-1279x720.jpg";s:5:"width";i:1279;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66161;}s:17:"magways-large-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33078;}s:18:"magways-medium-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:18948;}s:18:"magways-square-img";a:5:{s:4:"file";s:43:"pexels-andrea-piacquadio-837140-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25029;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
@@ -653,7 +653,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-felipe-ferreira-701877.jpg";s:8:"filesize";i:35742;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3061;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4846;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17426;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-felipe-ferreira-701877-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26947;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-felipe-ferreira-701877-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36008;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16674;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9539;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14569;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-felipe-ferreira-701877.jpg";s:8:"filesize";i:35742;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2586;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-felipe-ferreira-701877-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35096;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16330;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9126;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-felipe-ferreira-701877-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14227;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -704,7 +704,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-alexandra-maria-336372.jpg";s:8:"filesize";i:59409;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4371;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8654;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30231;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-alexandra-maria-336372-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45474;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-alexandra-maria-336372-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58713;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29090;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:17158;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21531;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:41:"2023/10/pexels-alexandra-maria-336372.jpg";s:8:"filesize";i:59409;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3899;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-alexandra-maria-336372-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58224;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28728;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16697;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-alexandra-maria-336372-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21153;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -755,7 +755,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:884;s:4:"file";s:41:"2023/10/pexels-shattha-pilabut-135620.jpg";s:8:"filesize";i:131887;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6087;}s:6:"medium";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-300x207.jpg";s:5:"width";i:300;s:6:"height";i:207;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14273;}s:12:"medium_large";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-768x530.jpg";s:5:"width";i:768;s:6:"height";i:530;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59708;}s:5:"large";a:5:{s:4:"file";s:42:"pexels-shattha-pilabut-135620-1024x707.jpg";s:5:"width";i:1024;s:6:"height";i:707;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91653;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-shattha-pilabut-135620-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121054;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55179;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30920;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36931;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:884;s:4:"file";s:41:"2023/10/pexels-shattha-pilabut-135620.jpg";s:8:"filesize";i:131887;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5621;}s:19:"magways-cover-image";a:5:{s:4:"file";s:42:"pexels-shattha-pilabut-135620-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:120583;}s:17:"magways-large-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54974;}s:18:"magways-medium-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30520;}s:18:"magways-square-img";a:5:{s:4:"file";s:41:"pexels-shattha-pilabut-135620-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36569;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -806,7 +806,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:950;s:6:"height";i:133;s:4:"file";s:39:"2023/10/magways-blog-banner-large-h.png";s:8:"filesize";i:14447;s:5:"sizes";a:6:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-150x133.png";s:5:"width";i:150;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3010;}s:6:"medium";a:5:{s:4:"file";s:38:"magways-blog-banner-large-h-300x42.png";s:5:"width";i:300;s:6:"height";i:42;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3700;}s:12:"medium_large";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-768x108.png";s:5:"width";i:768;s:6:"height";i:108;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15019;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-800x133.png";s:5:"width";i:800;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13571;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-544x133.png";s:5:"width";i:544;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5729;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-500x133.png";s:5:"width";i:500;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5543;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:950;s:6:"height";i:133;s:4:"file";s:39:"2023/10/magways-blog-banner-large-h.png";s:8:"filesize";i:14447;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-150x133.png";s:5:"width";i:150;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3002;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-800x133.png";s:5:"width";i:800;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13588;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-544x133.png";s:5:"width";i:544;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5746;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"magways-blog-banner-large-h-500x133.png";s:5:"width";i:500;s:6:"height";i:133;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5560;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -857,7 +857,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:39:"2023/10/pexels-vo-thuy-tien-2695266.jpg";s:8:"filesize";i:183281;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4380;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12474;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-768x576.jpg";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:65925;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-vo-thuy-tien-2695266-1024x768.jpg";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111166;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-vo-thuy-tien-2695266-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:135548;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47501;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22972;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31502;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:960;s:4:"file";s:39:"2023/10/pexels-vo-thuy-tien-2695266.jpg";s:8:"filesize";i:183281;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3901;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-vo-thuy-tien-2695266-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:132502;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47478;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22561;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-vo-thuy-tien-2695266-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31223;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -908,7 +908,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:958;s:4:"file";s:43:"2023/10/pexels-mauricio-thomsen-4337448.jpg";s:8:"filesize";i:168060;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4886;}s:6:"medium";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-300x225.jpg";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11875;}s:12:"medium_large";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-768x575.jpg";s:5:"width";i:768;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58394;}s:5:"large";a:5:{s:4:"file";s:44:"pexels-mauricio-thomsen-4337448-1024x766.jpg";s:5:"width";i:1024;s:6:"height";i:766;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:98738;}s:19:"magways-cover-image";a:5:{s:4:"file";s:44:"pexels-mauricio-thomsen-4337448-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:130466;}s:17:"magways-large-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46994;}s:18:"magways-medium-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24021;}s:18:"magways-square-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:35076;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:958;s:4:"file";s:43:"2023/10/pexels-mauricio-thomsen-4337448.jpg";s:8:"filesize";i:168060;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4411;}s:19:"magways-cover-image";a:5:{s:4:"file";s:44:"pexels-mauricio-thomsen-4337448-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133300;}s:17:"magways-large-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47220;}s:18:"magways-medium-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:23560;}s:18:"magways-square-img";a:5:{s:4:"file";s:43:"pexels-mauricio-thomsen-4337448-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:34859;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -959,7 +959,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:34:"2023/10/pexels-tim-gouw-240222.jpg";s:8:"filesize";i:139252;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6333;}s:6:"medium";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14270;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61695;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-tim-gouw-240222-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96457;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-tim-gouw-240222-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:122481;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55116;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30477;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39985;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:34:"2023/10/pexels-tim-gouw-240222.jpg";s:8:"filesize";i:139252;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5866;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-tim-gouw-240222-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:124154;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55087;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30020;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-tim-gouw-240222-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39759;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1010,7 +1010,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:42:"2023/10/pexels-shiny-diamond-3762398-2.jpg";s:8:"filesize";i:87520;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4214;}s:6:"medium";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6660;}s:12:"medium_large";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29735;}s:5:"large";a:5:{s:4:"file";s:43:"pexels-shiny-diamond-3762398-2-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51658;}s:19:"magways-cover-image";a:5:{s:4:"file";s:43:"pexels-shiny-diamond-3762398-2-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:79186;}s:17:"magways-large-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:27713;}s:18:"magways-medium-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14198;}s:18:"magways-square-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25695;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:854;s:4:"file";s:42:"2023/10/pexels-shiny-diamond-3762398-2.jpg";s:8:"filesize";i:87520;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3752;}s:19:"magways-cover-image";a:5:{s:4:"file";s:43:"pexels-shiny-diamond-3762398-2-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:82919;}s:17:"magways-large-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:28012;}s:18:"magways-medium-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13870;}s:18:"magways-square-img";a:5:{s:4:"file";s:42:"pexels-shiny-diamond-3762398-2-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25637;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_wp_user_avatar]]></wp:meta_key>
@@ -1065,7 +1065,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2023/10/pexels-cesar-perez-733745.jpg";s:8:"filesize";i:93622;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4784;}s:6:"medium";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:9073;}s:12:"medium_large";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42128;}s:5:"large";a:5:{s:4:"file";s:38:"pexels-cesar-perez-733745-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67416;}s:19:"magways-cover-image";a:5:{s:4:"file";s:38:"pexels-cesar-perez-733745-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95375;}s:17:"magways-large-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41689;}s:18:"magways-medium-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:22197;}s:18:"magways-square-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32266;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:37:"2023/10/pexels-cesar-perez-733745.jpg";s:8:"filesize";i:93622;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4315;}s:19:"magways-cover-image";a:5:{s:4:"file";s:38:"pexels-cesar-perez-733745-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92863;}s:17:"magways-large-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41129;}s:18:"magways-medium-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:21703;}s:18:"magways-square-img";a:5:{s:4:"file";s:37:"pexels-cesar-perez-733745-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31773;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1116,7 +1116,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:34:"2023/10/pexels-riccardo-303040.jpg";s:8:"filesize";i:118495;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5552;}s:6:"medium";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12504;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58086;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-riccardo-303040-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:91526;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-riccardo-303040-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:121372;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55694;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:30177;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39687;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:34:"2023/10/pexels-riccardo-303040.jpg";s:8:"filesize";i:118495;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5072;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-riccardo-303040-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:118272;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55135;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29706;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-riccardo-303040-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:39136;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1167,7 +1167,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:831;s:4:"file";s:40:"2023/10/pexels-xue-guangjian-1687845.jpg";s:8:"filesize";i:128690;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4617;}s:6:"medium";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-300x195.jpg";s:5:"width";i:300;s:6:"height";i:195;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10181;}s:12:"medium_large";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-768x499.jpg";s:5:"width";i:768;s:6:"height";i:499;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:53927;}s:5:"large";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1687845-1024x665.jpg";s:5:"width";i:1024;s:6:"height";i:665;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88858;}s:19:"magways-cover-image";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1687845-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:126132;}s:17:"magways-large-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49731;}s:18:"magways-medium-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24960;}s:18:"magways-square-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37524;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:831;s:4:"file";s:40:"2023/10/pexels-xue-guangjian-1687845.jpg";s:8:"filesize";i:128690;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4147;}s:19:"magways-cover-image";a:5:{s:4:"file";s:41:"pexels-xue-guangjian-1687845-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:119430;}s:17:"magways-large-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:49223;}s:18:"magways-medium-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24448;}s:18:"magways-square-img";a:5:{s:4:"file";s:40:"pexels-xue-guangjian-1687845-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36954;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1218,7 +1218,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2023/10/pexels-must-bee-1305095.jpg";s:8:"filesize";i:226502;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6718;}s:6:"medium";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16162;}s:12:"medium_large";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:92989;}s:5:"large";a:5:{s:4:"file";s:36:"pexels-must-bee-1305095-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:155876;}s:19:"magways-cover-image";a:5:{s:4:"file";s:36:"pexels-must-bee-1305095-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:220722;}s:17:"magways-large-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:85390;}s:18:"magways-medium-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41907;}s:18:"magways-square-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:60463;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:35:"2023/10/pexels-must-bee-1305095.jpg";s:8:"filesize";i:226502;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6247;}s:19:"magways-cover-image";a:5:{s:4:"file";s:36:"pexels-must-bee-1305095-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:209868;}s:17:"magways-large-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84479;}s:18:"magways-medium-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41375;}s:18:"magways-square-img";a:5:{s:4:"file";s:35:"pexels-must-bee-1305095-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:59662;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1269,7 +1269,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:47:"2023/10/pexels-daniel-friday-danzor-3669735.jpg";s:8:"filesize";i:55464;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:3455;}s:6:"medium";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6248;}s:12:"medium_large";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26153;}s:5:"large";a:5:{s:4:"file";s:48:"pexels-daniel-friday-danzor-3669735-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41080;}s:19:"magways-cover-image";a:5:{s:4:"file";s:48:"pexels-daniel-friday-danzor-3669735-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55920;}s:17:"magways-large-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25001;}s:18:"magways-medium-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13799;}s:18:"magways-square-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:20108;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:47:"2023/10/pexels-daniel-friday-danzor-3669735.jpg";s:8:"filesize";i:55464;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:2983;}s:19:"magways-cover-image";a:5:{s:4:"file";s:48:"pexels-daniel-friday-danzor-3669735-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54304;}s:17:"magways-large-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24563;}s:18:"magways-medium-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:13351;}s:18:"magways-square-img";a:5:{s:4:"file";s:47:"pexels-daniel-friday-danzor-3669735-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19637;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1845,7 +1845,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:857;s:4:"file";s:33:"2023/10/pexels-pixabay-273250.jpg";s:8:"filesize";i:111616;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4687;}s:6:"medium";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-300x201.jpg";s:5:"width";i:300;s:6:"height";i:201;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10863;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-768x514.jpg";s:5:"width";i:768;s:6:"height";i:514;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50257;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-pixabay-273250-1024x686.jpg";s:5:"width";i:1024;s:6:"height";i:686;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80197;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-pixabay-273250-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:111507;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47247;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25100;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31909;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:857;s:4:"file";s:33:"2023/10/pexels-pixabay-273250.jpg";s:8:"filesize";i:111616;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4228;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-pixabay-273250-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108475;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46700;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:24645;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-pixabay-273250-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31430;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1896,7 +1896,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2023/10/pexels-pixabay-264507.jpg";s:8:"filesize";i:211391;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8250;}s:6:"medium";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:19221;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:95010;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-pixabay-264507-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:152884;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-pixabay-264507-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:212962;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:87338;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45753;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63536;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:33:"2023/10/pexels-pixabay-264507.jpg";s:8:"filesize";i:211391;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7773;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-pixabay-264507-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:200271;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86432;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45259;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-pixabay-264507-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62809;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1947,7 +1947,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:840;s:4:"file";s:33:"2023/10/pexels-chanaka-906494.jpg";s:8:"filesize";i:143112;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5196;}s:6:"medium";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-300x197.jpg";s:5:"width";i:300;s:6:"height";i:197;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11010;}s:12:"medium_large";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-768x504.jpg";s:5:"width";i:768;s:6:"height";i:504;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54149;}s:5:"large";a:5:{s:4:"file";s:34:"pexels-chanaka-906494-1024x672.jpg";s:5:"width";i:1024;s:6:"height";i:672;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:90441;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-chanaka-906494-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:133137;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:52426;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26752;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38097;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:840;s:4:"file";s:33:"2023/10/pexels-chanaka-906494.jpg";s:8:"filesize";i:143112;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4720;}s:19:"magways-cover-image";a:5:{s:4:"file";s:34:"pexels-chanaka-906494-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:134297;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51997;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:26340;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"pexels-chanaka-906494-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:37719;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -1998,7 +1998,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2023/10/pexels-maria-geller-2127039.jpg";s:8:"filesize";i:229869;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7120;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:16798;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:89828;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-maria-geller-2127039-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:153084;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-maria-geller-2127039-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:230514;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:84720;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41863;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57972;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2023/10/pexels-maria-geller-2127039.jpg";s:8:"filesize";i:229869;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6638;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-maria-geller-2127039-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:220102;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:83833;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41319;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-maria-geller-2127039-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:57318;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2049,7 +2049,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2023/10/pexels-tranmautritam-326502.jpg";s:8:"filesize";i:103416;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6237;}s:6:"medium";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:12310;}s:12:"medium_large";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:50317;}s:5:"large";a:5:{s:4:"file";s:40:"pexels-tranmautritam-326502-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:77062;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-tranmautritam-326502-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96470;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45928;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25984;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36598;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:39:"2023/10/pexels-tranmautritam-326502.jpg";s:8:"filesize";i:103416;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5751;}s:19:"magways-cover-image";a:5:{s:4:"file";s:40:"pexels-tranmautritam-326502-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:94418;}s:17:"magways-large-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45445;}s:18:"magways-medium-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:25504;}s:18:"magways-square-img";a:5:{s:4:"file";s:39:"pexels-tranmautritam-326502-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36160;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2100,7 +2100,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:34:"2023/10/pexels-cowomen-2041627.jpg";s:8:"filesize";i:153915;s:5:"sizes";a:8:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6635;}s:6:"medium";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14808;}s:12:"medium_large";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68641;}s:5:"large";a:5:{s:4:"file";s:35:"pexels-cowomen-2041627-1024x682.jpg";s:5:"width";i:1024;s:6:"height";i:682;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:109199;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-cowomen-2041627-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:143264;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61910;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33103;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45750;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:34:"2023/10/pexels-cowomen-2041627.jpg";s:8:"filesize";i:153915;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6163;}s:19:"magways-cover-image";a:5:{s:4:"file";s:35:"pexels-cowomen-2041627-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:139528;}s:17:"magways-large-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61259;}s:18:"magways-medium-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-544x306.jpg";s:5:"width";i:544;s:6:"height";i:306;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:32602;}s:18:"magways-square-img";a:5:{s:4:"file";s:34:"pexels-cowomen-2041627-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45147;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2151,7 +2151,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:103;s:4:"file";s:33:"2023/10/magways-blog-banner-h.png";s:8:"filesize";i:18996;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-h-150x103.png";s:5:"width";i:150;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2623;}s:6:"medium";a:5:{s:4:"file";s:32:"magways-blog-banner-h-300x43.png";s:5:"width";i:300;s:6:"height";i:43;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5862;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-h-544x103.png";s:5:"width";i:544;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15913;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"magways-blog-banner-h-500x103.png";s:5:"width";i:500;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14046;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:720;s:6:"height";i:103;s:4:"file";s:33:"2023/10/magways-blog-banner-h.png";s:8:"filesize";i:18996;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-h-150x103.png";s:5:"width";i:150;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:2623;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-h-544x103.png";s:5:"width";i:544;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:15970;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"magways-blog-banner-h-500x103.png";s:5:"width";i:500;s:6:"height";i:103;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:14080;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2202,7 +2202,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:250;s:4:"file";s:36:"2023/10/magways-blog-banner-wide.png";s:8:"filesize";i:51185;s:5:"sizes";a:7:{s:9:"thumbnail";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3051;}s:6:"medium";a:5:{s:4:"file";s:35:"magways-blog-banner-wide-300x63.png";s:5:"width";i:300;s:6:"height";i:63;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5078;}s:12:"medium_large";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-768x160.png";s:5:"width";i:768;s:6:"height";i:160;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:24426;}s:5:"large";a:5:{s:4:"file";s:37:"magways-blog-banner-wide-1024x213.png";s:5:"width";i:1024;s:6:"height";i:213;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:39495;}s:17:"magways-large-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-800x250.png";s:5:"width";i:800;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28089;}s:18:"magways-medium-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-544x250.png";s:5:"width";i:544;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10284;}s:18:"magways-square-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-500x250.png";s:5:"width";i:500;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8512;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:250;s:4:"file";s:36:"2023/10/magways-blog-banner-wide.png";s:8:"filesize";i:51185;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:3051;}s:17:"magways-large-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-800x250.png";s:5:"width";i:800;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:28089;}s:18:"magways-medium-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-544x250.png";s:5:"width";i:544;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:10284;}s:18:"magways-square-img";a:5:{s:4:"file";s:36:"magways-blog-banner-wide-500x250.png";s:5:"width";i:500;s:6:"height";i:250;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:8512;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2253,7 +2253,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:33:"2023/10/magways-blog-banner-v.png";s:8:"filesize";i:69959;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-v-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16710;}s:6:"medium";a:5:{s:4:"file";s:33:"magways-blog-banner-v-150x300.png";s:5:"width";i:150;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:31147;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:84021;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x306.png";s:5:"width";i:300;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:60456;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x500.png";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:93669;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:300;s:6:"height";i:600;s:4:"file";s:33:"2023/10/magways-blog-banner-v.png";s:8:"filesize";i:69959;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-v-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:16832;}s:17:"magways-large-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x450.png";s:5:"width";i:300;s:6:"height";i:450;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:63625;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x306.png";s:5:"width";i:300;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:43233;}s:18:"magways-square-img";a:5:{s:4:"file";s:33:"magways-blog-banner-v-300x500.png";s:5:"width";i:300;s:6:"height";i:500;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:73182;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -2355,7 +2355,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:345;s:6:"height";i:345;s:4:"file";s:33:"2023/10/magways-blog-banner-m.png";s:8:"filesize";i:44524;s:5:"sizes";a:3:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-m-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13102;}s:6:"medium";a:5:{s:4:"file";s:33:"magways-blog-banner-m-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:41111;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-m-345x306.png";s:5:"width";i:345;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:48299;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:345;s:6:"height";i:345;s:4:"file";s:33:"2023/10/magways-blog-banner-m.png";s:8:"filesize";i:44524;s:5:"sizes";a:2:{s:9:"thumbnail";a:5:{s:4:"file";s:33:"magways-blog-banner-m-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:13102;}s:18:"magways-medium-img";a:5:{s:4:"file";s:33:"magways-blog-banner-m-345x306.png";s:5:"width";i:345;s:6:"height";i:306;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:48299;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
@@ -5023,16 +5023,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5139,8 +5139,8 @@
 		<wp:post_id>11</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 07:45:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 07:45:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:41]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:17:54]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:17:54]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[makeup-trends-whats-hot-and-whats-not-this-year]]></wp:post_name>
@@ -5177,16 +5177,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5293,8 +5293,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 07:47:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 07:47:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:37]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:37]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:17:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:17:50]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[essential-knots-and-anchoring-techniques-for-climbers]]></wp:post_name>
@@ -5330,16 +5330,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5446,8 +5446,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 07:54:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 07:54:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:33]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:33]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:52]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:52]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[exploring-the-worlds-most-exciting-rivers]]></wp:post_name>
@@ -5488,16 +5488,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5604,8 +5604,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 08:14:37]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 08:14:37]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:25]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:25]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:43]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:43]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-convenient-and-eco-friendly-transportation-solution]]></wp:post_name>
@@ -5647,16 +5647,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5763,8 +5763,8 @@
 		<wp:post_id>24</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 08:11:04]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 08:11:04]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:29]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:29]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[enhancing-customer-experience-through-automation]]></wp:post_name>
@@ -5828,16 +5828,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -5944,8 +5944,8 @@
 		<wp:post_id>27</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 08:16:50]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 08:16:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:38]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:38]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[incorporating-retro-style-into-modern-interiors]]></wp:post_name>
@@ -5987,16 +5987,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6103,8 +6103,8 @@
 		<wp:post_id>30</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 08:20:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 08:20:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:17]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:17]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:34]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:34]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[rental-market-insights-finding-your-ideal-apartment]]></wp:post_name>
@@ -6115,8 +6115,8 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="category" nicename="automobile"><![CDATA[Automobile]]></category>
-		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="business"><![CDATA[Business]]></category>
+		<category domain="post_tag" nicename="business"><![CDATA[Business]]></category>
 		<category domain="category" nicename="investment"><![CDATA[Investment]]></category>
 		<category domain="post_tag" nicename="tech"><![CDATA[Tech]]></category>
 		<category domain="category" nicename="trending"><![CDATA[Trending]]></category>
@@ -6149,16 +6149,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6265,8 +6265,8 @@
 		<wp:post_id>40</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 08:38:56]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 08:38:56]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[camping-ideas-for-comfortable-outdoor-retreats]]></wp:post_name>
@@ -6303,16 +6303,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6419,8 +6419,8 @@
 		<wp:post_id>46</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:01:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:01:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:47]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:26]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[athleisure-fashion-blending-comfort-and-style]]></wp:post_name>
@@ -6459,16 +6459,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6575,8 +6575,8 @@
 		<wp:post_id>49</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:04:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:04:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:43]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:43]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:22]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:22]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[classic-suit-styles-for-every-occasion]]></wp:post_name>
@@ -6613,16 +6613,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6729,8 +6729,8 @@
 		<wp:post_id>52</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:12:58]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:12:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:39]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:39]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:18]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:18]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion-tips-for-cold-weather-outfits]]></wp:post_name>
@@ -6771,16 +6771,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -6887,8 +6887,8 @@
 		<wp:post_id>55</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:20:48]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:20:48]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:35]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:35]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:14]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:14]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[choosing-the-right-site-for-your-business-building]]></wp:post_name>
@@ -6925,16 +6925,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7041,8 +7041,8 @@
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 09:23:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 09:23:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:31]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:10]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:10]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[international-news-staying-connected-to-global-developments]]></wp:post_name>
@@ -7107,16 +7107,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7223,8 +7223,8 @@
 		<wp:post_id>102</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 10:59:57]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 10:59:57]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:11]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:08:05]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:08:05]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[car-technology-innovations-the-latest-gadgets-and-features]]></wp:post_name>
@@ -7262,16 +7262,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7378,8 +7378,8 @@
 		<wp:post_id>105</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:03:31]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:03:31]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:07:20]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:07:20]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[a-guide-to-womens-shoe-sizing-and-styles]]></wp:post_name>
@@ -7424,16 +7424,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7540,8 +7540,8 @@
 		<wp:post_id>108</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:05:10]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:05:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:14:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:14:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:07:16]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:07:16]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-ultimate-guide-to-choosing-the-right-glasses-frames]]></wp:post_name>
@@ -7598,16 +7598,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7714,8 +7714,8 @@
 		<wp:post_id>111</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:08:14]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:08:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:13:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:13:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:07:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:07:12]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-dos-and-donts-of-professional-gatherings]]></wp:post_name>
@@ -7766,16 +7766,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -7882,8 +7882,8 @@
 		<wp:post_id>114</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 11:29:07]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 11:29:07]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-18 09:36:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-18 09:36:27]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:07:09]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:07:09]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[car-enthusiasts-dream-exploring-high-performance-models]]></wp:post_name>
@@ -7940,16 +7940,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -8056,8 +8056,8 @@
 		<wp:post_id>168</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-05 08:34:19]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-05 08:34:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:12:52]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:12:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:06:17]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:06:17]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[future-proofing-your-business-building]]></wp:post_name>
@@ -8101,16 +8101,16 @@
 <!-- /wp:paragraph -->
 
 <!-- wp:gallery {"linkTo":"none"} -->
-<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735-1024x682.jpg" alt="" class="wp-image-328"/></figure>
+<figure class="wp-block-gallery has-nested-images columns-default is-cropped"><!-- wp:image {"id":328,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-daniel-friday-danzor-3669735.jpg" alt="" class="wp-image-328"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":315,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745-1024x682.jpg" alt="" class="wp-image-315"/></figure>
+<!-- wp:image {"id":315,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-cesar-perez-733745.jpg" alt="" class="wp-image-315"/></figure>
 <!-- /wp:image -->
 
-<!-- wp:image {"id":334,"sizeSlug":"large","linkDestination":"none"} -->
-<figure class="wp-block-image size-large"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039-1024x682.jpg" alt="" class="wp-image-334"/></figure>
+<!-- wp:image {"id":334,"sizeSlug":"full","linkDestination":"none"} -->
+<figure class="wp-block-image size-full"><img src="https://demo.unfoldwp.com/magways-blog/wp-content/uploads/sites/19/2023/10/pexels-maria-geller-2127039.jpg" alt="" class="wp-image-334"/></figure>
 <!-- /wp:image --></figure>
 <!-- /wp:gallery -->
 
@@ -8217,8 +8217,8 @@
 		<wp:post_id>249</wp:post_id>
 		<wp:post_date><![CDATA[2023-10-04 07:23:44]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2023-10-04 07:23:44]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2023-10-11 07:15:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2023-10-11 07:15:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-03-15 02:17:58]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-03-15 02:17:58]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[offshore-container-certification-ensuring-compliance-and-quality]]></wp:post_name>
