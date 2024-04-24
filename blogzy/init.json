@@ -2,12 +2,28 @@
     "import_files": {
         "free": [
             {
-                "import_name": "Default",
+                "import_name": "Blog",
                 "import_path": "v1",
                 "preview_url": "https://demo.unfoldwp.com/blogzy-lite/"
             }
         ],
-        "pro": []
+        "pro": [
+            {
+                "import_name": "Fashion",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/blogzy-fashion/"
+            },
+            {
+                "import_name": "Beauty",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/blogzy-beauty/"
+            },
+            {
+                "import_name": "Article",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/blogzy/"
+            }
+        ]
     },
     "plugins": [
         {
