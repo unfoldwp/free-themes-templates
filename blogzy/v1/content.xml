@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.2" created="2024-04-16 08:42" -->
+	<!-- generator="WordPress/6.5.2" created="2024-04-26 16:02" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogzy</title>
 	<link>https://demo.unfoldwp.com/blogzy-lite</link>
 	<description>Unleash Your Imagination</description>
-	<pubDate>Tue, 16 Apr 2024 08:42:21 +0000</pubDate>
+	<pubDate>Fri, 26 Apr 2024 16:02:32 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
