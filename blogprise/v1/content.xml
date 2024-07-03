@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.4" created="2024-06-16 03:37" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-03 08:10" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogprise</title>
 	<link>https://demo.unfoldwp.com/blogprise-lite</link>
 	<description>Where Ideas Come to Life</description>
-	<pubDate>Sun, 16 Jun 2024 03:37:51 +0000</pubDate>
+	<pubDate>Wed, 03 Jul 2024 08:10:19 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -173,7 +173,7 @@
 	<wp:term><wp:term_id>21</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<generator>https://wordpress.org/?v=6.5.5</generator>
 
 <image>
 	<url>https://demo.unfoldwp.com/blogprise-lite/wp-content/uploads/sites/43/2024/06/cropped-blogprise-site-icon-32x32.png</url>
