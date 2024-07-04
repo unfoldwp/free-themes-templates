@@ -5,6 +5,11 @@
                 "import_name": "Blog",
                 "import_path": "v1",
                 "preview_url": "https://demo.unfoldwp.com/blogbyte-path/"
+            },
+            {
+                "import_name": "Blog - V2",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/blogbyte-lite/"
             }
         ],
         "pro": [
