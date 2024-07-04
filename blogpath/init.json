@@ -22,6 +22,11 @@
                 "import_name": "Classic",
                 "import_path": "v4",
                 "preview_url": "https://demo.unfoldwp.com/blogbyte/"
+            },
+            {
+                "import_name": "Blog",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/blogbyte-lite/"
             }
         ]
     },
