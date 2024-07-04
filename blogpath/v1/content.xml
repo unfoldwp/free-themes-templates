@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.5.5" created="2024-07-04 07:42" -->
+	<!-- generator="WordPress/6.5.5" created="2024-07-04 08:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogty</title>
 	<link>https://dev.unfoldwp.com/test</link>
 	<description></description>
-	<pubDate>Thu, 04 Jul 2024 07:42:13 +0000</pubDate>
+	<pubDate>Thu, 04 Jul 2024 08:14:17 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://dev.unfoldwp.com/</wp:base_site_url>
@@ -482,7 +482,7 @@
 		<dc:creator><![CDATA[author]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogzy-lite/wp-content/uploads/sites/35/2024/04/cropped-site-icon.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[https://demo.unfoldwp.com/blogbyte-lite/wp-content/uploads/sites/35/2024/04/cropped-site-icon.png]]></content:encoded>
+		<content:encoded><![CDATA[https://demo.unfoldwp.com/blogbyte-path/wp-content/uploads/sites/35/2024/04/cropped-site-icon.png]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>163</wp:post_id>
 		<wp:post_date><![CDATA[2024-04-13 16:04:36]]></wp:post_date>
@@ -534,7 +534,7 @@
 		<link>https://dev.unfoldwp.com/test/blog-2/</link>
 		<pubDate>Sun, 28 Apr 2024 15:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/?p=274</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/?p=274</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -591,7 +591,7 @@
 		<link>https://dev.unfoldwp.com/test/support/</link>
 		<pubDate>Sun, 28 Apr 2024 15:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/?p=275</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/?p=275</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -1182,7 +1182,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/blogbyte-lite/]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://demo.unfoldwp.com/blogbyte-path/]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -2465,7 +2465,7 @@
 		<link>https://dev.unfoldwp.com/test/design/</link>
 		<pubDate>Sun, 28 Apr 2024 15:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/?p=276</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/?p=276</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2522,7 +2522,7 @@
 		<link>https://dev.unfoldwp.com/test/market/</link>
 		<pubDate>Sun, 28 Apr 2024 15:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/?p=277</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/?p=277</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -2579,7 +2579,7 @@
 		<link>https://dev.unfoldwp.com/test/policy/</link>
 		<pubDate>Sun, 28 Apr 2024 15:51:52 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/?p=278</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/?p=278</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
@@ -3993,8 +3993,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<category domain="post_tag" nicename="exploration"><![CDATA[Exploration]]></category>
 		<category domain="category" nicename="exploration"><![CDATA[Exploration]]></category>
+		<category domain="post_tag" nicename="exploration"><![CDATA[Exploration]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10-essential-gear-for-your-next-outdoor-adventure-copy-10]]></wp:meta_value>
@@ -4606,7 +4606,7 @@
 		<link>https://dev.unfoldwp.com/test/navigation-2/</link>
 		<pubDate>Sun, 28 Apr 2024 08:17:46 +0000</pubDate>
 		<dc:creator><![CDATA[author]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-lite/2024/04/28/navigation/</guid>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/blogbyte-path/2024/04/28/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
