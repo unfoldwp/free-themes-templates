@@ -2,7 +2,7 @@
     "import_files": {
         "free": [
             {
-                "import_name": "Blog",
+                "import_name": "Blogpath",
                 "import_path": "v1",
                 "preview_url": "https://demo.unfoldwp.com/blogbyte-path/"
             }
@@ -24,7 +24,7 @@
                 "preview_url": "https://demo.unfoldwp.com/blogbyte/"
             },
             {
-                "import_name": "Blog",
+                "import_name": "Byte",
                 "import_path": "v5",
                 "preview_url": "https://demo.unfoldwp.com/blogbyte-lite/"
             }
