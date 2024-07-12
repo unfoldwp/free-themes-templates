@@ -1,0 +1,32 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Article",
+                "import_path": "v1",
+                "preview_url": "https://demo.unfoldwp.com/magty-lite/"
+            }
+        ],
+        "pro": []
+    },
+    "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "wpforms-lite",
+            "name": "WPForms Lite",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "insta-gallery",
+            "name": "Social Feed Gallery",
+            "required": false,
+            "preselected": true
+        }
+    ]
+}
