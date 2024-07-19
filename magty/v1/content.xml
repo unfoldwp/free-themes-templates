@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6" created="2024-07-19 09:17" -->
+	<!-- generator="WordPress/6.6" created="2024-07-19 11:33" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -26,19 +26,21 @@
 >
 
 <channel>
-	<title>Blogty</title>
-	<link>https://dev.unfoldwp.com/test</link>
-	<description></description>
-	<pubDate>Fri, 19 Jul 2024 09:17:02 +0000</pubDate>
+	<title>Magty</title>
+	<link>https://demo.unfoldwp.com/magty-lite</link>
+	<description>Transforming Publishing for the Digital Age</description>
+	<pubDate>Fri, 19 Jul 2024 11:33:10 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
-	<wp:base_site_url>https://dev.unfoldwp.com/</wp:base_site_url>
-	<wp:base_blog_url>https://dev.unfoldwp.com/test</wp:base_blog_url>
+	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
+	<wp:base_blog_url>https://demo.unfoldwp.com/magty-lite</wp:base_blog_url>
 
-		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[author]]></wp:author_display_name><wp:author_first_name><![CDATA[]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+		<wp:author><wp:author_id>1</wp:author_id><wp:author_login><![CDATA[author@unfoldwp.com]]></wp:author_login><wp:author_email><![CDATA[author@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[John Doe]]></wp:author_display_name><wp:author_first_name><![CDATA[John]]></wp:author_first_name><wp:author_last_name><![CDATA[Doe]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>2</wp:author_id><wp:author_login><![CDATA[jessica]]></wp:author_login><wp:author_email><![CDATA[jessica@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Jessica]]></wp:author_display_name><wp:author_first_name><![CDATA[Jessica]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
+	<wp:author><wp:author_id>3</wp:author_id><wp:author_login><![CDATA[brandon]]></wp:author_login><wp:author_email><![CDATA[brandon@unfoldwp.com]]></wp:author_email><wp:author_display_name><![CDATA[Brandon]]></wp:author_display_name><wp:author_first_name><![CDATA[Brandon]]></wp:author_first_name><wp:author_last_name><![CDATA[]]></wp:author_last_name></wp:author>
 
 		<wp:category>
-		<wp:term_id>3</wp:term_id>
+		<wp:term_id>2</wp:term_id>
 		<wp:category_nicename><![CDATA[beauty]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Beauty]]></wp:cat_name>
@@ -48,17 +50,17 @@
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>4</wp:term_id>
+		<wp:term_id>3</wp:term_id>
 		<wp:category_nicename><![CDATA[entertainment]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Entertainment]]></wp:cat_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[278]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>6</wp:term_id>
+		<wp:term_id>4</wp:term_id>
 		<wp:category_nicename><![CDATA[fashion]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Fashion]]></wp:cat_name>
@@ -74,27 +76,27 @@
 		<wp:cat_name><![CDATA[Fitness]]></wp:cat_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[322]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>7</wp:term_id>
+		<wp:term_id>6</wp:term_id>
 		<wp:category_nicename><![CDATA[luxury]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Luxury]]></wp:cat_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[283]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
-		<wp:term_id>2</wp:term_id>
+		<wp:term_id>7</wp:term_id>
 		<wp:category_nicename><![CDATA[politics]]></wp:category_nicename>
 		<wp:category_parent><![CDATA[]]></wp:category_parent>
 		<wp:cat_name><![CDATA[Politics]]></wp:cat_name>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[290]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:category>
 		<wp:category>
@@ -176,9 +178,9 @@
 
 		<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://dev.unfoldwp.com/test/contact/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/contact/</link>
 		<pubDate>Sat, 30 Mar 2024 08:56:22 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=66</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -237,9 +239,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Newsletter]]></title>
-		<link>https://dev.unfoldwp.com/test/mc4wp-form/newsletter/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/mc4wp-form/newsletter/</link>
 		<pubDate>Sun, 31 Mar 2024 12:37:34 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/mc4wp-form/newsletter/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<p>
@@ -309,9 +311,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Contact]]></title>
-		<link>https://dev.unfoldwp.com/test/contact-2/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/contact-2/</link>
 		<pubDate>Thu, 16 May 2024 08:18:56 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=231</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -366,9 +368,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Forum]]></title>
-		<link>https://dev.unfoldwp.com/test/forum/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/forum/</link>
 		<pubDate>Thu, 16 May 2024 08:18:56 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=232</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -423,9 +425,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Join]]></title>
-		<link>https://dev.unfoldwp.com/test/join/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/join/</link>
 		<pubDate>Thu, 16 May 2024 08:18:56 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=233</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -480,9 +482,9 @@
 							</item>
 					<item>
 		<title><![CDATA[girl-sport-game-jump-female-spike-743826-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/girl-sport-game-jump-female-spike-743826-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/girl-sport-game-jump-female-spike-743826-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:09:59 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/girl-sport-game-jump-female-spike-743826-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -501,7 +503,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/girl-sport-game-jump-female-spike-743826-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/girl-sport-game-jump-female-spike-743826-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/girl-sport-game-jump-female-spike-743826-pxhere.com_.jpg]]></wp:meta_value>
@@ -510,12 +512,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:786;s:4:"file";s:64:"2024/07/girl-sport-game-jump-female-spike-743826-pxhere.com_.jpg";s:8:"filesize";i:295531;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:64:"girl-sport-game-jump-female-spike-743826-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7338;}s:17:"magty-cover-image";a:5:{s:4:"file";s:65:"girl-sport-game-jump-female-spike-743826-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:157297;}s:15:"magty-large-img";a:5:{s:4:"file";s:64:"girl-sport-game-jump-female-spike-743826-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71644;}s:16:"magty-medium-img";a:5:{s:4:"file";s:64:"girl-sport-game-jump-female-spike-743826-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:80407;}s:16:"magty-square-img";a:5:{s:4:"file";s:64:"girl-sport-game-jump-female-spike-743826-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:51769;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:295531;s:9:"ori_saved";i:137896;s:10:"webp_total";i:295531;s:10:"webp_saved";i:172135;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sport-game-action-soccer-runner-football-720048-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/sport-game-action-soccer-runner-football-720048-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/sport-game-action-soccer-runner-football-720048-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:02 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-game-action-soccer-runner-football-720048-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -534,7 +548,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-game-action-soccer-runner-football-720048-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/sport-game-action-soccer-runner-football-720048-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/sport-game-action-soccer-runner-football-720048-pxhere.com_.jpg]]></wp:meta_value>
@@ -543,12 +557,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:71:"2024/07/sport-game-action-soccer-runner-football-720048-pxhere.com_.jpg";s:8:"filesize";i:316332;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:71:"sport-game-action-soccer-runner-football-720048-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6607;}s:17:"magty-cover-image";a:5:{s:4:"file";s:72:"sport-game-action-soccer-runner-football-720048-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:137395;}s:15:"magty-large-img";a:5:{s:4:"file";s:71:"sport-game-action-soccer-runner-football-720048-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:58506;}s:16:"magty-medium-img";a:5:{s:4:"file";s:71:"sport-game-action-soccer-runner-football-720048-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:70303;}s:16:"magty-square-img";a:5:{s:4:"file";s:71:"sport-game-action-soccer-runner-football-720048-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46269;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:316332;s:9:"ori_saved";i:149247;s:10:"webp_total";i:316332;s:10:"webp_saved";i:185696;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sport-green-indoor-professional-player-2015-441956-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/sport-green-indoor-professional-player-2015-441956-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/sport-green-indoor-professional-player-2015-441956-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:06 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-green-indoor-professional-player-2015-441956-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -567,7 +593,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-green-indoor-professional-player-2015-441956-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/sport-green-indoor-professional-player-2015-441956-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/sport-green-indoor-professional-player-2015-441956-pxhere.com_.jpg]]></wp:meta_value>
@@ -576,12 +602,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:74:"2024/07/sport-green-indoor-professional-player-2015-441956-pxhere.com_.jpg";s:8:"filesize";i:281679;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:74:"sport-green-indoor-professional-player-2015-441956-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8207;}s:17:"magty-cover-image";a:5:{s:4:"file";s:75:"sport-green-indoor-professional-player-2015-441956-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:122187;}s:15:"magty-large-img";a:5:{s:4:"file";s:74:"sport-green-indoor-professional-player-2015-441956-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54326;}s:16:"magty-medium-img";a:5:{s:4:"file";s:74:"sport-green-indoor-professional-player-2015-441956-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:61612;}s:16:"magty-square-img";a:5:{s:4:"file";s:74:"sport-green-indoor-professional-player-2015-441956-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:38667;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:289886;s:9:"ori_saved";i:157790;s:10:"webp_total";i:289886;s:10:"webp_saved";i:194686;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[sport-game-play-basketball-action-player-1088214-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/sport-game-play-basketball-action-player-1088214-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/sport-game-play-basketball-action-player-1088214-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:09 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-game-play-basketball-action-player-1088214-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -600,7 +638,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/sport-game-play-basketball-action-player-1088214-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/sport-game-play-basketball-action-player-1088214-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/sport-game-play-basketball-action-player-1088214-pxhere.com_.jpg]]></wp:meta_value>
@@ -609,12 +647,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:852;s:4:"file";s:72:"2024/07/sport-game-play-basketball-action-player-1088214-pxhere.com_.jpg";s:8:"filesize";i:285104;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:72:"sport-game-play-basketball-action-player-1088214-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6979;}s:17:"magty-cover-image";a:5:{s:4:"file";s:73:"sport-game-play-basketball-action-player-1088214-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:142972;}s:15:"magty-large-img";a:5:{s:4:"file";s:72:"sport-game-play-basketball-action-player-1088214-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66225;}s:16:"magty-medium-img";a:5:{s:4:"file";s:72:"sport-game-play-basketball-action-player-1088214-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71908;}s:16:"magty-square-img";a:5:{s:4:"file";s:72:"sport-game-play-basketball-action-player-1088214-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:46466;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:285104;s:9:"ori_saved";i:129325;s:10:"webp_total";i:285104;s:10:"webp_saved";i:167442;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[1965-ai-america-american-american-car-autumn-1679930-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/1965-ai-america-american-american-car-autumn-1679930-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/1965-ai-america-american-american-car-autumn-1679930-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:12 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/1965-ai-america-american-american-car-autumn-1679930-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -633,7 +683,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/1965-ai-america-american-american-car-autumn-1679930-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/1965-ai-america-american-american-car-autumn-1679930-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/1965-ai-america-american-american-car-autumn-1679930-pxhere.com_.jpg]]></wp:meta_value>
@@ -642,12 +692,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:723;s:4:"file";s:76:"2024/07/1965-ai-america-american-american-car-autumn-1679930-pxhere.com_.jpg";s:8:"filesize";i:276761;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:76:"1965-ai-america-american-american-car-autumn-1679930-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6189;}s:17:"magty-cover-image";a:5:{s:4:"file";s:77:"1965-ai-america-american-american-car-autumn-1679930-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:140201;}s:15:"magty-large-img";a:5:{s:4:"file";s:76:"1965-ai-america-american-american-car-autumn-1679930-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62823;}s:16:"magty-medium-img";a:5:{s:4:"file";s:76:"1965-ai-america-american-american-car-autumn-1679930-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:66621;}s:16:"magty-square-img";a:5:{s:4:"file";s:76:"1965-ai-america-american-american-car-autumn-1679930-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:42296;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:276761;s:9:"ori_saved";i:147793;s:10:"webp_total";i:276761;s:10:"webp_saved";i:169721;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/car-wheel-tire-automotive-parking-light-sky-vehicle-1685094-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/car-wheel-tire-automotive-parking-light-sky-vehicle-1685094-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:14 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -666,7 +728,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_.jpg]]></wp:meta_value>
@@ -675,12 +737,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:83:"2024/07/car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_.jpg";s:8:"filesize";i:266044;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:83:"car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:4120;}s:17:"magty-cover-image";a:5:{s:4:"file";s:84:"car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:108027;}s:15:"magty-large-img";a:5:{s:4:"file";s:83:"car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43037;}s:16:"magty-medium-img";a:5:{s:4:"file";s:83:"car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47389;}s:16:"magty-square-img";a:5:{s:4:"file";s:83:"car-wheel-tire-Automotive-parking-light-sky-vehicle-1685094-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:29418;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:266044;s:9:"ori_saved";i:154084;s:10:"webp_total";i:266044;s:10:"webp_saved";i:170652;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:17 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -699,7 +773,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_.jpg]]></wp:meta_value>
@@ -708,12 +782,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:77:"2024/07/natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_.jpg";s:8:"filesize";i:98645;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:77:"natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7909;}s:17:"magty-cover-image";a:5:{s:4:"file";s:78:"natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:102711;}s:15:"magty-large-img";a:5:{s:4:"file";s:77:"natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45942;}s:16:"magty-medium-img";a:5:{s:4:"file";s:77:"natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54049;}s:16:"magty-square-img";a:5:{s:4:"file";s:77:"natural-cloud-sky-snow-sports-equipment-slope-1685830-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:36680;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:98645;s:9:"ori_saved";i:18;s:10:"webp_total";i:98645;s:10:"webp_saved";i:12087;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:10:20 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -732,7 +818,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_.jpg]]></wp:meta_value>
@@ -741,12 +827,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:853;s:4:"file";s:65:"2024/07/bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_.jpg";s:8:"filesize";i:216571;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:65:"bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11326;}s:17:"magty-cover-image";a:5:{s:4:"file";s:66:"bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:227862;}s:15:"magty-large-img";a:5:{s:4:"file";s:65:"bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:96073;}s:16:"magty-medium-img";a:5:{s:4:"file";s:65:"bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:112017;}s:16:"magty-square-img";a:5:{s:4:"file";s:65:"bike-bicycle-wheel-tire-sky-cloud-1688552-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:71153;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:216571;s:9:"ori_saved";i:18;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/art-wood-gesture-finger-paint-material-property-1688764-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/art-wood-gesture-finger-paint-material-property-1688764-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:14:11 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -765,7 +863,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_.jpg]]></wp:meta_value>
@@ -774,12 +872,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:811;s:4:"file";s:79:"2024/07/art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_.jpg";s:8:"filesize";i:79477;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:79:"art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7502;}s:17:"magty-cover-image";a:5:{s:4:"file";s:80:"art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:93199;}s:15:"magty-large-img";a:5:{s:4:"file";s:79:"art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41216;}s:16:"magty-medium-img";a:5:{s:4:"file";s:79:"art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:47687;}s:16:"magty-square-img";a:5:{s:4:"file";s:79:"art-wood-gesture-finger-paint-Material-property-1688764-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:31298;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:79477;s:9:"ori_saved";i:18;s:10:"webp_total";i:79477;s:10:"webp_saved";i:17867;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:14:13 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -798,7 +908,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_.jpg]]></wp:meta_value>
@@ -807,12 +917,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1125;s:6:"height";i:900;s:4:"file";s:87:"2024/07/animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_.jpg";s:8:"filesize";i:72907;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:87:"animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:7859;}s:17:"magty-cover-image";a:5:{s:4:"file";s:88:"animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_-1125x720.jpg";s:5:"width";i:1125;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78113;}s:15:"magty-large-img";a:5:{s:4:"file";s:87:"animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:41154;}s:16:"magty-medium-img";a:5:{s:4:"file";s:87:"animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45719;}s:16:"magty-square-img";a:5:{s:4:"file";s:87:"animals-insect-arthropod-spider-terrestrial-animal-pest-1689138-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:33310;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:72907;s:9:"ori_saved";i:18;s:10:"webp_total";i:72907;s:10:"webp_saved";i:10001;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:14:17 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -831,7 +953,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_.jpg]]></wp:meta_value>
@@ -840,12 +962,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:89:"2024/07/tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_.jpg";s:8:"filesize";i:161840;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:89:"tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:8291;}s:17:"magty-cover-image";a:5:{s:4:"file";s:90:"tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:166299;}s:15:"magty-large-img";a:5:{s:4:"file";s:89:"tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:68373;}s:16:"magty-medium-img";a:5:{s:4:"file";s:89:"tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78984;}s:16:"magty-square-img";a:5:{s:4:"file";s:89:"tree-terrestrial-plant-urban-design-plant-grass-landscape-1689276-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:48372;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:161840;s:9:"ori_saved";i:18;s:10:"webp_total";i:0;s:10:"webp_saved";i:0;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[grass-architecture-structure-lawn-building-palace-1202497-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/grass-architecture-structure-lawn-building-palace-1202497-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/grass-architecture-structure-lawn-building-palace-1202497-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:14:20 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -864,7 +998,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_.jpg]]></wp:meta_value>
@@ -873,12 +1007,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1200;s:6:"height";i:900;s:4:"file";s:81:"2024/07/grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_.jpg";s:8:"filesize";i:347114;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:81:"grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5206;}s:17:"magty-cover-image";a:5:{s:4:"file";s:82:"grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_-1200x720.jpg";s:5:"width";i:1200;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:160082;}s:15:"magty-large-img";a:5:{s:4:"file";s:81:"grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:67967;}s:16:"magty-medium-img";a:5:{s:4:"file";s:81:"grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73181;}s:16:"magty-square-img";a:5:{s:4:"file";s:81:"grass-architecture-structure-lawn-building-palace-1202497-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:43530;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:347114;s:9:"ori_saved";i:164797;s:10:"webp_total";i:347114;s:10:"webp_saved";i:171222;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pedestrian-structure-road-parking-city-country-1349041-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/pedestrian-structure-road-parking-city-country-1349041-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/pedestrian-structure-road-parking-city-country-1349041-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:14:23 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/pedestrian-structure-road-parking-city-country-1349041-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -897,7 +1043,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/pedestrian-structure-road-parking-city-country-1349041-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/pedestrian-structure-road-parking-city-country-1349041-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/pedestrian-structure-road-parking-city-country-1349041-pxhere.com_.jpg]]></wp:meta_value>
@@ -906,12 +1052,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:78:"2024/07/pedestrian-structure-road-parking-city-country-1349041-pxhere.com_.jpg";s:8:"filesize";i:262929;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:78:"pedestrian-structure-road-parking-city-country-1349041-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:5373;}s:15:"magty-large-img";a:5:{s:4:"file";s:78:"pedestrian-structure-road-parking-city-country-1349041-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:63151;}s:16:"magty-medium-img";a:5:{s:4:"file";s:78:"pedestrian-structure-road-parking-city-country-1349041-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:73612;}s:16:"magty-square-img";a:5:{s:4:"file";s:78:"pedestrian-structure-road-parking-city-country-1349041-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:45261;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:262929;s:9:"ori_saved";i:102497;s:10:"webp_total";i:262929;s:10:"webp_saved";i:109581;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/push-up-modifications-for-different-fitness-levels-and-goals/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/push-up-modifications-for-different-fitness-levels-and-goals/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:44:15 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -919,8 +1077,8 @@
 		<wp:post_id>321</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:44:15]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:44:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:44:15]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:44:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:20:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:20:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere-com]]></wp:post_name>
@@ -930,7 +1088,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_.jpg]]></wp:meta_value>
@@ -939,12 +1097,24 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:850;s:4:"file";s:94:"2024/07/pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_.jpg";s:8:"filesize";i:726227;s:5:"sizes";a:5:{s:9:"thumbnail";a:5:{s:4:"file";s:94:"pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:10511;}s:17:"magty-cover-image";a:5:{s:4:"file";s:95:"pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_-1280x720.jpg";s:5:"width";i:1280;s:6:"height";i:720;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:182209;}s:15:"magty-large-img";a:5:{s:4:"file";s:94:"pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:78354;}s:16:"magty-medium-img";a:5:{s:4:"file";s:94:"pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:86953;}s:16:"magty-square-img";a:5:{s:4:"file";s:94:"pushups-gym-pushups-variation-rakeshrathod-rkbodyandsoul-joint-1664508-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:55161;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:726227;s:9:"ori_saved";i:561141;s:10:"webp_total";i:726227;s:10:"webp_saved";i:587665;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com]]></title>
-		<link>https://dev.unfoldwp.com/test/top-10-boxing-drills-to-improve-your-skills-and-conditioning/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere-com/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/top-10-boxing-drills-to-improve-your-skills-and-conditioning/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere-com/</link>
 		<pubDate>Fri, 12 Jul 2024 08:44:24 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_.jpg</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -952,8 +1122,8 @@
 		<wp:post_id>322</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:44:24]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:44:24]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:44:24]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:44:24]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:20:35]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:20:35]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere-com]]></wp:post_name>
@@ -963,7 +1133,7 @@
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://dev.unfoldwp.com/test/wp-content/uploads/sites/2/2024/07/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_.jpg]]></wp:attachment_url>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magty-lite/wp-content/uploads/sites/48/2024/07/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_.jpg]]></wp:attachment_url>
 											<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024/07/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_.jpg]]></wp:meta_value>
@@ -972,21 +1142,33 @@
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1280;s:6:"height";i:720;s:4:"file";s:79:"2024/07/fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_.jpg";s:8:"filesize";i:986717;s:5:"sizes";a:4:{s:9:"thumbnail";a:5:{s:4:"file";s:79:"fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:11490;}s:15:"magty-large-img";a:5:{s:4:"file";s:79:"fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_-800x450.jpg";s:5:"width";i:800;s:6:"height";i:450;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:88370;}s:16:"magty-medium-img";a:5:{s:4:"file";s:79:"fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_-750x575.jpg";s:5:"width";i:750;s:6:"height";i:575;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:99294;}s:16:"magty-square-img";a:5:{s:4:"file";s:79:"fitness-gym-workout-motivation-fit-bodybuilding-1639168-pxhere.com_-500x500.jpg";s:5:"width";i:500;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:62281;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-set]]></wp:meta_key>
+		<wp:meta_value><![CDATA[150x150
+1280x720
+800x450
+750x575
+500x500]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[litespeed-optimize-size]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:4:{s:9:"ori_total";i:998207;s:9:"ori_saved";i:822362;s:10:"webp_total";i:998207;s:10:"webp_saved";i:856693;}]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Home]]></title>
-		<link>https://dev.unfoldwp.com/test/home/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/home/</link>
 		<pubDate>Sat, 30 Mar 2024 08:47:30 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=56</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>56</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:47:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-30 08:47:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[home]]></wp:post_name>
@@ -1049,21 +1231,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Demos]]></title>
-		<link>https://dev.unfoldwp.com/test/demos/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/demos/</link>
 		<pubDate>Sat, 30 Mar 2024 08:47:30 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=57</guid>
 		<description></description>
 		<content:encoded><![CDATA[New]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>57</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:47:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-30 08:47:30]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[demos]]></wp:post_name>
@@ -1126,21 +1312,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[]]></title>
-		<link>https://dev.unfoldwp.com/test/60/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/60/</link>
 		<pubDate>Sat, 30 Mar 2024 08:49:58 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=60</guid>
 		<description></description>
 		<content:encoded><![CDATA[ ]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>60</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:49:58]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-30 08:49:58]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[60]]></wp:post_name>
@@ -1203,12 +1393,16 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[facebook]]></title>
-		<link>https://dev.unfoldwp.com/test/facebook/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/facebook/</link>
 		<pubDate>Sat, 30 Mar 2024 08:53:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=61</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1267,9 +1461,9 @@
 							</item>
 					<item>
 		<title><![CDATA[instagram]]></title>
-		<link>https://dev.unfoldwp.com/test/instagram/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/instagram/</link>
 		<pubDate>Sat, 30 Mar 2024 08:53:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=62</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1328,9 +1522,9 @@
 							</item>
 					<item>
 		<title><![CDATA[twitter]]></title>
-		<link>https://dev.unfoldwp.com/test/twitter/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/twitter/</link>
 		<pubDate>Sat, 30 Mar 2024 08:53:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=63</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1389,9 +1583,9 @@
 							</item>
 					<item>
 		<title><![CDATA[vimeo]]></title>
-		<link>https://dev.unfoldwp.com/test/vimeo/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/vimeo/</link>
 		<pubDate>Sat, 30 Mar 2024 08:53:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=64</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1450,9 +1644,9 @@
 							</item>
 					<item>
 		<title><![CDATA[dribbble]]></title>
-		<link>https://dev.unfoldwp.com/test/dribble/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/dribble/</link>
 		<pubDate>Sat, 30 Mar 2024 08:53:56 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=65</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1511,9 +1705,9 @@
 							</item>
 					<item>
 		<title><![CDATA[News]]></title>
-		<link>https://dev.unfoldwp.com/test/news/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/news/</link>
 		<pubDate>Sat, 30 Mar 2024 08:56:22 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=68</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1572,9 +1766,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Updates]]></title>
-		<link>https://dev.unfoldwp.com/test/updates/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/updates/</link>
 		<pubDate>Sat, 30 Mar 2024 08:56:22 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=69</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -1633,18 +1827,18 @@
 							</item>
 					<item>
 		<title><![CDATA[Blog]]></title>
-		<link>https://dev.unfoldwp.com/test/blog/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/blog/</link>
 		<pubDate>Sun, 31 Mar 2024 09:02:18 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=78</guid>
 		<description></description>
 		<content:encoded><![CDATA[Explore Topics That Matter]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>78</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 09:02:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 09:02:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[blog]]></wp:post_name>
@@ -1703,21 +1897,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[News]]></title>
-		<link>https://dev.unfoldwp.com/test/fashion/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/fashion/</link>
 		<pubDate>Sun, 31 Mar 2024 09:02:18 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=79</guid>
 		<description></description>
 		<content:encoded><![CDATA[Editorials and Perspectives]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>79</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 09:02:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 09:02:18]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[fashion]]></wp:post_name>
@@ -1776,21 +1974,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Sidebars]]></title>
-		<link>https://dev.unfoldwp.com/test/sidebars/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/sidebars/</link>
 		<pubDate>Sun, 31 Mar 2024 10:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=140</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>140</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[sidebars]]></wp:post_name>
@@ -1849,21 +2051,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Left Sidebar]]></title>
-		<link>https://dev.unfoldwp.com/test/141/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/141/</link>
 		<pubDate>Sun, 31 Mar 2024 10:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=141</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>141</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[141]]></wp:post_name>
@@ -1922,21 +2128,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Right Sidebar]]></title>
-		<link>https://dev.unfoldwp.com/test/142/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/142/</link>
 		<pubDate>Sun, 31 Mar 2024 10:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=142</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>142</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[142]]></wp:post_name>
@@ -1995,21 +2205,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Narrow]]></title>
-		<link>https://dev.unfoldwp.com/test/143/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/143/</link>
 		<pubDate>Sun, 31 Mar 2024 10:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=143</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>143</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[143]]></wp:post_name>
@@ -2068,21 +2282,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[No Sidebar - Wide]]></title>
-		<link>https://dev.unfoldwp.com/test/144/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/144/</link>
 		<pubDate>Sun, 31 Mar 2024 10:34:36 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=144</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>144</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:34:36]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[144]]></wp:post_name>
@@ -2141,21 +2359,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Posts]]></title>
-		<link>https://dev.unfoldwp.com/test/single-posts/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/single-posts/</link>
 		<pubDate>Sun, 31 Mar 2024 10:38:15 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=145</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>145</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
@@ -2214,21 +2436,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 2]]></title>
-		<link>https://dev.unfoldwp.com/test/147/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/147/</link>
 		<pubDate>Sun, 31 Mar 2024 10:38:15 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=147</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[147]]></wp:post_name>
@@ -2287,12 +2513,16 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[github]]></title>
-		<link>https://dev.unfoldwp.com/test/github/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/github/</link>
 		<pubDate>Thu, 06 Jun 2024 07:50:12 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=255</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
@@ -2347,9 +2577,9 @@
 							</item>
 					<item>
 		<title><![CDATA[Basketball Strategy: Offense, Defense, and Team Play]]></title>
-		<link>https://dev.unfoldwp.com/test/basketball-strategy-offense-defense-and-team-play/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/basketball-strategy-offense-defense-and-team-play/</link>
 		<pubDate>Sat, 30 Mar 2024 07:55:38 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=10</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2455,8 +2685,8 @@
 		<wp:post_id>10</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 07:55:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 07:55:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:25:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:25:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[basketball-strategy-offense-defense-and-team-play]]></wp:post_name>
@@ -2487,19 +2717,19 @@
 		<wp:meta_value><![CDATA[281]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[getting-creative-with-your-macbook-tools-and-apps-for-designers]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Evolution of Tennis: From Grass Courts to Hard Courts]]></title>
-		<link>https://dev.unfoldwp.com/test/the-evolution-of-tennis-from-grass-courts-to-hard-courts/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/the-evolution-of-tennis-from-grass-courts-to-hard-courts/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:18 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2605,8 +2835,8 @@
 		<wp:post_id>13</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:18]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:18]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:24:54]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:24:54]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-evolution-of-tennis-from-grass-courts-to-hard-courts]]></wp:post_name>
@@ -2646,19 +2876,23 @@
 		<wp:meta_value><![CDATA[280]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-perfect-brew-finding-your-ideal-coffee-order-in-restaurants]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-perfect-brew-finding-your-ideal-coffee-order-in-restaurants]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Best Road Trips to Take This Autumn Season]]></title>
-		<link>https://dev.unfoldwp.com/test/the-best-road-trips-to-take-this-autumn-season/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/the-best-road-trips-to-take-this-autumn-season/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:20 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2764,8 +2998,8 @@
 		<wp:post_id>14</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:20]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:24:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:24:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-road-trips-to-take-this-autumn-season]]></wp:post_name>
@@ -2806,19 +3040,23 @@
 		<wp:meta_value><![CDATA[282]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[ergonomic-essentials-setting-up-a-comfortable-office-workspace]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[ergonomic-essentials-setting-up-a-comfortable-office-workspace]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar-narrow]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Role of Parliament Buildings in National Governance]]></title>
-		<link>https://dev.unfoldwp.com/test/the-role-of-parliament-buildings-in-national-governance/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/the-role-of-parliament-buildings-in-national-governance/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:23 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-3/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -2924,8 +3162,8 @@
 		<wp:post_id>15</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:23]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:23]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:23:12]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:23:12]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-role-of-parliament-buildings-in-national-governance]]></wp:post_name>
@@ -2965,19 +3203,27 @@
 		<wp:meta_value><![CDATA[289]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[top-10-cameras-for-beginners-best-picks-for-2024]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[top-10-cameras-for-beginners-best-picks-for-2024]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[right-sidebar]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magty_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_3]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Best Volleyball Tournaments and Competitions Worldwide]]></title>
-		<link>https://dev.unfoldwp.com/test/the-best-volleyball-tournaments-and-competitions-worldwide/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/the-best-volleyball-tournaments-and-competitions-worldwide/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:26 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-4/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3083,8 +3329,8 @@
 		<wp:post_id>16</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:26]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:26]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:22:26]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:22:26]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-volleyball-tournaments-and-competitions-worldwide]]></wp:post_name>
@@ -3116,19 +3362,19 @@
 		<wp:meta_value><![CDATA[278]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[speed-reading-techniques-how-to-read-more-in-less-time]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Choose the Right Mountain Bike for Your Riding Style]]></title>
-		<link>https://dev.unfoldwp.com/test/choose-the-right-mountain-bike-for-your-riding-style/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/choose-the-right-mountain-bike-for-your-riding-style/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:29 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-5/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3234,8 +3480,8 @@
 		<wp:post_id>17</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:29]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:29]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:21:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:21:50]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[choose-the-right-mountain-bike-for-your-riding-style]]></wp:post_name>
@@ -3267,12 +3513,16 @@
 		<wp:meta_value><![CDATA[285]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[enhancing-sparkle-advanced-tips-for-crystal-photography]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[enhancing-sparkle-advanced-tips-for-crystal-photography]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>2</wp:comment_id>
@@ -3295,9 +3545,9 @@
 					</item>
 					<item>
 		<title><![CDATA[Top 10 Most Iconic Lamborghini Models of All Time]]></title>
-		<link>https://dev.unfoldwp.com/test/top-10-most-iconic-lamborghini-models-of-all-time/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/top-10-most-iconic-lamborghini-models-of-all-time/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:32 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-6/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3403,8 +3653,8 @@
 		<wp:post_id>18</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:20:51]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:20:51]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-most-iconic-lamborghini-models-of-all-time]]></wp:post_name>
@@ -3414,7 +3664,8 @@
 		<wp:post_type><![CDATA[post]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_tag" nicename="exploration"><![CDATA[Exploration]]></category>
+										<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
+		<category domain="post_tag" nicename="exploration"><![CDATA[Exploration]]></category>
 		<category domain="category" nicename="fitness"><![CDATA[Fitness]]></category>
 		<category domain="post_tag" nicename="learning"><![CDATA[Learning]]></category>
 		<category domain="category" nicename="luxury"><![CDATA[Luxury]]></category>
@@ -3443,19 +3694,23 @@
 		<wp:meta_value><![CDATA[283]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[daily-reflection-how-to-maintain-a-gratitude-journal]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[daily-reflection-how-to-maintain-a-gratitude-journal]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[left-sidebar]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[The Best Snowboarding Competitions and Events to Watch]]></title>
-		<link>https://dev.unfoldwp.com/test/the-best-snowboarding-competitions-and-events-to-watch/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/the-best-snowboarding-competitions-and-events-to-watch/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:35 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-7/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3561,8 +3816,8 @@
 		<wp:post_id>19</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:35]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:35]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:20:06]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:20:06]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[the-best-snowboarding-competitions-and-events-to-watch]]></wp:post_name>
@@ -3593,12 +3848,12 @@
 		<wp:meta_value><![CDATA[284]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[essential-computer-gadgets-for-tech-savvy-professionals]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:comment>
 			<wp:comment_id>3</wp:comment_id>
@@ -3608,7 +3863,7 @@
 			<wp:comment_author_IP><![CDATA[27.34.64.206]]></wp:comment_author_IP>
 			<wp:comment_date><![CDATA[2024-06-06 08:15:09]]></wp:comment_date>
 			<wp:comment_date_gmt><![CDATA[2024-06-06 08:15:09]]></wp:comment_date_gmt>
-			<wp:comment_content><![CDATA[I\'ve been researching and your post has provided me with some valuable information and new perspectives. I\'m looking forward to reading more of your content and learning more about the topic.]]></wp:comment_content>
+			<wp:comment_content><![CDATA[I've been researching and your post has provided me with some valuable information and new perspectives. I'm looking forward to reading more of your content and learning more about the topic.]]></wp:comment_content>
 			<wp:comment_approved><![CDATA[1]]></wp:comment_approved>
 			<wp:comment_type><![CDATA[comment]]></wp:comment_type>
 			<wp:comment_parent>0</wp:comment_parent>
@@ -3621,9 +3876,9 @@
 					</item>
 					<item>
 		<title><![CDATA[Famous Debates and Decisions Made in Parliament Houses]]></title>
-		<link>https://dev.unfoldwp.com/test/famous-debates-and-decisions-made-in-parliament-houses/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/famous-debates-and-decisions-made-in-parliament-houses/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:38 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-8/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3729,8 +3984,8 @@
 		<wp:post_id>20</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:38]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:38]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:19:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:19:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[famous-debates-and-decisions-made-in-parliament-houses]]></wp:post_name>
@@ -3769,19 +4024,23 @@
 		<wp:meta_value><![CDATA[290]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[work-smarter-essential-software-and-tools-for-laptop-users]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[work-smarter-essential-software-and-tools-for-laptop-users]]></wp:meta_value>
+		<wp:meta_key><![CDATA[magty_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_2]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[How to Prep Your Walls for a Perfect Paint Job]]></title>
-		<link>https://dev.unfoldwp.com/test/how-to-prep-your-walls-for-a-perfect-paint-job/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/how-to-prep-your-walls-for-a-perfect-paint-job/</link>
 		<pubDate>Sat, 30 Mar 2024 08:00:40 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-9/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -3887,8 +4146,8 @@
 		<wp:post_id>21</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:00:40]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:00:40]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:18:55]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:18:55]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[how-to-prep-your-walls-for-a-perfect-paint-job]]></wp:post_name>
@@ -3921,19 +4180,19 @@
 		<wp:meta_value><![CDATA[286]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[corporate-couture-womens-guide-to-formal-office-dressing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Designing Sustainable Landscape Hotels: Innovations and Trends]]></title>
-		<link>https://dev.unfoldwp.com/test/designing-sustainable-landscape-hotels-innovations-and-trends/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/designing-sustainable-landscape-hotels-innovations-and-trends/</link>
 		<pubDate>Fri, 29 Mar 2024 08:00:43 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/10-essential-gear-for-your-next-outdoor-adventure-copy-10/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4039,8 +4298,8 @@
 		<wp:post_id>22</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-29 08:00:43]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-29 08:00:43]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:26:32]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:26:32]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[designing-sustainable-landscape-hotels-innovations-and-trends]]></wp:post_name>
@@ -4080,19 +4339,19 @@
 		<wp:meta_value><![CDATA[288]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[sustainability-in-interior-architecture-designing-for-the-future]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Contact us]]></title>
-		<link>https://dev.unfoldwp.com/test/contact-us/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/contact-us/</link>
 		<pubDate>Sat, 30 Mar 2024 08:49:45 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/?page_id=58</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:social-links {"customIconColor":"#222222","iconColorValue":"#222222","align":"center","className":"is-style-logos-only"} -->
@@ -4113,13 +4372,13 @@
 <p class="has-text-align-center">Please feel free to use any of the following methods to get in touch with our team.<br>Whether you have a question, feedback, or simply want to say hello, we'd love to hear from you! <br></p>
 <!-- /wp:paragraph -->
 
-<!-- wp:wpforms/form-selector {"clientId":"4454b9d9-2680-4f78-930c-dfd9b02092db","formId":"263","theme":"default-copy-1","themeName":"Default (Copy)","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022theme\u0022:\u0022default-copy-1\u0022,\u0022themeName\u0022:\u0022Default (Copy)\u0022,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022backgroundImage\u0022:\u0022none\u0022,\u0022backgroundPosition\u0022:\u0022center center\u0022,\u0022backgroundRepeat\u0022:\u0022no-repeat\u0022,\u0022backgroundSizeMode\u0022:\u0022cover\u0022,\u0022backgroundSize\u0022:\u0022cover\u0022,\u0022backgroundWidth\u0022:\u0022100px\u0022,\u0022backgroundHeight\u0022:\u0022100px\u0022,\u0022backgroundUrl\u0022:\u0022url()\u0022,\u0022backgroundColor\u0022:\u0022rgba( 0, 0, 0, 0 )\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBorderStyle\u0022:\u0022solid\u0022,\u0022fieldBorderSize\u0022:\u00221px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022fieldMenuColor\u0022:\u0022#ffffff\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderStyle\u0022:\u0022none\u0022,\u0022buttonBorderSize\u0022:\u00221px\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#000000\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022,\u0022buttonBorderColor\u0022:\u0022#066aab\u0022,\u0022pageBreakColor\u0022:\u0022#066aab\u0022,\u0022containerPadding\u0022:\u00220px\u0022,\u0022containerBorderStyle\u0022:\u0022none\u0022,\u0022containerBorderWidth\u0022:\u00221px\u0022,\u0022containerBorderColor\u0022:\u0022#000000\u0022,\u0022containerBorderRadius\u0022:\u00223px\u0022,\u0022containerShadowSize\u0022:\u0022none\u0022,\u0022customCss\u0022:\u0022\u0022}","buttonBackgroundColor":"#000000"} /-->]]></content:encoded>
+<!-- wp:wpforms/form-selector {"clientId":"4454b9d9-2680-4f78-930c-dfd9b02092db","formId":"330","theme":"default-copy-1-copy-1","themeName":"Default (Copy)","copyPasteJsonValue":"{\u0022displayTitle\u0022:false,\u0022displayDesc\u0022:false,\u0022theme\u0022:\u0022default-copy-1-copy-1\u0022,\u0022themeName\u0022:\u0022Default (Copy)\u0022,\u0022fieldSize\u0022:\u0022medium\u0022,\u0022backgroundImage\u0022:\u0022none\u0022,\u0022backgroundPosition\u0022:\u0022center center\u0022,\u0022backgroundRepeat\u0022:\u0022no-repeat\u0022,\u0022backgroundSizeMode\u0022:\u0022cover\u0022,\u0022backgroundSize\u0022:\u0022cover\u0022,\u0022backgroundWidth\u0022:\u0022100px\u0022,\u0022backgroundHeight\u0022:\u0022100px\u0022,\u0022backgroundUrl\u0022:\u0022url()\u0022,\u0022backgroundColor\u0022:\u0022rgba( 0, 0, 0, 0 )\u0022,\u0022fieldBorderRadius\u0022:\u00223px\u0022,\u0022fieldBorderStyle\u0022:\u0022solid\u0022,\u0022fieldBorderSize\u0022:\u00221px\u0022,\u0022fieldBackgroundColor\u0022:\u0022#ffffff\u0022,\u0022fieldBorderColor\u0022:\u0022rgba( 0, 0, 0, 0.25 )\u0022,\u0022fieldTextColor\u0022:\u0022rgba( 0, 0, 0, 0.7 )\u0022,\u0022fieldMenuColor\u0022:\u0022#ffffff\u0022,\u0022labelSize\u0022:\u0022medium\u0022,\u0022labelColor\u0022:\u0022rgba( 0, 0, 0, 0.85 )\u0022,\u0022labelSublabelColor\u0022:\u0022rgba( 0, 0, 0, 0.55 )\u0022,\u0022labelErrorColor\u0022:\u0022#d63637\u0022,\u0022buttonSize\u0022:\u0022medium\u0022,\u0022buttonBorderStyle\u0022:\u0022none\u0022,\u0022buttonBorderSize\u0022:\u00221px\u0022,\u0022buttonBorderRadius\u0022:\u00223px\u0022,\u0022buttonBackgroundColor\u0022:\u0022#f84666\u0022,\u0022buttonTextColor\u0022:\u0022#ffffff\u0022,\u0022buttonBorderColor\u0022:\u0022#066aab\u0022,\u0022pageBreakColor\u0022:\u0022#066aab\u0022,\u0022containerPadding\u0022:\u00220px\u0022,\u0022containerBorderStyle\u0022:\u0022none\u0022,\u0022containerBorderWidth\u0022:\u00221px\u0022,\u0022containerBorderColor\u0022:\u0022#000000\u0022,\u0022containerBorderRadius\u0022:\u00223px\u0022,\u0022containerShadowSize\u0022:\u0022none\u0022,\u0022customCss\u0022:\u0022\u0022}","buttonBackgroundColor":"#f84666"} /-->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>58</wp:post_id>
 		<wp:post_date><![CDATA[2024-03-30 08:49:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-30 08:49:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-03-30 08:49:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-30 08:49:45]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:43:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:43:00]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
@@ -4141,21 +4400,29 @@
 		<wp:meta_key><![CDATA[blogprise_page_layout]]></wp:meta_key>
 		<wp:meta_value><![CDATA[no-sidebar-narrow]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magty_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar-narrow]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 3]]></title>
-		<link>https://dev.unfoldwp.com/test/148/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/148/</link>
 		<pubDate>Sun, 31 Mar 2024 10:38:15 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=148</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>148</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:38:15]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[148]]></wp:post_name>
@@ -4214,21 +4481,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Single Style 1]]></title>
-		<link>https://dev.unfoldwp.com/test/151/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/151/</link>
 		<pubDate>Sun, 31 Mar 2024 10:39:47 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=151</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>151</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:39:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:39:47]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[151]]></wp:post_name>
@@ -4287,21 +4558,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[More on Premium]]></title>
-		<link>https://dev.unfoldwp.com/test/more-on-premium/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/more-on-premium/</link>
 		<pubDate>Sun, 31 Mar 2024 10:41:52 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=152</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>152</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-03-31 10:41:52]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-03-31 10:41:52]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[more-on-premium]]></wp:post_name>
@@ -4342,7 +4617,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://unfoldwp.com/products/blogprise/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magty/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -4360,21 +4635,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Beauty]]></title>
-		<link>https://dev.unfoldwp.com/test/beauty/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/beauty/</link>
 		<pubDate>Fri, 12 Apr 2024 07:45:21 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=155</guid>
 		<description></description>
 		<content:encoded><![CDATA[Your Beauty Inspiration Hub]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>155</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-12 07:45:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-12 07:45:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[beauty]]></wp:post_name>
@@ -4429,21 +4708,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Lifestyle]]></title>
-		<link>https://dev.unfoldwp.com/test/article/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/article/</link>
 		<pubDate>Fri, 12 Apr 2024 07:45:21 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=156</guid>
 		<description></description>
 		<content:encoded><![CDATA[Discover Your Next Passion]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>156</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-12 07:45:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-12 07:45:21]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[article]]></wp:post_name>
@@ -4498,21 +4781,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Upgrade Now]]></title>
-		<link>https://dev.unfoldwp.com/test/upgrade-now/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/upgrade-now/</link>
 		<pubDate>Fri, 12 Apr 2024 07:53:41 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=159</guid>
 		<description></description>
 		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>159</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-12 07:53:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-12 07:53:41]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[upgrade-now]]></wp:post_name>
@@ -4553,7 +4840,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://unfoldwp.com/products/blogprise/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
+		<wp:meta_value><![CDATA[https://unfoldwp.com/products/magty/?utm_source=demo&utm_medium=menu&utm_campaign=default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
@@ -4567,21 +4854,25 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[All Demos]]></title>
-		<link>https://dev.unfoldwp.com/test/all-demos/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/all-demos/</link>
 		<pubDate>Tue, 30 Apr 2024 14:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/?p=192</guid>
 		<description></description>
 		<content:encoded><![CDATA[Discover our diverse range of demos]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>192</wp:post_id>
-		<wp:post_date><![CDATA[2024-06-16 03:36:42]]></wp:post_date>
+		<wp:post_date><![CDATA[2024-07-19 10:44:32]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-04-30 14:52:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-06-16 03:36:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-04-30 14:52:00]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:44:32]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:44:32]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[all-demos]]></wp:post_name>
@@ -4632,12 +4923,16 @@
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-06-04]]></wp:meta_value>
 		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-06-16]]></wp:meta_value>
+		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top 10 Football Drills to Improve Your Skills]]></title>
-		<link>https://dev.unfoldwp.com/test/top-10-football-drills-to-improve-your-skills/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/top-10-football-drills-to-improve-your-skills/</link>
 		<pubDate>Fri, 12 Jul 2024 08:28:01 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[jessica]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/how-to-prep-your-walls-for-a-perfect-paint-job-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4743,8 +5038,8 @@
 		<wp:post_id>313</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:28:01]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:28:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:41:08]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:41:08]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:15]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:15]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-football-drills-to-improve-your-skills]]></wp:post_name>
@@ -4781,19 +5076,43 @@
 		<wp:meta_value><![CDATA[279]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[how-to-prep-your-walls-for-a-perfect-paint-job-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://dev.unfoldwp.com/test/navigation-2-2/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/navigation/</link>
+		<pubDate>Fri, 19 Jul 2024 10:19:12 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magty-lite/2024/07/19/navigation/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>4</wp:post_id>
+		<wp:post_date><![CDATA[2024-07-19 10:19:12]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-07-19 10:19:12]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 10:19:12]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 10:19:12]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_navigation]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title><![CDATA[Navigation]]></title>
+		<link>https://demo.unfoldwp.com/magty-lite/navigation-2-2/</link>
 		<pubDate>Sat, 30 Mar 2024 07:42:48 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/03/30/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
@@ -4815,9 +5134,9 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://dev.unfoldwp.com/test/navigation-2-3/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/navigation-2-3/</link>
 		<pubDate>Sun, 31 Mar 2024 08:45:27 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/2024/03/31/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
@@ -4839,9 +5158,9 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://dev.unfoldwp.com/test/navigation-2/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/navigation-2/</link>
 		<pubDate>Thu, 16 May 2024 07:31:25 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/05/16/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
@@ -4863,9 +5182,9 @@
 														</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
-		<link>https://dev.unfoldwp.com/test/navigation/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/navigation-3/</link>
 		<pubDate>Tue, 04 Jun 2024 10:11:26 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
 		<guid isPermaLink="false">https://demo.unfoldwp.com/blogprise-lite/2024/06/04/navigation/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:page-list /-->]]></content:encoded>
@@ -4877,7 +5196,7 @@
 		<wp:post_modified_gmt><![CDATA[2024-06-04 10:11:26]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[navigation]]></wp:post_name>
+		<wp:post_name><![CDATA[navigation-3]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
@@ -4887,9 +5206,9 @@
 														</item>
 					<item>
 		<title><![CDATA[Top 10 Photography Techniques to Improve Your Shots]]></title>
-		<link>https://dev.unfoldwp.com/test/top-10-photography-techniques-to-improve-your-shots/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/top-10-photography-techniques-to-improve-your-shots/</link>
 		<pubDate>Fri, 12 Jul 2024 08:28:05 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/how-to-prep-your-walls-for-a-perfect-paint-job-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -4995,8 +5314,8 @@
 		<wp:post_id>314</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:28:05]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:28:05]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:41:44]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:41:44]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-photography-techniques-to-improve-your-shots]]></wp:post_name>
@@ -5033,19 +5352,19 @@
 		<wp:meta_value><![CDATA[287]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[how-to-prep-your-walls-for-a-perfect-paint-job-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Push-Up Modifications for Different Fitness Levels and Goals]]></title>
-		<link>https://dev.unfoldwp.com/test/push-up-modifications-for-different-fitness-levels-and-goals/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/push-up-modifications-for-different-fitness-levels-and-goals/</link>
 		<pubDate>Fri, 12 Jul 2024 08:43:41 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/top-10-photography-techniques-to-improve-your-shots-copy/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5151,8 +5470,8 @@
 		<wp:post_id>319</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:43:41]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:43:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:46:09]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:46:09]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[push-up-modifications-for-different-fitness-levels-and-goals]]></wp:post_name>
@@ -5193,19 +5512,19 @@
 		<wp:meta_value><![CDATA[321]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[top-10-photography-techniques-to-improve-your-shots-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
 		<title><![CDATA[Top 10 Boxing Drills to Improve Your Skills and Conditioning]]></title>
-		<link>https://dev.unfoldwp.com/test/top-10-boxing-drills-to-improve-your-skills-and-conditioning/</link>
+		<link>https://demo.unfoldwp.com/magty-lite/top-10-boxing-drills-to-improve-your-skills-and-conditioning/</link>
 		<pubDate>Fri, 12 Jul 2024 08:43:45 +0000</pubDate>
-		<dc:creator><![CDATA[author]]></dc:creator>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
 		<guid isPermaLink="false">https://dev.unfoldwp.com/test/top-10-photography-techniques-to-improve-your-shots-copy-2/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:paragraph -->
@@ -5311,8 +5630,8 @@
 		<wp:post_id>320</wp:post_id>
 		<wp:post_date><![CDATA[2024-07-12 08:43:45]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2024-07-12 08:43:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-07-12 08:45:38]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-07-12 08:45:38]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2024-07-19 11:13:03]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-07-19 11:13:03]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[open]]></wp:ping_status>
 		<wp:post_name><![CDATA[top-10-boxing-drills-to-improve-your-skills-and-conditioning]]></wp:post_name>
@@ -5353,12 +5672,12 @@
 		<wp:meta_value><![CDATA[322]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[top-10-photography-techniques-to-improve-your-shots-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>
