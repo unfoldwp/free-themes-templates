@@ -1,0 +1,53 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Blogvibe",
+                "import_path": "v1",
+                "preview_url": "https://demo.unfoldwp.com/magty-blogvibe/"
+            }
+        ],
+        "pro": [
+            {
+                "import_name": "Article",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/magty-article/"
+            },
+            {
+                "import_name": "Tech",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/magty-tech/"
+            },
+            {
+                "import_name": "Blog",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/magty/"
+            },
+            {
+                "import_name": "News",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/magty-lite/"
+            }
+        ]
+    },
+    "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "wpforms-lite",
+            "name": "WPForms Lite",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "insta-gallery",
+            "name": "Social Feed Gallery",
+            "required": false,
+            "preselected": true
+        }
+    ]
+}
