@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.6" created="2024-07-19 08:37" -->
+	<!-- generator="WordPress/6.7.1" created="2025-02-10 15:07" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Blogpath</title>
 	<link>https://demo.unfoldwp.com/blogbyte-path</link>
 	<description>Blogging Made Beautiful</description>
-	<pubDate>Fri, 19 Jul 2024 08:37:25 +0000</pubDate>
+	<pubDate>Mon, 10 Feb 2025 15:07:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -153,7 +153,7 @@
 	<wp:term><wp:term_id>19</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[top-menu]]></wp:term_slug><wp:term_name><![CDATA[Top Menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=6.6</generator>
+	<generator>https://wordpress.org/?v=6.7.1</generator>
 
 <image>
 	<url>https://demo.unfoldwp.com/blogbyte-path/wp-content/uploads/sites/47/2024/04/cropped-site-icon-2-150x150.png</url>
@@ -3910,8 +3910,8 @@
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="post_tag" nicename="adventure"><![CDATA[Adventure]]></category>
 		<category domain="category" nicename="entertainment"><![CDATA[Entertainment]]></category>
-		<category domain="category" nicename="exploration"><![CDATA[Exploration]]></category>
 		<category domain="post_tag" nicename="exploration"><![CDATA[Exploration]]></category>
+		<category domain="category" nicename="exploration"><![CDATA[Exploration]]></category>
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
 		<wp:meta_value><![CDATA[10-essential-gear-for-your-next-outdoor-adventure-copy-10]]></wp:meta_value>
