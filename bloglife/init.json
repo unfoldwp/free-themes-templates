@@ -1,0 +1,53 @@
+{
+    "import_files": {
+        "free": [
+            {
+                "import_name": "Lifestyle",
+                "import_path": "v1",
+                "preview_url": "https://demo.unfoldwp.com/magze-lifestyle/"
+            }
+        ],
+        "pro": [
+            {
+                "import_name": "Times",
+                "import_path": "v2",
+                "preview_url": "https://demo.unfoldwp.com/magze-times/"
+            },
+            {
+                "import_name": "News",
+                "import_path": "v3",
+                "preview_url": "https://demo.unfoldwp.com/magze/"
+            },
+            {
+                "import_name": "Blog",
+                "import_path": "v4",
+                "preview_url": "https://demo.unfoldwp.com/magze-blog/"
+            },
+            {
+                "import_name": "News",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/magze-lite/"
+            }
+        ]
+    },
+    "plugins": [
+        {
+            "slug": "mailchimp-for-wp",
+            "name": "MailChimp for WordPress",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "wpforms-lite",
+            "name": "WPForms Lite",
+            "required": false,
+            "preselected": true
+        },
+        {
+            "slug": "insta-gallery",
+            "name": "Social Feed Gallery",
+            "required": false,
+            "preselected": true
+        }
+    ]
+}
