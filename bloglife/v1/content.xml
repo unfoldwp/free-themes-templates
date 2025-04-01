@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/6.7.2" created="2025-04-01 10:58" -->
+	<!-- generator="WordPress/6.7.2" created="2025-04-01 15:14" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Bloglife</title>
 	<link>https://demo.unfoldwp.com/magze-lifestyle</link>
 	<description>Adventures Await, Let’s Go!</description>
-	<pubDate>Tue, 01 Apr 2025 10:58:56 +0000</pubDate>
+	<pubDate>Tue, 01 Apr 2025 15:14:29 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://demo.unfoldwp.com/</wp:base_site_url>
@@ -282,120 +282,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[79]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Contact Us]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/contact-us/</link>
-		<pubDate>Sat, 17 Feb 2024 03:56:47 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=80</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>80</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-17 03:57:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-17 03:56:47]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-17 03:57:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-17 03:56:47]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>3</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[80]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Privacy Policy]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/privacy-policy/</link>
-		<pubDate>Sat, 17 Feb 2024 03:57:21 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=81</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>81</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-17 03:57:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-17 03:57:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2024-02-17 03:57:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2024-02-17 03:57:21]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>4</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[81]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -990,6 +876,72 @@
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[bloglifelogo]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/bloglifelogo/</link>
+		<pubDate>Tue, 01 Apr 2025 15:11:33 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/57/2025/04/bloglifelogo.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>335</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-01 15:11:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-01 15:11:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 15:11:33]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 15:11:33]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bloglifelogo]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/57/2025/04/bloglifelogo.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/bloglifelogo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:284;s:6:"height";i:93;s:4:"file";s:24:"2025/04/bloglifelogo.png";s:8:"filesize";i:13835;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:23:"bloglifelogo-150x93.png";s:5:"width";i:150;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:6545;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[bloglifelogo-dark]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/bloglifelogo-dark/</link>
+		<pubDate>Tue, 01 Apr 2025 15:13:00 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/57/2025/04/bloglifelogo-dark.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>337</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-01 15:13:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2025-04-01 15:13:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 15:13:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 15:13:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[bloglifelogo-dark]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/57/2025/04/bloglifelogo-dark.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2025/04/bloglifelogo-dark.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:284;s:6:"height";i:93;s:4:"file";s:29:"2025/04/bloglifelogo-dark.png";s:8:"filesize";i:14726;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:28:"bloglifelogo-dark-150x93.png";s:5:"width";i:150;s:6:"height";i:93;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:7885;}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Demos]]></title>
 		<link>https://demo.unfoldwp.com/magze-lifestyle/facebook/</link>
 		<pubDate>Sat, 17 Feb 2024 03:47:47 +0000</pubDate>
@@ -1308,6 +1260,120 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
 		<wp:meta_value><![CDATA[2024-02-17]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Contact Us]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/contact-us/</link>
+		<pubDate>Sat, 17 Feb 2024 03:56:47 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=80</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>80</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-17 03:57:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-17 03:56:47]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-17 03:57:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-17 03:56:47]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[contact-us]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>3</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[80]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Privacy Policy]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/privacy-policy/</link>
+		<pubDate>Sat, 17 Feb 2024 03:57:21 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/?p=81</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>81</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-17 03:57:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-17 03:57:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2024-02-17 03:57:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2024-02-17 03:57:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[privacy-policy]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>4</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="footer-menu"><![CDATA[Footer Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[81]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2027,144 +2093,6 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
 		<wp:meta_value><![CDATA[51]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-03-05]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Posts]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/single-posts/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=186</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>186</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-01 08:57:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 08:57:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 08:57:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>13</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[#]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2024-03-05]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Single Style 2]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/188/</link>
-		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
-		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
-		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=188</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>188</wp:post_id>
-		<wp:post_date><![CDATA[2025-04-01 08:57:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 08:57:50]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 08:57:50]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[188]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>15</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[186]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[100]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
@@ -3389,248 +3317,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Top 5 Tech Trends That Will Shape the Future]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/top-5-tech-trends-that-will-shape-the-future/</link>
-		<pubDate>Wed, 21 Feb 2024 02:30:19 +0000</pubDate>
-		<dc:creator><![CDATA[brandon]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/02/21/exploring-innovations-in-automotive-technology-copy-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Augue interdum velit euismod in. Eros in cursus turpis massa tincidunt dui ut ornare. Tincidunt tortor aliquam nulla facilisi cras fermentum. Ultrices dui sapien eget mi proin sed libero enim sed. Molestie nunc non blandit massa enim nec. Urna neque viverra justo nec ultrices dui sapien eget. Interdum velit laoreet id donec ultrices. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nunc vel risus commodo viverra maecenas. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Porttitor eget dolor morbi non arcu risus quis varius quam. Eros donec ac odio tempor orci dapibus ultrices in. In tellus integer feugiat scelerisque varius morbi enim. Placerat vestibulum lectus mauris ultrices eros. At lectus urna duis convallis convallis tellus id.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg","id":14,"dimRatio":70,"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-14" alt="" src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size"><strong>Adapting and Flexibility</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sed vulputate odio ut enim. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Enim ut tellus elementum sagittis vitae et. Id consectetur purus ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor. Quis enim lobortis scelerisque fermentum dui faucibus in ornare.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:quote {"className":"is-style-default"} -->
-<blockquote class="wp-block-quote is-style-default"><!-- wp:paragraph -->
-<p>&nbsp;Vestibulum mattis ullamcorper velit sed ullamcorper morbi. Amet consectetur adipiscing elit duis tristique sollicitudin. Tellus integer feugiat scelerisque varius. Quisque sagittis purus sit amet volutpat.&nbsp;</p>
-<!-- /wp:paragraph --><cite>A.F Maxton.</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><strong>Building a Support System</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Elit duis tristique sollicitudin nibh sit. Eu lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc. Vestibulum sed arcu non odio euismod lacinia at quis. Eu sem integer vitae justo eget magna. Sed libero enim sed faucibus turpis in eu. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:media-text {"mediaId":8,"mediaLink":"https://demo.unfoldwp.com/magze-lite/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere-com/","mediaType":"image","mediaWidth":30,"mediaSizeSlug":"full"} -->
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg" alt="" class="wp-image-8 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
-<p>Neque sodales ut etiam sit amet nisl. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. A pellentesque sit amet porttitor eget dolor morbi non. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Eu lobortis elementum nibh tellus molestie nunc. Amet purus gravida quis blandit turpis cursus in. Porta lorem mollis aliquam ut porttitor leo a.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:paragraph -->
-<p>Volutpat diam ut venenatis tellus. Posuere ac ut consequat semper viverra nam libero justo. Eget dolor morbi non arcu risus quis. Diam maecenas ultricies mi eget mauris pharetra et. Nibh cras pulvinar mattis nunc sed. Varius vel pharetra vel turpis nunc eget lorem dolor sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ac placerat vestibulum lectus mauris ultrices eros in. Est velit egestas dui id ornare arcu odio ut sem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Conclusion</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dui sapien eget mi proin. Pulvinar sapien et ligula ullamcorper malesuada proin. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Morbi leo urna molestie at. Fames ac turpis egestas sed tempus urna. Neque convallis a cras semper auctor neque vitae. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Id faucibus nisl tincidunt eget nullam non nisi. Erat velit scelerisque in dictum non consectetur a erat nam. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Ac tortor dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Donec adipiscing tristique risus nec.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>100</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 02:30:19]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 02:30:19]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 08:55:59]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 08:55:59]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[top-5-tech-trends-that-will-shape-the-future]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[headstrong-and-stylish-unveiling-the-helmeted-warrior-copy-9-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-ultimate-guide-to-hassle-free-online-shopping-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[time-well-spent-making-meetings-meaningful-and-efficient-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[exploring-innovations-in-automotive-technology-copy-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magze_single_post_style]]></wp:meta_key>
-		<wp:meta_value><![CDATA[single_style_2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[251]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[exploring-craft-and-creativity-in-old-towns]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[op-5-tech-trends-that-will-shape-the-future]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[magze_page_layout]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no-sidebar-narrow]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[How to Start a Side Hustle and Make Extra Income]]></title>
-		<link>https://demo.unfoldwp.com/magze-lifestyle/how-to-start-a-side-hustle-and-make-extra-income/</link>
-		<pubDate>Wed, 21 Feb 2024 02:39:06 +0000</pubDate>
-		<dc:creator><![CDATA[brandon]]></dc:creator>
-		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/02/21/exploring-innovations-in-automotive-technology-copy-copy-copy/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
-<p class="has-drop-cap">Augue interdum velit euismod in. Eros in cursus turpis massa tincidunt dui ut ornare. Tincidunt tortor aliquam nulla facilisi cras fermentum. Ultrices dui sapien eget mi proin sed libero enim sed. Molestie nunc non blandit massa enim nec. Urna neque viverra justo nec ultrices dui sapien eget. Interdum velit laoreet id donec ultrices. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Nunc vel risus commodo viverra maecenas. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Porttitor eget dolor morbi non arcu risus quis varius quam. Eros donec ac odio tempor orci dapibus ultrices in. In tellus integer feugiat scelerisque varius morbi enim. Placerat vestibulum lectus mauris ultrices eros. At lectus urna duis convallis convallis tellus id.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:cover {"url":"https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg","id":14,"dimRatio":70,"layout":{"type":"constrained"}} -->
-<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-14" alt="" src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
-<p class="has-text-align-center has-large-font-size"><strong>Adapting and Flexibility</strong></p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sed vulputate odio ut enim. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Enim ut tellus elementum sagittis vitae et. Id consectetur purus ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor. Quis enim lobortis scelerisque fermentum dui faucibus in ornare.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:quote {"className":"is-style-default"} -->
-<blockquote class="wp-block-quote is-style-default"><!-- wp:paragraph -->
-<p>&nbsp;Vestibulum mattis ullamcorper velit sed ullamcorper morbi. Amet consectetur adipiscing elit duis tristique sollicitudin. Tellus integer feugiat scelerisque varius. Quisque sagittis purus sit amet volutpat.&nbsp;</p>
-<!-- /wp:paragraph --><cite>A.F Maxton.</cite></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:heading {"level":3} -->
-<h3 class="wp-block-heading"><strong>Building a Support System</strong></h3>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Elit duis tristique sollicitudin nibh sit. Eu lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc. Vestibulum sed arcu non odio euismod lacinia at quis. Eu sem integer vitae justo eget magna. Sed libero enim sed faucibus turpis in eu. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:media-text {"mediaId":8,"mediaLink":"https://demo.unfoldwp.com/magze-lite/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere-com/","mediaType":"image","mediaWidth":30,"mediaSizeSlug":"full"} -->
-<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg" alt="" class="wp-image-8 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
-<p>Neque sodales ut etiam sit amet nisl. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. A pellentesque sit amet porttitor eget dolor morbi non. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Eu lobortis elementum nibh tellus molestie nunc. Amet purus gravida quis blandit turpis cursus in. Porta lorem mollis aliquam ut porttitor leo a.</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:media-text -->
-
-<!-- wp:paragraph -->
-<p>Volutpat diam ut venenatis tellus. Posuere ac ut consequat semper viverra nam libero justo. Eget dolor morbi non arcu risus quis. Diam maecenas ultricies mi eget mauris pharetra et. Nibh cras pulvinar mattis nunc sed. Varius vel pharetra vel turpis nunc eget lorem dolor sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ac placerat vestibulum lectus mauris ultrices eros in. Est velit egestas dui id ornare arcu odio ut sem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading -->
-<h2 class="wp-block-heading">Conclusion</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dui sapien eget mi proin. Pulvinar sapien et ligula ullamcorper malesuada proin. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Morbi leo urna molestie at. Fames ac turpis egestas sed tempus urna. Neque convallis a cras semper auctor neque vitae. </p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Id faucibus nisl tincidunt eget nullam non nisi. Erat velit scelerisque in dictum non consectetur a erat nam. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Ac tortor dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Donec adipiscing tristique risus nec.</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>103</wp:post_id>
-		<wp:post_date><![CDATA[2024-02-21 02:39:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2024-02-21 02:39:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2025-04-01 08:46:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2025-04-01 08:46:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[how-to-start-a-side-hustle-and-make-extra-income]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[post]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="category" nicename="health"><![CDATA[Health]]></category>
-		<category domain="category" nicename="news"><![CDATA[News]]></category>
-		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
-		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[headstrong-and-stylish-unveiling-the-helmeted-warrior-copy-9-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[the-ultimate-guide-to-hassle-free-online-shopping-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[time-well-spent-making-meetings-meaningful-and-efficient-copy-2]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[exploring-innovations-in-automotive-technology-copy-copy-copy]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[252]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[embracing-the-joy-of-snowy-escapades]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Contact Us]]></title>
 		<link>https://demo.unfoldwp.com/magze-lifestyle/contact-us/</link>
 		<pubDate>Wed, 21 Feb 2024 05:35:50 +0000</pubDate>
@@ -3718,6 +3404,144 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Posts]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/single-posts/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=186</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>186</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-01 08:57:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 08:57:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 08:57:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[single-posts]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>13</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[custom]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[#]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-05]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Single Style 2]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/188/</link>
+		<pubDate>Wed, 21 Feb 2024 07:38:14 +0000</pubDate>
+		<dc:creator><![CDATA[author@unfoldwp.com]]></dc:creator>
+		<guid isPermaLink="false">https://demo.unfoldwp.com/magze-lite/?p=188</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>188</wp:post_id>
+		<wp:post_date><![CDATA[2025-04-01 08:57:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 07:38:14]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 08:57:50]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 08:57:50]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[188]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>15</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary-menu"><![CDATA[Primary Menu]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[186]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[100]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-02-21]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-03]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_date]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2024-03-05]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -4191,6 +4015,248 @@
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
+					<item>
+		<title><![CDATA[Top 5 Tech Trends That Will Shape the Future]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/top-5-tech-trends-that-will-shape-the-future/</link>
+		<pubDate>Wed, 21 Feb 2024 02:30:19 +0000</pubDate>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/02/21/exploring-innovations-in-automotive-technology-copy-copy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Augue interdum velit euismod in. Eros in cursus turpis massa tincidunt dui ut ornare. Tincidunt tortor aliquam nulla facilisi cras fermentum. Ultrices dui sapien eget mi proin sed libero enim sed. Molestie nunc non blandit massa enim nec. Urna neque viverra justo nec ultrices dui sapien eget. Interdum velit laoreet id donec ultrices. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nunc vel risus commodo viverra maecenas. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Porttitor eget dolor morbi non arcu risus quis varius quam. Eros donec ac odio tempor orci dapibus ultrices in. In tellus integer feugiat scelerisque varius morbi enim. Placerat vestibulum lectus mauris ultrices eros. At lectus urna duis convallis convallis tellus id.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg","id":14,"dimRatio":70,"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-14" alt="" src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>Adapting and Flexibility</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sed vulputate odio ut enim. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Enim ut tellus elementum sagittis vitae et. Id consectetur purus ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor. Quis enim lobortis scelerisque fermentum dui faucibus in ornare.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:quote {"className":"is-style-default"} -->
+<blockquote class="wp-block-quote is-style-default"><!-- wp:paragraph -->
+<p>&nbsp;Vestibulum mattis ullamcorper velit sed ullamcorper morbi. Amet consectetur adipiscing elit duis tristique sollicitudin. Tellus integer feugiat scelerisque varius. Quisque sagittis purus sit amet volutpat.&nbsp;</p>
+<!-- /wp:paragraph --><cite>A.F Maxton.</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Building a Support System</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Elit duis tristique sollicitudin nibh sit. Eu lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc. Vestibulum sed arcu non odio euismod lacinia at quis. Eu sem integer vitae justo eget magna. Sed libero enim sed faucibus turpis in eu. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:media-text {"mediaId":8,"mediaLink":"https://demo.unfoldwp.com/magze-lite/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere-com/","mediaType":"image","mediaWidth":30,"mediaSizeSlug":"full"} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg" alt="" class="wp-image-8 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Neque sodales ut etiam sit amet nisl. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. A pellentesque sit amet porttitor eget dolor morbi non. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eu lobortis elementum nibh tellus molestie nunc. Amet purus gravida quis blandit turpis cursus in. Porta lorem mollis aliquam ut porttitor leo a.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p>Volutpat diam ut venenatis tellus. Posuere ac ut consequat semper viverra nam libero justo. Eget dolor morbi non arcu risus quis. Diam maecenas ultricies mi eget mauris pharetra et. Nibh cras pulvinar mattis nunc sed. Varius vel pharetra vel turpis nunc eget lorem dolor sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ac placerat vestibulum lectus mauris ultrices eros in. Est velit egestas dui id ornare arcu odio ut sem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dui sapien eget mi proin. Pulvinar sapien et ligula ullamcorper malesuada proin. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Morbi leo urna molestie at. Fames ac turpis egestas sed tempus urna. Neque convallis a cras semper auctor neque vitae. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Id faucibus nisl tincidunt eget nullam non nisi. Erat velit scelerisque in dictum non consectetur a erat nam. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Ac tortor dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Donec adipiscing tristique risus nec.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>100</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-21 02:30:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 02:30:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 08:55:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 08:55:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[top-5-tech-trends-that-will-shape-the-future]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<category domain="category" nicename="tech"><![CDATA[Tech]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[headstrong-and-stylish-unveiling-the-helmeted-warrior-copy-9-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-ultimate-guide-to-hassle-free-online-shopping-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[time-well-spent-making-meetings-meaningful-and-efficient-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[exploring-innovations-in-automotive-technology-copy-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magze_single_post_style]]></wp:meta_key>
+		<wp:meta_value><![CDATA[single_style_2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[251]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[exploring-craft-and-creativity-in-old-towns]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[op-5-tech-trends-that-will-shape-the-future]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[magze_page_layout]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no-sidebar-narrow]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[How to Start a Side Hustle and Make Extra Income]]></title>
+		<link>https://demo.unfoldwp.com/magze-lifestyle/how-to-start-a-side-hustle-and-make-extra-income/</link>
+		<pubDate>Wed, 21 Feb 2024 02:39:06 +0000</pubDate>
+		<dc:creator><![CDATA[brandon]]></dc:creator>
+		<guid isPermaLink="false">https://dev.unfoldwp.com/2024/02/21/exploring-innovations-in-automotive-technology-copy-copy-copy/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph {"dropCap":true} -->
+<p class="has-drop-cap">Augue interdum velit euismod in. Eros in cursus turpis massa tincidunt dui ut ornare. Tincidunt tortor aliquam nulla facilisi cras fermentum. Ultrices dui sapien eget mi proin sed libero enim sed. Molestie nunc non blandit massa enim nec. Urna neque viverra justo nec ultrices dui sapien eget. Interdum velit laoreet id donec ultrices. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Nunc vel risus commodo viverra maecenas. Sollicitudin tempor id eu nisl nunc mi ipsum faucibus. Porttitor eget dolor morbi non arcu risus quis varius quam. Eros donec ac odio tempor orci dapibus ultrices in. In tellus integer feugiat scelerisque varius morbi enim. Placerat vestibulum lectus mauris ultrices eros. At lectus urna duis convallis convallis tellus id.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:cover {"url":"https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg","id":14,"dimRatio":70,"layout":{"type":"constrained"}} -->
+<div class="wp-block-cover"><span aria-hidden="true" class="wp-block-cover__background has-background-dim-70 has-background-dim"></span><img class="wp-block-cover__image-background wp-image-14" alt="" src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/photography-skateboard-skate-kickflip-jump-skateboarding-201-pxhere.com_.jpg" data-object-fit="cover"/><div class="wp-block-cover__inner-container"><!-- wp:paragraph {"align":"center","placeholder":"Write title…","fontSize":"large"} -->
+<p class="has-text-align-center has-large-font-size"><strong>Adapting and Flexibility</strong></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Ultrices in iaculis nunc sed augue lacus viverra vitae congue. Sed vulputate odio ut enim. Eget aliquet nibh praesent tristique magna sit amet purus gravida. Enim ut tellus elementum sagittis vitae et. Id consectetur purus ut faucibus pulvinar elementum integer. Risus feugiat in ante metus dictum at tempor. Quis enim lobortis scelerisque fermentum dui faucibus in ornare.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:quote {"className":"is-style-default"} -->
+<blockquote class="wp-block-quote is-style-default"><!-- wp:paragraph -->
+<p>&nbsp;Vestibulum mattis ullamcorper velit sed ullamcorper morbi. Amet consectetur adipiscing elit duis tristique sollicitudin. Tellus integer feugiat scelerisque varius. Quisque sagittis purus sit amet volutpat.&nbsp;</p>
+<!-- /wp:paragraph --><cite>A.F Maxton.</cite></blockquote>
+<!-- /wp:quote -->
+
+<!-- wp:heading {"level":3} -->
+<h3 class="wp-block-heading"><strong>Building a Support System</strong></h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Elit duis tristique sollicitudin nibh sit. Eu lobortis elementum nibh tellus molestie. Amet volutpat consequat mauris nunc. Vestibulum sed arcu non odio euismod lacinia at quis. Eu sem integer vitae justo eget magna. Sed libero enim sed faucibus turpis in eu. Et molestie ac feugiat sed lectus vestibulum mattis ullamcorper. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:media-text {"mediaId":8,"mediaLink":"https://demo.unfoldwp.com/magze-lite/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere-com/","mediaType":"image","mediaWidth":30,"mediaSizeSlug":"full"} -->
+<div class="wp-block-media-text is-stacked-on-mobile" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img src="https://demo.unfoldwp.com/magze-lifestyle/wp-content/uploads/sites/2/2024/02/art-footwear-shoe-sports-equipment-walking-shoe-outdoor-shoe-1680110-pxhere.com_.jpg" alt="" class="wp-image-8 size-full"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"placeholder":"Content…"} -->
+<p>Neque sodales ut etiam sit amet nisl. Posuere urna nec tincidunt praesent semper feugiat nibh sed. Bibendum arcu vitae elementum curabitur vitae nunc sed velit. A pellentesque sit amet porttitor eget dolor morbi non. Eu ultrices vitae auctor eu augue ut lectus arcu bibendum.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Eu lobortis elementum nibh tellus molestie nunc. Amet purus gravida quis blandit turpis cursus in. Porta lorem mollis aliquam ut porttitor leo a.</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:media-text -->
+
+<!-- wp:paragraph -->
+<p>Volutpat diam ut venenatis tellus. Posuere ac ut consequat semper viverra nam libero justo. Eget dolor morbi non arcu risus quis. Diam maecenas ultricies mi eget mauris pharetra et. Nibh cras pulvinar mattis nunc sed. Varius vel pharetra vel turpis nunc eget lorem dolor sed. Egestas pretium aenean pharetra magna ac placerat vestibulum lectus mauris. Ac placerat vestibulum lectus mauris ultrices eros in. Est velit egestas dui id ornare arcu odio ut sem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading -->
+<h2 class="wp-block-heading">Conclusion</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dui sapien eget mi proin. Pulvinar sapien et ligula ullamcorper malesuada proin. Aliquet lectus proin nibh nisl condimentum id venenatis a condimentum. Morbi leo urna molestie at. Fames ac turpis egestas sed tempus urna. Neque convallis a cras semper auctor neque vitae. </p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Id faucibus nisl tincidunt eget nullam non nisi. Erat velit scelerisque in dictum non consectetur a erat nam. Est lorem ipsum dolor sit amet consectetur adipiscing elit. Ac tortor dignissim convallis aenean et tortor. Ipsum a arcu cursus vitae congue mauris. Arcu dui vivamus arcu felis bibendum ut tristique et egestas. Donec adipiscing tristique risus nec.</p>
+<!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>103</wp:post_id>
+		<wp:post_date><![CDATA[2024-02-21 02:39:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2024-02-21 02:39:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2025-04-01 08:46:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2025-04-01 08:46:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[open]]></wp:ping_status>
+		<wp:post_name><![CDATA[how-to-start-a-side-hustle-and-make-extra-income]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[post]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="category" nicename="health"><![CDATA[Health]]></category>
+		<category domain="category" nicename="news"><![CDATA[News]]></category>
+		<category domain="category" nicename="photography"><![CDATA[Photography]]></category>
+		<category domain="post_format" nicename="post-format-video"><![CDATA[Video]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[headstrong-and-stylish-unveiling-the-helmeted-warrior-copy-9-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[the-ultimate-guide-to-hassle-free-online-shopping-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[time-well-spent-making-meetings-meaningful-and-efficient-copy-2]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[exploring-innovations-in-automotive-technology-copy-copy-copy]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[252]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_old_slug]]></wp:meta_key>
+		<wp:meta_value><![CDATA[embracing-the-joy-of-snowy-escapades]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wxr_import_has_attachment_refs]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Navigation]]></title>
 		<link>https://demo.unfoldwp.com/magze-lifestyle/navigation-2/</link>
