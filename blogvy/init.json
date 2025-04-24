@@ -22,6 +22,11 @@
                 "import_name": "Article",
                 "import_path": "v4",
                 "preview_url": "https://demo.unfoldwp.com/blogvy/"
+            },
+            {
+                "import_name": "FlareBlog",
+                "import_path": "v5",
+                "preview_url": "https://demo.unfoldwp.com/blogvy-flare/"
             }
         ]
     },
